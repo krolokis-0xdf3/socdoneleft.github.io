@@ -350,6 +350,7 @@ income millionaires support taxes on income millionaires: <https://blogs.wsj.com
 #####
 # blue states vs red states
 #####o
+<<<<<<< HEAD
 # federal money
 red state welfare is real: Republican states get more federal dollars per tax dollar paid than Democratic states and federal monies represent less of the budget in blue states: <https://www.motherjones.com/kevin-drum/2017/11/please-cut-the-crap-about-red-states-subsidizing-blue-states/> https://cdn.discordapp.com/attachments/418850379518705675/640746467002155051/blog_federal_aid_share_state_budget.png
 red states take more from the federal government than they give: <https://www.theatlantic.com/business/archive/2014/05/which-states-are-givers-and-which-are-takers/361668/> https://cdn.discordapp.com/attachments/418850379518705675/469767203248668672/unknown.png
@@ -360,6 +361,12 @@ Clinton-voting counties made up 64% of the US GDP; Trump-voting counties were ju
 
 # poverty
 since 2000, poverty has grown faster in R than D districts: <https://www.brookings.edu/research/poverty-crosses-party-lines/> https://cdn.discordapp.com/attachments/418850379518705675/641087611984805888/unknown.png ```Between 2000 and 2010-14, the poor population grew faster in red districts than blue. The number of people living below the poverty line (e.g., $24,230 for a family of four in 2014) in Republican districts climbed by 49 percent between 2000 and 2010-14 compared with a 33 percent increase in Democratic districts. As a result, Republican districts accounted for 60 percent of the increase in the nation’s poor population during that time. At the same time, poverty rates rose by similar margins in both red and blue districts (3.3 and 3.2 percentage points, respectively).```
+=======
+red state welfare is real: Republican states get more federal dollars per tax dollar paid than Democratic states and federal monies represent less of the budget in blue states: <https://www.motherjones.com/kevin-drum/2017/11/please-cut-the-crap-about-red-states-subsidizing-blue-states/> https://cdn.discordapp.com/attachments/418850379518705675/640746467002155051/blog_federal_aid_share_state_budget.png
+red states take more from the federal government than they give: <https://www.theatlantic.com/business/archive/2014/05/which-states-are-givers-and-which-are-takers/361668/> https://cdn.discordapp.com/attachments/418850379518705675/469767203248668672/unknown.png
+red states are takers; blue states are makers: <https://taxfoundation.org/state-federal-aid-2018/> https://cdn.discordapp.com/attachments/418850379518705675/640906572758777877/FedAidtoStates-01.png
+Clinton-voting counties made up 64% of the US GDP; Trump-voting counties were just 36%: <https://www.brookings.edu/blog/the-avenue/2016/11/29/another-clinton-trump-divide-high-output-america-vs-low-output-america/> https://cdn.discordapp.com/attachments/418850379518705675/488749782354100235/unknown.png
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 #####c
 
 #####
@@ -1567,7 +1574,11 @@ self-reported stigma is associated with trans suicide attempt rates: https://www
 # transgender suicide rates
 #####o
 # suicide rate vs holocaust
+<<<<<<< HEAD
 suicide among holocaust concentration camps was ~1 per 4 (25000/100000): <https://www.tandfonline.com/doi/full/10.1080/13811110490271425> <https://sci-hub.se/10.1080/13811110490271425> ```Using simple estimates based on limited data, it is likely that the suicide rates in the concentration camps were 25,000 per 100,000 per year or greater. Compared to national suicide rates, which have reached as high as 60 per 100,000 per year, a suicide rate of 25,000 is enormous.```
+=======
+suicide among holocaust concentration camps was ~1 per 4: <https://www.tandfonline.com/doi/full/10.1080/13811110490271425> <https://sci-hub.se/10.1080/13811110490271425> Using simple estimates based on limited data, it is likely that the suicide rates in the concentration camps were 25,000 per 100,000 per year or greater. Compared to national suicide rates, which have reached as high as 60 per 100,000 per year, a suicide rate of 25,000 is enormous.
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 
 # suicide rate vs slaves
 suicide among slaves was ~.72 per 100,000: <https://scholarworks.montana.edu/xmlui/handle/1/1654> <https://scholarworks.montana.edu/xmlui/bitstream/handle/1/1654/KneelandL0506.pdf> <http://web.archive.org/web/20191102161632/https://scholarworks.montana.edu/xmlui/bitstream/handle/1/1654/KneelandL0506.pdf> ```There are a few sources that provide numbers. Lester includes a table of suicide rates calculated from the 1850 census. 180 According to this, slaves in 1850 had a suicide rate of .72 per 100,000 while whites had a rate of 2.37 and freed slaves a rate of 1.15. P. D. Escott searched Federal Writer's Project Slave Narratives and documented resistance. In his list, which included a total of 413 incidents of resistance, there were seven incidents of suicide. This leaves suicide to account for 1.2% of incidents of resistance.```
@@ -1725,9 +1736,12 @@ the happiness benefits of additional sex decrease with frequency of sex: <https:
 # happiness
 regardless of frequency of sex, romantic relationships result in increased happiness: <https://journals.sagepub.com/doi/full/10.1177/1948550615616462> https://cdn.discordapp.com/attachments/418850379518705675/565905551851126824/unknown.png
 
+<<<<<<< HEAD
 # stress
 when relationship-havers are stressed, they react more than usual to relationship experiences: <https://psycnet.apa.org/record/2009-12105-004> <https://sci-hub.se/10.1037/a0015663> https://cdn.discordapp.com/attachments/418850379518705675/641082114649096205/unknown.png
 
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 # divorce
 reasons people get divorced: <https://institutedfa.com/Leading-Causes-Divorce/> https://cdn.discordapp.com/attachments/418850379518705675/640933129720430610/Divorce_cause.png
 
@@ -1821,6 +1835,7 @@ sex ed should be started in kindergarten: https://www.theatlantic.com/family/arc
 #####o
 # happiness
 parents are often less happy than non-parents; most of this is explained by social policies like parental leave and subsidized child care: <https://www.washingtonpost.com/news/wonk/wp/2016/07/06/many-americans-will-tell-you-having-kids-made-them-happier-theyre-probably-lying/> <http://epc2014.princeton.edu/papers/140098> https://cdn.discordapp.com/attachments/418850379518705675/570855599844360192/parents.png
+<<<<<<< HEAD
 
 # punishment
 harsh punishments of children in education increase internalization of poor mental health: <https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0828-3> <http://sci-hub.tw/10.1186/s12888-016-0828-3> https://cdn.discordapp.com/attachments/418850379518705675/636488559855009794/unknown.png
@@ -1832,6 +1847,8 @@ At the outset of their study, Bakermans-Kranenburg and her colleagues had screen
 https://journals.sagepub.com/doi/abs/10.1111/j.1467-8721.2008.00571.x
 https://www.cambridge.org/core/journals/development-and-psychopathology/article/biological-sensitivity-to-context-i-an-evolutionarydevelopmental-theory-of-the-origins-and-functions-of-stress-reactivity/2163EB3424FF3B40824916B17CA4DF9F
 https://www.cambridge.org/core/journals/development-and-psychopathology/article/biological-sensitivity-to-context-ii-empirical-explorations-of-an-evolutionarydevelopmental-theory/37B54CEEC5995B9A26B5FFE57EAF3966
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 #####c
 
 #####
@@ -1860,8 +1877,13 @@ in 2014, pregnancy killed 23.8 per 100,000 <https://en.wikipedia.org/wiki/Matern
 23.8/0.62=38.39
 
 # banning doesn't work
+<<<<<<< HEAD
 abortion rates are surprisingly similar worldwide, suggesting banning abortion doesn't substantially reduce the number of abortions: <http://news.bbc.co.uk/2/hi/8305217.stm> <https://www.guttmacher.org/fact-sheet/induced-abortion-worldwide> https://cdn.discordapp.com/attachments/418850379518705675/641405443897294860/46545633_abortion_rates_global_466gr.png
 <https://www.economist.com/graphic-detail/2012/01/19/global-abortion-rates> <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)61786-8/fulltext> <http://sci-hub.tw/10.1016/S0140-6736(11)61786-8> https://cdn.discordapp.com/attachments/418850379518705675/641405396195606548/20120128_WOC446.png
+=======
+abortion rates are surprisingly similar worldwide, suggesting banning abortion doesn't substantially reduce the number of abortions: <http://news.bbc.co.uk/2/hi/8305217.stm> http://newsimg.bbc.co.uk/media/images/46545000/gif/_46545633_abortion_rates_global_466gr.gif
+https://www.economist.com/graphic-detail/2012/01/19/global-abortion-rates
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 
 # poland
 before illegalization in 1990, Poland had about 100-200,000 abortions per year (adjust this to live births): <http://www.johnstonsarchive.net/policy/abortion/ab-poland.html>
@@ -1994,8 +2016,11 @@ females with congenital adrenal hyperplasia (CAH) who cannot produce androgen (a
 # social conditioning
 performing gender may cause hormone differences (rather than the reverse): <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4653185/> Using a novel experimental design, participants (trained actors) performed a specific type of competition (wielding power) in stereotypically masculine vs. feminine ways. We hypothesized in H1 (stereotyped behavior) that wielding power increases testosterone regardless of how it is performed, vs. H2 (stereotyped performance), that wielding power performed in masculine but not feminine ways increases testosterone. We found that wielding power increased testosterone in women compared with a control, regardless of whether it was performed in gender-stereotyped masculine or feminine ways. Results supported H1 over H2: stereotyped behavior but not performance modulated testosterone. These results also supported theory that competition modulates testosterone over masculinity. Our findings thus support a gender→testosterone pathway mediated by competitive behavior. Accordingly, cultural pushes for men to wield power and women to avoid doing so may partially explain, in addition to heritable factors, why testosterone levels tend to be higher in men than in women: A lifetime of gender socialization could contribute to “sex differences” in testosterone. Our experiment opens up new questions of gender→testosterone pathways, highlighting the potential of examining nature/nurture interactions and effects of socialization on human biology.
 
+<<<<<<< HEAD
 unformatted
 
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 # sexism: bias
 # researchers demonstrated a general evaluative bias against women
 https://psycnet.apa.org/doiLanding?doi=10.1037/0033-2909.105.3.409
@@ -2089,6 +2114,7 @@ more persuasive posts on /r/ChangeMyView tend to be shorter, earlier in the thre
 #####c
 
 #####
+<<<<<<< HEAD
 # politics
 #####o
 psychological profiles of liberals, conservatives, and libertarians: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042366> https://cdn.discordapp.com/attachments/418850379518705675/641092115794755614/unknown.png
@@ -2098,6 +2124,8 @@ political identity precedes racial, religious, and sexual identity: <https://fiv
 #####c
 
 #####
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 # video games
 #####o
 a metastudy of 24 studies demonstrates that violent video game use causes increased physical aggression, controlling for prior aggression and race: <https://www.scientificamerican.com/article/yes-violent-video-games-trigger-aggression-but-debate-lingers/> <https://www.pnas.org/content/115/40/9882.short> <https://sci-hub.se/10.1073/pnas.1611617114> https://cdn.discordapp.com/attachments/418850379518705675/565936758970122261/unknown.png 
@@ -2383,9 +2411,12 @@ atheist children are less selfish than religious: <https://www.independent.co.uk
 # sexism
 religiosity is associated with sexism, fundamentalism, right-wing authoritarianism, and social dominance orientation among atheists, Muslims, and Christians: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286999/> https://cdn.discordapp.com/attachments/418850379518705675/568522347250843669/unknown.png
 
+<<<<<<< HEAD
 # racism
 religiosity is associated with racism: <https://www.psychologytoday.com/us/blog/colorstruck/201006/does-religion-breed-racism> <https://journals.sagepub.com/doi/abs/10.1177/1088868309352179> <http://sci-hub.tw/10.1177/1088868309352179http://sci-hub.tw/10.1177/1088868309352179> https://cdn.discordapp.com/attachments/418850379518705675/641710508465979436/unknown.png
 
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 # statism
 mentioning religion increases support for existing political systems among the religious: <https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12353> https://cdn.discordapp.com/attachments/418850379518705675/540435143127728129/pops12353-fig-0001-m.png
 #####c
@@ -2550,10 +2581,13 @@ watch the founder of Project Vertias avoid answering any questions about that fi
 fox news viewers are more uninformed than those that consume no media at all (2012 poll): <http://publicmind.fdu.edu/2012/confirmed/final.pdf> <https://www.inquisitr.com/241677/study-fox-news-viewers-less-informed-than-those-who-watch-no-news-at-all/> https://cdn.discordapp.com/attachments/418850379518705675/471458654663606298/unknown.png
 ^ a more recent study found that fox news viewers are pretty typical (for just 3 questions): <http://publicmind.fdu.edu/2015/false/> https://cdn.discordapp.com/attachments/418850379518705675/471460565827452928/unknown.png
 fox news thought that antifa was going to start a civil war on 04 November 2017: <https://rationalwiki.org/wiki/November_4th_Antifa_Civil_War> https://rationalwiki.org/w/images/7/77/Fox_News_Antifa_Plans_to_Overthrow_President.jpg
+<<<<<<< HEAD
 
 fox news edited out booing at two trump events:
 https://www.businessinsider.com/trump-booed-ufc-fight-video-fox-friends-cheers-2019-11
 https://www.mediamatters.org/fox-friends/fox-friends-edits-boos-out-video-trump-attending-world-series
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 #####c
 #####c
 
@@ -2793,7 +2827,11 @@ texas republicans are purging naturalized citizens from voter rolls: https://sla
 https://www.axios.com/donald-trump-private-schedules-leak-executive-time-34e67fbb-3af6-48df-aefb-52e02c334255.html
 
 # impeachment
+<<<<<<< HEAD
 watergate reduced public support for Nixon, who had approval ratings in the 50's-70's beforehand: <https://www.pewresearch.org/fact-tank/2019/09/25/how-the-watergate-crisis-eroded-public-support-for-richard-nixon/> https://cdn.discordapp.com/attachments/418850379518705675/640985916458008586/unknown.png
+=======
+watergate reduced public support for Nixon, who had approval ratings in the 40's beforehand: <https://www.pewresearch.org/fact-tank/2019/09/25/how-the-watergate-crisis-eroded-public-support-for-richard-nixon/> https://cdn.discordapp.com/attachments/418850379518705675/640985916458008586/unknown.png
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 
 # corruption
 about $16 million from the Trump campaign, other Republican campaigns, and the federal government have been spent on Trump properties: <https://projects.propublica.org/paying-the-president/> https://cdn.discordapp.com/attachments/418850379518705675/634208378817609748/unknown.png
@@ -3031,7 +3069,11 @@ successful: <https://www.nber.org/papers/w21397> ```We show that reforms yielded
 George Bush, 29 January 2002, includes Iraq in the axis of evil that will export terror like 9/11: <https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-22> **Our second goal is to prevent regimes that sponsor terror from threatening America or our friends and allies with weapons of mass destruction. Some of these regimes have been pretty quiet since September the 11th, but we know their true nature.** North Korea is a regime arming with missiles and weapons of mass destruction, while starving its citizens. Iran aggressively pursues these weapons and exports terror, while an unelected few repress the Iranian people's hope for freedom. **Iraq continues to flaunt its hostility toward America and to support terror. The Iraqi regime has plotted to develop anthrax and nerve gas and nuclear weapons for over a decade. This is a regime that has already used poison gas to murder thousands of its own citizens, leaving the bodies of mothers huddled over their dead children. This is a regime that agreed to international inspections, then kicked out the inspectors. This is a regime that has something to hide from the civilized world.** States like these and their terrorist allies constitute an axis of evil, arming to threaten the peace of the world. By seeking weapons of mass destruction, these regimes pose a grave and growing danger. They could provide these arms to terrorists, giving them the means to match their hatred. They could attack our allies or attempt to blackmail the United States. In any of these cases, the price of indifference would be catastrophic.
 George Bush, 07 October 2002, alleges Iraq could harbor Al-Qaeda in the future: <https://georgewbush-whitehouse.archives.gov/news/releases/2002/10/20021007-8.html> We know that Iraq and the al Qaeda terrorist network share a common enemy -- the United States of America. We know that Iraq and al Qaeda have had high-level contacts that go back a decade. Some al Qaeda leaders who fled Afghanistan went to Iraq. These include one very senior al Qaeda leader who received medical treatment in Baghdad this year, and who has been associated with planning for chemical and biological attacks. We've learned that Iraq has trained al Qaeda members in bomb-making and poisons and deadly gases. And we know that after September the 11th, Saddam Hussein's regime gleefully celebrated the terrorist attacks on America. Iraq could decide on any given day to provide a biological or chemical weapon to a terrorist group or individual terrorists. Alliance with terrorists could allow the Iraqi regime to attack America without leaving any fingerprints. Some have argued that confronting the threat from Iraq could detract from the war against terror. To the contrary; confronting the threat posed by Iraq is crucial to winning the war on terror. When I spoke to Congress more than a year ago, I said that those who harbor terrorists are as guilty as the terrorists themselves. Saddam Hussein is harboring terrorists and the instruments of terror, the instruments of mass death and destruction. And he cannot be trusted. The risk is simply too great that he will use them, or provide them to a terror network.
 
+<<<<<<< HEAD
 unformatted
+=======
+UNFORMATTED
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 https://theintercept.com/2015/04/10/twelve-years-later-u-s-media-still-cant-get-iraqi-wmd-story-right/
 https://www.nytimes.com/interactive/2014/12/03/world/middleeast/chemical-weapons-iraq-pentagon-secrets.html?mtrref=undefined&gwh=1815DFE1A23174B58BADFCE02EABEADE&gwt=pay
 https://www.theguardian.com/commentisfree/2013/feb/27/bush-administration-sold-iraq-war
@@ -3590,6 +3632,7 @@ firearm control is effective at reducing illegal firearm ownership: <https://www
 #####
 # violent crime and homicide
 #####o
+<<<<<<< HEAD
 # policy: right to carry
 right to carry laws are associated with 13-15% higher overall violent crime rates 10 years after adoption: <http://www.nber.org/papers/w23510.pdf>	 https://cdn.discordapp.com/attachments/418850379518705675/640006587330723840/unknown.png
 
@@ -3601,6 +3644,16 @@ even controlling for race and poverty, more guns correlate with more overall hom
 
 # prevalence: countywide
 firearm prevalence correlates with overall violent crime: <http://www.cjcj.org/uploads/cjcj/documents/jpj_firearm_ownership.pdf> ```Criminologists and other researchers have attempted to understand whether there is a connection between firearm prevalence and crime. Some experts have argued that prevalence of firearms increases crime, while others have argued it reduces crime. The purpose of this study was to further investigate and clarify this relationship. The current analysis used suicide by firearm as a proxy for firearm ownership. Examining violent crime, homicide, rape, robbery, and assault for 1,997 counties in the United States, the findings indicate that increased prevalence of firearms was associated with increased violent crime, homicide, rape, robbery, and assault. The results of this study suggest that a decrease in prevalence of firearms has the potential to decrease violent crime in the United States.```
+=======
+# policy
+right to carry laws are associated with 13-15% higher violent crime rates 10 years after adoption: <http://www.nber.org/papers/w23510.pdf>	 https://cdn.discordapp.com/attachments/418850379518705675/640006587330723840/unknown.png
+
+# race
+even controlling for race and poverty, more guns correlate with more homicides: <https://www.ajpmonline.org/article/S0749-3797(15)00072-0/pdf> https://cdn.discordapp.com/attachments/418850379518705675/455623884570624001/unknown.png
+
+# prevalence: countywide
+firearm prevalence correlates with violent crime: http://www.cjcj.org/uploads/cjcj/documents/jpj_firearm_ownership.pdf Criminologists and other researchers have attempted to understand whether there is a connection between firearm prevalence and crime. Some experts have argued that prevalence of firearms increases crime, while others have argued it reduces crime. The purpose of this study was to further investigate and clarify this relationship. The current analysis used suicide by firearm as a proxy for firearm ownership. Examining violent crime, homicide, rape, robbery, and assault for 1,997 counties in the United States, **the findings indicate that increased prevalence of firearms was associated with increased violent crime, homicide, rape, robbery, and assault.** The results of this study suggest that a decrease in prevalence of firearms has the potential to decrease violent crime in the United States.
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 
 # prevalence: housewide
 <http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2014.302042> Objectives. We examined the relationship between gun ownership and stranger versus nonstranger homicide rates. Methods. Using data from the Supplemental Homicide Reports of the Federal Bureau of Investigation’s Uniform Crime Reports for all 50 states for 1981 to 2010, we modeled stranger and nonstranger homicide rates as a function of state-level gun ownership, measured by a proxy, controlling for potential confounders. We used a negative binomial regression model with fixed effects for year, accounting for clustering of observations among states by using generalized estimating equations. Results. We found no robust, statistically significant correlation between gun ownership and stranger firearm homicide rates. However, **we found a positive and significant association between gun ownership and nonstranger firearm homicide rates. The incidence rate ratio for nonstranger firearm homicide rate associated with gun ownership was 1.014 (95% confidence interval = 1.009, 1.019).** Conclusions. Our findings challenge the argument that gun ownership deters violent crime, in particular, homicides.
@@ -3867,6 +3920,7 @@ the USSR's ideology made begging reduction much more difficult: <https://www.cai
 #####
 # economics: post-60's decline
 #####o
+<<<<<<< HEAD
 # bad decisions
 Weitzman-Easterly-Fisher hypothesis (rejected by Allen): tfp growth did not slow -- return to capital slowed from insufficient labor: <https://www.jstor.org/stable/pdf/3131928.pdf> <https://sci-hub.se/10.1111/0008-4085.00103> https://cdn.discordapp.com/attachments/418850379518705675/641076509414522911/unknown.png ```Productivity in these arguments was calculated with a standard Cobb-Douglas framework with constant factor shares like those in the West. Weitzman 1970 challenged this interpretation by estimating a production function for the USSR. He concluded that the Cobb-Douglas specification was incorrect, and that the Soviet experience was better represented by a CES function with an elasticity of substitution between capital and labour of .4. In this framework, the growth deceleration is due to diminishing returns to capital; there is not evidence of a fall in TFP growth. The growth slowdown, in other words, does not indicate poor institutional performance. Easterley and Fisher have redone the econometrics with more recent data and confirmed the elasticity of substitution. They have been reluctant, however, to exonerate Soviet institutions.``````One indicator of the change is unfilled vacancies on the first shift, which rose from 1 per cent in 1960, to 4.9 per cent in 1970, to 7.3 per cent in 1975, then to 9.9 per cent in 1980, and finally hit 12.2 per cent in 1985 Rumer 1989, 199–200. In the 1970s a Gosplan research director reported that 10–12 per cent of the increment in real fixed capital was unutilized, owing to a shortage of labour Rumer 1989, 202. and that proportion could only have increased in the 1980s. The capital stock rose without a corresponding rise in GDP because there was no labour to operate the new capacity.```
 Allen hypothesis: ```Weitzman’s econometrics imply a value of 0.403 – a figure confirmed by Easterly and Fischer ~1995, 357! for the whole economy. But 0.4 is an unusually low value. Evidence for Japan and other advanced capitalist economies suggests a value of 1.0 or even greater ~Easterly and Fischer 1995, 359–61; Duffy and Papageorgiou 2000!. While simulations using an elasticity of substitution of 0.403 imply a growth slowdown, simulations with a value of 1.0 do not. With more substitutability between capital and labour, diminishing returns to capital are not substantial enough to cause stagnation, and this is why a high investment rate paid off in Japan but not in the USSR.``````Weitzman and Easterly and Fischer speculate on reasons why the elasticity of substitution might have been lower in the USSR than elsewhere, without coming to firm conclusions. This is good; for, I will argue, the value of 0.4 is an illusion. The low measured value of the elasticity reflects massive errors in Soviet investment strategy rather than a real difference in technology. It was not purely happenstance that these errors occurred in the 1970s and 1980s; for the end of the surplus labour economy posed new management problems, and the party leadership bungled them.```
@@ -3874,13 +3928,21 @@ Allen hypothesis: ```Weitzman’s econometrics imply a value of 0.403 – a figu
 # planning
 the USSR's non-mathematical, "command economy" planning was unable to handle increasingly complex production chains: <https://thenextrecession.files.wordpress.com/2018/10/sovietplanningltc_seongjin_urpe20180928.pdf> Stalinist planners tried to resolve the problem of complexity inherent in a planned economy by concentrating on a limited number of sectors. Indeed, Gosplan planned only a few strategic industries, targeting the ministries and not individual companies. [....] In 1951, Gosplan’s Five-Year Plan was compiled for 127 products, while material balances, the main tool of planning, were prepared for 60 products, although there were millions of products in contemporary Russia (Gregory, 2004: 117, 152). [....] Accurate techniques like input-output tables or optimal linear programming, which could balance supply and demand, were never applied to Stalinist planning. Gosplan planned to produce goods or services on an aggregated, rather than disaggregated basis, so balancing the national economy through consistent planning was impossible from the start. In fact, Stalinist planning was not meant to achieve a balanced national economy: unbalanced growth was not a problem to be avoided but tolerated and even promoted.
 the USSR's incentives system encouraged playing it safe, not playing it well: <https://www.jec.senate.gov/reports/100th%20Congress/Gorbachev's%20Economic%20Plan%20Volume%20I%20(1438).pdf> ```From the point of view of suppliers, the willingness of Soviet managers to pursue costs savings through asset replacement is deterred by what a leading Soviet investment expert terms "self reproduction", the propensity toward the perpetuation of existing technology, which has assured sources of material supply and provides near-certain production bonuses.``````Reliance on longstanding sources of materials supply to insure against external (to the enterprise or ministry) supply disruptions also slows technical advance.3 2 Centralized planning promises a producer an adequate allocation of necessary inputs but provides no guarantee of timely and sufficient delivery. As a result, a good deal of Soviet machinery is produced in small machine shops attached to the consuming organization rather than in large-scale machinebuilding ministries. Only the specialized ministries, however, can afford to support the research and testing facilities required to develop advanced technology. To the degree that the propensity toward vertical integration (self-sufficiency) prevails, Soviet industry forgoes the benefits of division of labor that characterize modern industry in market economies.``````Technological backwardness is also explained by insufficient supplier initiative. In market economies, most technical progress at the plant level originates in sales pressure by equipment suppliers. The basic Soviet shortcoming is institutional. In the Soviet system, research and development is separated originally from production. The incentives for R&D organizations reward expenditures of budget allocations more than completion of projects or the satisfaction of consumer demand.```
+=======
+# planning
+the USSR's non-mathematical, "command economy" planning was unable to handle increasingly complex production chains: <https://thenextrecession.files.wordpress.com/2018/10/sovietplanningltc_seongjin_urpe20180928.pdf> Stalinist planners tried to resolve the problem of complexity inherent in a planned economy by concentrating on a limited number of sectors. Indeed, Gosplan planned only a few strategic industries, targeting the ministries and not individual companies. [....] In 1951, Gosplan’s Five-Year Plan was compiled for 127 products, while material balances, the main tool of planning, were prepared for 60 products, although there were millions of products in contemporary Russia (Gregory, 2004: 117, 152). [....] Accurate techniques like input-output tables or optimal linear programming, which could balance supply and demand, were never applied to Stalinist planning. Gosplan planned to produce goods or services on an aggregated, rather than disaggregated basis, so balancing the national economy through consistent planning was impossible from the start. In fact, Stalinist planning was not meant to achieve a balanced national economy: unbalanced growth was not a problem to be avoided but tolerated and even promoted.
+the USSR's incentives system encouraged playing it safe, not playing it well: <https://www.jec.senate.gov/reports/100th%20Congress/Gorbachev's%20Economic%20Plan%20Volume%20I%20(1438).pdf> From the point of view of suppliers, the willingness of Soviet managers to pursue costs savings through asset replacement is deterred by what a leading Soviet investment expert terms "self reproduction", the propensity toward the perpetuation of existing technology, which has assured sources of material supply and provides near-certain production bonuses. [....] Reliance on longstanding sources of materials supply to insure against external (to the enterprise or ministry) supply disruptions also slows technical advance.3 2 Centralized planning promises a producer an adequate allocation of necessary inputs but provides no guarantee of timely and sufficient delivery. As a result, a good deal of Soviet machinery is produced in small machine shops attached to the consuming organization rather than in large-scale machinebuilding ministries. Only the specialized ministries, however, can afford to support the research and testing facilities required to develop advanced technology. To the degree that the propensity toward vertical integration (self-sufficiency) prevails, Soviet industry forgoes the benefits of division of labor that characterize modern industry in market economies. [....] Technological backwardness is also explained by insufficient supplier initiative. In market economies, most technical progress at the plant level originates in sales pressure by equipment suppliers. The basic Soviet shortcoming is institutional. In the Soviet system, research and development is separated originally from production. The incentives for R&D organizations reward expenditures of budget allocations more than completion of projects or the satisfaction of consumer demand.
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 
 # intensive and extensive growth
 until the 1980's, the USSR did not prioritize "intensive" growth: <https://www.jec.senate.gov/reports/100th%20Congress/Gorbachev's%20Economic%20Plan%20Volume%20I%20(1438).pdf> As both Soviet and Western observers of Soviet economic development have repeatedly said,' the traditional Soviet approach to growth has stressed the rapid infusion of labor, fixed capital, and raw materials into industry. Compared with the path followed by industrializing market economies, there has been proportionately far less effort to increase the productivity of either existing or new manpower and capital assets. Since 1960, the USSR-among the major industrial economies-has experienced the most rapid growth of employment and, along with Japan, the fastest growth of fixed capital stock. In sharp contrast, the Soviet Union has shown the lowest rate of increase in both labor and capital productivity (table 1). In official Soviet jargon the traditional approach is termed "extensive" and the alternative path of stress upon productivity as "intensive". While Soviet planners have continually accorded lip service to productivity objectives under the rubric of "hidden production reserves", they have embraced intensive development as a major policy focus only within the past decade.
 as a result, the USSR invested little into factory and machine replacement or modernization: <https://www.jec.senate.gov/reports/100th%20Congress/Gorbachev's%20Economic%20Plan%20Volume%20I%20(1438).pdf> In the mid-1970's, 56 percent of U.S. industrial investment was directed toward replacement and modernization. In the Soviet Union the proportion was only 29 percent in the late 1970's. While the U.S. proportion may be too high a standard for the Soviet Union, given slower U.S. industrial growth, some Soviet economists had recommended that the Soviet share should be doubled or tripled. The replacement share has in fact been steadily rising during the 1981-85 Five Year Plan, reaching 35 percent in 1984. [....] The advantages of an intensified replacement effort are several fold, according to special surveys carried out in the USSR. Labor productivity is said to be about 50 percent and capital productivity 86 percent higher than in new plant construction. These results reportedly were attained with cost savings of one half to two-thirds and with capacity being brought on stream 3-3.5 times as rapidly. [....] The accelerated retirement guidelines adopted in 1975, as noted earlier, have not been implemented. Official retirements for wear and tear, as reported in the annual statistical handbook, have shown no significant change. [....] During the 1970's the average age (number of years in production) of current machinery output rose significantly. The share of new products fell from 4.3 to 2.5 percent while the share of machinery in production for more than 10 years climbed from 20 to 28 percent.
 
 # research and development: military spending
+<<<<<<< HEAD
 military research remained innovative while civilian research fell behind: <https://www.jstor.org/stable/pdf/3131928.pdf> <https://sci-hub.se/10.1111/0008-4085.00103> ```The increase in defence spending may have lowered productivity growth, however, by diverting R&D resources from civilian to military innovation. It is difficult to measure the rate of invention, but the available indicators suggest that it was declining in the USSR, at least for the civilian economy. The Soviets did publish considerable statistics on the number of new prototypes brought into use. While such numbers are always hard to interpret, Kontorovich ~1987, 1990! has argued that they indicate the volume of newly available technologies, and Amann ~1986! has pressed them into service. They show a decline in the absolute number of new inventions brought into use each year from the 1960s to 1985. Kontorovich ~1990, 267! has divided them into civilian and military innovations and argued that the fall was largely confined to the civilian sector.``````If the Cold War was responsible for the drop in Soviet productivity growth, then it accounts for over half of the Soviet growth slowdown. TFP growth dropped from 1.5 per cent per year to 20.5 per cent between the 1960s and 1980–85. Reversing the productivity slowdown by adding 2 per cent to the 1980–85 GNP growth rate increases the latter from 2 to 4 per cent per year. This is still less than the 5.7 per cent growth of the 1960s, but certainly is a much better performance.```
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 between 1950 and 1990, the USSR spent 10-20% of its GDP each year on defense (about 2x that of the USA):<https://nintil.com/2016/05/31/the-soviet-union-military-spending/> https://cdn.discordapp.com/attachments/418850379518705675/594582157100580886/defchart.png
 <https://www.jec.senate.gov/reports/100th%20Congress/Gorbachev's%20Economic%20Plan%20Volume%20I%20(1438).pdf> The explanations for lagging Soviet technological progress, with its unfavorable consequences for the policy of intensive development, lie mainly in managerial incentives, the institutio nal relationships between research and development and production, and the technological drain imposed the priority given to defense production. Technological progress in market economies depends upon both consumer and supplier initiatives. In the Soviet system, the influence of the consumer is weak, except in defense production where the initiative comes from the Ministry of Defense with reinforcement from the top leadership.
 about half of research and development funds and about half of new machine tools went to the defence industry: <https://www.amazon.com/Victory-Administrations-Strategy-Hastened-Collapse/dp/0871136333> The eleventh five-year plan that was being developed by the CPSU reflected this preoccupation and concern. It gave a very high priority for overcoming the perceived lag with the West in electronics. The plan called for a rise in output of industrial robots from 13,000 to 28,000 and machine tool development centers from 2,500 to 10,700. In the first two years of the new plan, investment in engineering-sector facilities for research and development, testing, and evaluation was said to be 50 percent above the funding for the whole of the previous five years. And R&D funds were to be especially concentrated on high-tech projects. **The trouble was that the best Soviet resources in the field were being directed toward the military-industrial base. Half of the machine tools were going to defense enterprises, which also employed the best scientists. At least half of all research and development expenditures were for the military. And the Reagan defense buildup—particularly its emphasis on emerging technologies—meant that more resources needed to be shifted to defense.** [....] The temper of the times meant that Gorbachev would be devoting even more to defense than had been the case in the past. The new five-year plan called for more spending on advanced weapons. **As Gorbachev would later admit, the planned rate of growth for defense in 1986 through 1990 was almost 8 percent per year, twice the rate of national income growth.22 All told, defense expenditures would rise an astonishing 45 percent in the next five years.**
@@ -3939,7 +4001,11 @@ the USSR reached ~90% literacy faster than other European countries: USSR: 1913 
 # democracy and authoritarianism
 #####o
 # economic disimportance
+<<<<<<< HEAD
 Stalin was not necessary: collectivization accounts for just 12.5% of the USSR's economic growth between 1928 and 1939 (and most of that was because terror moved peasants into the cities; 82.5% of the gorwth is explained by high capital reinvestment and soft budgets: <https://www.jstor.org/stable/pdf/3131928.pdf> <https://sci-hub.se/10.1111/0008-4085.00103> https://cdn.discordapp.com/attachments/418850379518705675/589762090332585985/unknown.png The simulations show that collectivization had a nega- tive effect on all indicators - GDP, investment, consumption, and, of course, pop- ulation - in the mid-1930s. However, collectivization pushed up the growth rate enough in the rest of the decade to raise GDP, capital accumulation, and consump- tion above the 1939 levels they would have realized had the agrarian system of the 1920s been preserved. Collectivization raised growth by increasing rural-urban migra- tion: First, low procurement prices lowered farm incomes below the level they would have otherwise reached. Migration increased in consequence, since it was a function of the ratio of urban to rural income. Second, the deportation of 'kulaks' and state terrorism in general increased the rate of rural-urban migration at every ratio of urban to rural consumption. Terrorism increased economic growth to that small degree.
+=======
+Stalin was not necessary: collectivization accounts for just 12.5% of the USSR's economic growth between 1928 and 1939 (and most of that was because terror moved peasants into the cities; 82.5% of the gorwth is explained by high capital reinvestment and soft budgets: <http://content.csbs.utah.edu/~mli/Economics%207004/Allen-103.pdf> https://cdn.discordapp.com/attachments/418850379518705675/589762090332585985/unknown.png The simulations show that collectivization had a nega- tive effect on all indicators - GDP, investment, consumption, and, of course, pop- ulation - in the mid-1930s. However, collectivization pushed up the growth rate enough in the rest of the decade to raise GDP, capital accumulation, and consump- tion above the 1939 levels they would have realized had the agrarian system of the 1920s been preserved. Collectivization raised growth by increasing rural-urban migra- tion: First, low procurement prices lowered farm incomes below the level they would have otherwise reached. Migration increased in consequence, since it was a function of the ratio of urban to rural income. Second, the deportation of 'kulaks' and state terrorism in general increased the rate of rural-urban migration at every ratio of urban to rural consumption. Terrorism increased economic growth to that small degree.
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 
 # censorship
 Stalin's ascent corresponded with the termination of the socialist planning debate: <https://thenextrecession.files.wordpress.com/2018/10/sovietplanningltc_seongjin_urpe20180928.pdf> All the debates on planning during the NEP suddenly stopped with Stalin’s counterrevolution in 1929. In 1931 Stalin purged and executed most of the planning experts, such as Kondratiev, Chayanov, Groman, Ginzberg, Rubin et al., branding them as Menshevik counterrevolutionaries. [...] Stalin himself discarded *The Balance of the National Economy of the USSR, 1923–24* as just “juggling with figures” (Stalin, 1954a: 178), signaling the physical termination of planning specialists. Ironically, the so-called Stalinist planned economy was born on the corpses of almost all the contemporary Marxist planners.
@@ -3954,8 +4020,11 @@ before and after the USSR, the top 1% controlled 20% of income and the top 10% c
 
 # mobility
 the societies of the USSR and Eastern Bloc had higher mobility before the transition from the communist era to the capitalist era: <https://www.sciencedirect.com/science/article/pii/S0276562416302104> https://cdn.discordapp.com/attachments/418850379518705675/564802213826789406/unknown.png The hypothesis regarding the effect of the transition  on intergenerational inequality in educational attainment is tested by introducing a dummy variable for the transitional cohort, and its interaction terms with parental education and occupational social class. With this regression specification in Model 4, Table 2, coefficients for social origins refer to the communist period. The characteristics of Model 3, particularly in terms of parental education, are largely maintained for individuals born between 1958 and 1972, which suggests that **there have not been radical changes in intergenerational social mobility patterns in post-communist societies**. Still, the coefficients for social origins and their interactions with the transitional cohort indicate that intergenerational inequality in educational attainment has been affected in the following ways: the interaction term between primary education and transitional cohort is statistically significant and has negative sign, which suggests that **the disadvantage associated with low parental education intensified in post-communist societies**. Nonetheless, the tertiary education-transitional cohort interaction coefficient indicates that **the advantage of having parents with a high level of education was simultaneously reduced**. Related trends are observed in relation to parental social class. In this case, the positive effect of salariat origin on individuals’ educational attainment declined, but the negative effect of working class origin intensified. In other words, **the gap between individuals from working and intermediate class origin widened during the transition**. This is in line with existing evidence that indicates that the workers were in privileged conditions in the communist era but that their situation deteriorated thereafter (Eyal and Townsley, 1995, Szelenyi, 2002).
+<<<<<<< HEAD
 
 unformatted
+=======
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 https://nintil.com/2017/03/14/the-soviet-union-poverty-and-inequality/
 https://www.cairn-int.info/abstract-E_ANNA_682_0357--the-excluded.htm
 https://www.jstor.org/stable/2087305
@@ -4039,10 +4108,14 @@ the USSR substantially curtailed exports -- 1932 exports were 34% of 1931, first
 
 <https://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/view/89> <http://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/view/89/90> <http://web.archive.org/web/20190419011701/https://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/download/89/90> ```During those same periods [July 1931 to June 1932] the regime drastically curtailed grain exports, from 4.7 million tons to 1.6 million tons.```
 
+<<<<<<< HEAD
 # ethnicities affected
 Stanislav Kulchytsky and Hennadiy Yefimenko state that the statistical distribution of famine's victims among the ethnicities closely reflects the ethnic distribution of the rural population of Ukraine. The more-rural Moldavian, Polish, German, and Bulgarian populations of Ukraine suffered in the same proportion as the rural Ukrainian population, while the more-urban Russians and Jews survived the famine more successfully: <http://web.archive.org/web/20191031134756/http://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0002027.pdf> https://cdn.discordapp.com/attachments/418850379518705675/641685664634765334/unknown.png ```Статистика смертності в національному розрізі за 1933 р. виглядає таким чином: Аналізуючи цю таблицю, слід пам'ятати, що в ній подається як природна смертність, так і смертність від толоду. Спрямований проти українського села терор голодом захопив усіх, хто проживав у ньому. У формах звітності за національною ознакою була зареєстрована більша кількість смертей, ніж у формах природного руху (1850,3 тис. чоловік). Частка українців серед загиблих приблизно відповідає їх питомій вазі у сільському населенні республіки. Молдавське, польське, німецьке і болгарське населення майже повністю проживало в селах. Тому воно постраждало від голоду в таких же пропорціях, як українці. Євреї мешкали більшою частиною у містах. Тому смертність серед них мало відрізнялася від нормальної. Переважна більшість росіян теж проживала в містах. Серед порівняно нечисленного населення в російських селах зареєстрована основна частина померлих. Треба прийняти до уваги, що облік смертності в містах майже не зазнав деформацій і тому був відносно повним. Навпаки, в селах органи ЗАГС спромоглися зареєструвати менше половини смертних випадків. Все це вказує на те, що терор голодом цілив своїм вістрям не в етнічних українців, а в сільське населення.```
 1927 Census: ethnicities within the Ukraine SSR: <https://en.wikipedia.org/wiki/First_All-Union_Census_of_the_Soviet_Union> <http://www.demoscope.ru/weekly/ssp/sng_nac_26.php?reg=1752> https://cdn.discordapp.com/attachments/418850379518705675/641695638123446282/unknown.png
 proportions: https://cdn.discordapp.com/attachments/418850379518705675/641712663969398822/unknown.png
+=======
+# reserves
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 
 # regions affected
 regions affected:  <https://www.jstor.org/stable/pdf/152086.pdf> https://cdn.discordapp.com/attachments/418850379518705675/589912399083995149/unknown.png
@@ -4589,6 +4662,7 @@ immunizaitons would substantially improve a pandemic scenario: <https://www.ncbi
 #####
 # diet
 #####o
+<<<<<<< HEAD
 # scientific consensus
 <https://jandonline.org/article/S0002-8223(09)00700-7/fulltext> <https://sci-hub.se/10.1016/j.jada.2009.05.027> ```It is the position of the American Dietetic Association that appropriately planned vegetarian diets, including total vegetarian or vegan diets, are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.```
 
@@ -4596,6 +4670,10 @@ immunizaitons would substantially improve a pandemic scenario: <https://www.ncbi
 vegan-vegetarian-pescetarian diets are associated with significantly reduced GHG emissions and land use, but insignificantly changed water use: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797> https://cdn.discordapp.com/attachments/418850379518705675/635718330728185856/unknown.png
 
 # animal abilities
+=======
+vegan-vegetarian-pescetarian diets are associated with significantly reduced GHG emissions and land use, but insignificantly changed water use: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797> https://cdn.discordapp.com/attachments/418850379518705675/635718330728185856/unknown.png
+
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 many animals have the ability to count: <https://www.nytimes.com/2018/02/05/science/animals-count-numbers.html> <http://archive.is/Oi6ql> 
 #####c
 
@@ -4967,6 +5045,12 @@ political extremists are more likely to be politically engaged: <https://www.peo
 in 2016: housing fires from electrical failure killed 480 people and injured 1260 people (1740 total, 0.5 per 100,000):  <https://www.nfpa.org/News-and-Research/Data-research-and-tools/Electrical/Electrical> <https://www.nfpa.org/-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/Fire-causes/osHomeElectricalFiresTables.pdf>
 in 2016/17: electrical fires in the UK killed or injured 1380 people (2 per 100,000): <https://www.electricalsafetyfirst.org.uk/about-us/policies-and-research/statistics-england/> <https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables#fatalities-and-casualties>
 
+<<<<<<< HEAD
+=======
+harsh punishments of children in education increase internalization of poor mental health: <https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0828-3> <http://sci-hub.tw/10.1186/s12888-016-0828-3> https://cdn.discordapp.com/attachments/418850379518705675/636488559855009794/unknown.png
+parent training significantly improves child behavior, but less so for economically disadvantaged families: <https://www.sciencedirect.com/science/article/pii/S0272735805001169> https://cdn.discordapp.com/attachments/418850379518705675/588301113233768448/unknown.png ```The results from moderator analyses give insight into pragmatic considerations in using parent training. For example, individually delivered parent training is far superior to group delivered parent training in helping families facing economic disadvantage. Also, there is no support for including supplements to basic parent training and parent training seems to be robust against age effects.```
+
+>>>>>>> f9b291f1f0be9075ac88cc7e54e5285c90d244bf
 about 10,000 "model" bills are passed per year in the united states: <https://mobile.twitter.com/robodellaz/status/1113868879338434560> <https://www.azcentral.com/pages/interactives/asbestos-sharia-law-model-bills-lobbyists-special-interests-influence-state-laws/> https://cdn.discordapp.com/attachments/418850379518705675/640218327679107103/unknown.png
 
 about half of the difference in turnout between national and local elections can be attributed to 	election timing: <https://www.ppic.org/content/pubs/report/R_302ZHR.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640243630623293440/unknown.png ```In this report, Zoltan Hajnal, Paul Lewis, and Hugh Louch offer a detailed description of local turnout patterns and analyze the factors associated with high and low participation rates. Their results indicate that about half the difference in voter turnout across California cities can be traced to a single factor—election timing.```
