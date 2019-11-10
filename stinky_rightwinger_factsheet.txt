@@ -2596,6 +2596,14 @@ https://www2.ed.gov/rschstat/research/pubs/misconductreview/report.pdf
 #####c
 
 #####
+# homework
+#####o
+# metastudies
+2006 meta-analysis finds a positive correlation between homework time and class grades (reading and math) and standardized test grades for 7-12th grade (+.25) but negative for K-6th grade (-.04): <https://journals.sagepub.com/doi/abs/10.3102/00346543076001001> <http://sci-hub.tw/10.3102/00346543076001001> https://cdn.discordapp.com/attachments/418850379518705675/643060485620498452/unknown.png
+2015 meta-analysis finds a positive correlation between homework time and both standardized and unstandardized assessments of mathematics and science of 0.357 for elementary, .146 for middle, and .297 for high school: <https://www.sciencedirect.com/science/article/pii/S1747938X16300628> <http://sci-hub.tw/10.1016/j.edurev.2016.11.003> https://cdn.discordapp.com/attachments/418850379518705675/643061594447806484/unknown.png
+#####c
+
+#####
 # education and iq
 #####o
 # education improves iq
