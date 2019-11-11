@@ -3843,15 +3843,14 @@ police officers and military are about 3x more likely to abuse their spouses: <h
 # ussr
 #
 #####o
-https://voxeu.org/article/soviet-economy-1917-1991-its-life-and-afterlife
-
 # unformatted
 https://nintil.com/2017/02/04/the-soviet-series-from-farm-to-factory-stalins-industrial-revolution/ https://cdn.discordapp.com/attachments/418850379518705675/474741356305186837/unknown.png
+https://voxeu.org/article/soviet-economy-1917-1991-its-life-and-afterlife
+http://src-h.slav.hokudai.ac.jp/database/SESS.html
+^ imports/exports
+^ distribution of population (better graph than centrosraffa)
 
-http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf
-https://www.jec.senate.gov/reports/100th%20Congress/Gorbachev's%20Economic%20Plan%20Volume%20I%20(1438).pdf
-
-The USSR barely prioritized efficiency, and it resulted in much less efficient production: <http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae> But, as pointed out by Nove (1972, p. 336), in the USSR, “such problems as training factory labor and building great new industrial complexes, seemed much more important than ‘efficiency’, or replacing machines by better machines”. Thus, improving the ‘efficiency’ of already installed productive capacity was not a priority of the Soviet economic system, at least until the 1970’s. In almost all the sectors of the Soviet economy, every unit of output used to demand more resources to be produced than in the Western industrialized countries. For example, the average quantity of raw materials and energy necessary to produce the same final good were, respectively, 1.6 and 2.1 times greater than in the United States in the 1970s (GAIDAR, 2007, p. 75). This situation was not due to an intrinsic ‘inefficiency’ of the central planning system. Actually, the ‘efficiency’ of installed productive capacity in the USSR was affected by the militarization of the economy, by the deterioration of the ‘discipline’ of Soviet workers and by the extreme climatic conditions in much of the country.
+The USSR barely prioritized efficiency, and it resulted in much less efficient production: <http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae> <http://web.archive.org/web/20191111115222/http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> But, as pointed out by Nove (1972, p. 336), in the USSR, “such problems as training factory labor and building great new industrial complexes, seemed much more important than ‘efficiency’, or replacing machines by better machines”. Thus, improving the ‘efficiency’ of already installed productive capacity was not a priority of the Soviet economic system, at least until the 1970’s. In almost all the sectors of the Soviet economy, every unit of output used to demand more resources to be produced than in the Western industrialized countries. For example, the average quantity of raw materials and energy necessary to produce the same final good were, respectively, 1.6 and 2.1 times greater than in the United States in the 1970s (GAIDAR, 2007, p. 75). This situation was not due to an intrinsic ‘inefficiency’ of the central planning system. Actually, the ‘efficiency’ of installed productive capacity in the USSR was affected by the militarization of the economy, by the deterioration of the ‘discipline’ of Soviet workers and by the extreme climatic conditions in much of the country.
 
 #####
 # revolution timeline
@@ -3877,9 +3876,10 @@ Russia and the USSR saw faster income growth between 1905 to 1956 (184%, 3.6%/yr
 
 # consumption
 consumption growth in the USSR was roughly equivalent to consumption growth in the OECD: growth of consumption in the USSR was higher than the OECD average 56-60 (3.8:2.5), 66-70 (4.3:3.7), and lower 50-55 (3.1:3.3), 61-65 (2.1:3.7), 71-75 (2.6:2.8), 76-79 (1.7:3.1); the average USSR:OECD ratio was .944:1: <https://www.jec.senate.gov/reports/97th%20Congress/USSR%20-%20Measures%20of%20Economic%20Growth%20and%20Development%201950-1980%20(1152).pdf> https://cdn.discordapp.com/attachments/418850379518705675/570501272478941184/unknown.png
+portion of production dedicated to producer goods and consumer goods, 1913-1975: <http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> <http://web.archive.org/web/20191111115222/http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> <https://books.google.com/books?id=ZI3HBQAAQBAJ&pg=PT335> https://cdn.discordapp.com/attachments/418850379518705675/643417880670502923/unknown.png
 
 # investment
-between 1950 and 1980, investment in the USSR increased from ~15% to ~33% of GNP: <http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> <https://www.jec.senate.gov/reports/97th%20Congress/USSR%20-%20Measures%20of%20Economic%20Growth%20and%20Development%201950-1980%20(1152).pdf> https://cdn.discordapp.com/attachments/418850379518705675/570489616529096705/unknown.png
+between 1950 and 1980, investment in the USSR increased from ~15% to ~33% of GNP: <http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> <http://web.archive.org/web/20191111115222/http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> <https://www.jec.senate.gov/reports/97th%20Congress/USSR%20-%20Measures%20of%20Economic%20Growth%20and%20Development%201950-1980%20(1152).pdf> https://cdn.discordapp.com/attachments/418850379518705675/570489616529096705/unknown.png
 between 1950 and 1979, investment in the USSR increased from ~15% to ~33% of GNP; in the rest of the OECD, it remained around 20%: <https://www.jec.senate.gov/reports/97th%20Congress/USSR%20-%20Measures%20of%20Economic%20Growth%20and%20Development%201950-1980%20(1152).pdf> https://cdn.discordapp.com/attachments/418850379518705675/570543632650731520/unknown.png
 between 1950 and 1980-190, investment in the USA went from ~15% to ~18% of GDP: <https://fred.stlouisfed.org/graph/?g=nIhY>
 
@@ -3888,7 +3888,7 @@ unformatted
 total factor productivity growth: https://cdn.discordapp.com/attachments/418850379518705675/642019287929847820/robert-allen-soviet-tfp-1928-1989.png
 
 # employment
-between 1950 and 1980, employment in industry shifted from 27 to 39%, agriculture 48 to 20%, health 8 to 17%, other 17 to 24%: <http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> https://cdn.discordapp.com/attachments/418850379518705675/570504407196631050/unknown.png
+between 1950 and 1980, employment in industry shifted from 27 to 39%, agriculture 48 to 20%, health 8 to 17%, other 17 to 24%: <http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> <http://web.archive.org/web/20191111115222/http://www.centrosraffa.org/public/bb6ba675-6bef-4182-bb89-339ae1f7e792.pdf> https://cdn.discordapp.com/attachments/418850379518705675/570504407196631050/unknown.png
 
 # mixed
 real gross product, factor inputs, and productivities: <https://www.jec.senate.gov/reports/100th%20Congress/Gorbachev's%20Economic%20Plan%20Volume%20I%20(1438).pdf> https://cdn.discordapp.com/attachments/418850379518705675/589736045155844151/unknown.png
