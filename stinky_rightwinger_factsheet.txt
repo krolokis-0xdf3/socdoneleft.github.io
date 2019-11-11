@@ -1,4 +1,5 @@
-﻿
+﻿stinky rightwinger factsheet by Socialism Done Left
+
 #####
 #
 # user instructions
@@ -277,7 +278,7 @@ North Ireland employers employ slightly more women than men: <https://www.nisra.
 list of several socialist economic planning systems: <https://spiritofcontradiction.eu/rowan-duffy/2012/06/28/which-way-the-economic-revolution>
 
 # empirics: overall
-controlling for past performance, privatized assets perform worse than public assets in the short term and about equal in the long (10yr) term: <https://www.sciencedirect.com/science/article/pii/S0378426613001052> Our main sample is based on Privatization Barometer (PB) privatizations in ‘Old’ (Western) and ‘New’ (Central and Eastern) European economies. [....] The findings highlight the importance of recognizing endogeneity and the nontrivial performance challenges facing newly private enterprises in a framework with agency and expropriation costs. The tradeoff is most pronounced for enterprises that enjoyed subsidies prior to privatization. They experience negative effects for up to 10 years. In the long run, the effect becomes insignificant.
+controlling for past performance, privatized assets perform worse than public assets in the short term and about equal in the long (10yr) term: <https://www.sciencedirect.com/science/article/pii/S0378426613001052> <https://cdn.discordapp.com/attachments/418850379518705675/643476490402529291/2013_Ownership_Change.pdf> https://cdn.discordapp.com/attachments/418850379518705675/643477004926320650/unknown.png ```Our main sample is based on Privatization Barometer (PB) privatizations in ‘Old’ (Western) and ‘New’ (Central and Eastern) European economies.``````The findings highlight the importance of recognizing endogeneity and the nontrivial performance challenges facing newly private enterprises in a framework with agency and expropriation costs. The tradeoff is most pronounced for enterprises that enjoyed subsidies prior to privatization. They experience negative effects for up to 10 years. In the long run, the effect becomes insignificant.```
 public infrastructure investment produces longterm economic growth: <https://www.tandfonline.com/doi/abs/10.1080/00036849700000023> Annual data over 1970-90 for 48 developing countries form the basis of the empirical analysis. Our findings suggest that infrastructural public investment facilitates private investment, especially in the long-run. It also promotes economic growth and efficiency whereas non-infrastructural investment does the reverse. Also, long-term effects of public investment tend to be much more positive than short-term ones on growth.
 
 # empirics: internet
