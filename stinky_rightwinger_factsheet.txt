@@ -1578,6 +1578,9 @@ self-reported stigma is associated with trans suicide attempt rates: https://www
 #####
 # transgender suicide rates
 #####o
+# transgender suicide rates
+the data does not exist: <https://www.ncbi.nlm.nih.gov/books/NBK109917/> <https://www.ncbi.nlm.nih.gov/books/NBK109917/pdf/Bookshelf_NBK109917.pdf> Studies over the last four decades suggest that LGBT individuals may have an elevated risk for suicide ideation and attempts. Attention to this disparity has been limited, in part because neither the U.S. death certificate nor the NVDRS identify decedents’ sexual orientation or gender identity. Thus, it is not known whether LGBT people die by suicide at higher rates than comparable heterosexual people.
+
 # suicide rate vs holocaust
 suicide among holocaust concentration camps was ~1 per 4 (25000/100000): <https://www.tandfonline.com/doi/full/10.1080/13811110490271425> <https://sci-hub.se/10.1080/13811110490271425> Using simple estimates based on limited data, it is likely that the suicide rates in the concentration camps were 25,000 per 100,000 per year or greater. Compared to national suicide rates, which have reached as high as 60 per 100,000 per year, a suicide rate of 25,000 is enormous.
 
@@ -5026,4 +5029,7 @@ about half of the difference in turnout between national and local elections can
 precarity and precariousness in developed countries: <https://monthlyreview.org/2016/04/01/marxs-theory-of-working-class-precariousness/> https://cdn.discordapp.com/attachments/418850379518705675/640250582589767680/chart-2-developed-reserve-armyKILM9.png
 
 survey of philosophy papers faculty: <https://philpapers.org/surveys/results.pl>
+
+child sex abuse declined 64% between 1990 and 2017: <http://unh.edu/ccrc/pdf/Updated%20trends%202017_ks.pdf> <http://web.archive.org/web/20191112214113/http://unh.edu/ccrc/pdf/Updated%20trends%202017_ks.pdf> https://cdn.discordapp.com/attachments/418850379518705675/643928546972008468/unknown.png
+child sex abuse declined 40% between 1990 and 2000: <https://scholars.unh.edu/ccrc/12/> <https://scholars.unh.edu/cgi/viewcontent.cgi?article=1011&context=ccrc> https://cdn.discordapp.com/attachments/418850379518705675/643927641740541971/unknown.png
 #####c
