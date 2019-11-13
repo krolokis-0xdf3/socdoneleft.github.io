@@ -3128,6 +3128,12 @@ just 7% of wars were primarily religious: https://en.wikipedia.org/wiki/Religiou
 #####c
 
 #####
+# bolivia
+#####o
+<http://cepr.net/press-center/press-releases/new-report-reviews-changes-in-bolivia-s-economy-under-evo-morales-s-presidency> <http://cepr.net/images/stories/reports/bolivia-macro-2019-10.pdf> <http://web.archive.org/web/20191113010826/http://cepr.net/images/stories/reports/bolivia-macro-2019-10.pdf> 
+#####c
+
+#####
 # venezuela
 #####o
 NORWAY IS NOT SOCIALIST EVEN THOUGH 37.8% OF ITS LABORERS ARE STATE EMPLOYEES
