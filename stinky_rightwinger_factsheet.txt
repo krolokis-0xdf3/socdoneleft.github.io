@@ -1920,6 +1920,9 @@ many states are adopting or considering equal or shared custody laws: <http://ar
 # child support
 delinquent mothers are more common than delinquent fathers, but impoverished mothers are also more common than impoverished fathers: <https://fivethirtyeight.com/features/are-moms-less-likely-than-dads-to-pay-child-support/> https://cdn.discordapp.com/attachments/418850379518705675/640204984297848832/chalabi-datalab-childsupport-11.png In 2011, 32 percent of custodial fathers didn’t receive any of the child support that had been awarded to them, compared with 25.1 percent of custodial mothers.
 
+# paternity testing
+laws are changing: <https://www.nytimes.com/2009/11/22/magazine/22Paternity-t.html> <http://archive.ph/soScg> <https://en.wikipedia.org/wiki/Uniform_Parentage_Act> <https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=238dfcf5-eb39-47d0-bfb7-d0ea50c52c63&forceDialog=0> In 2002 the National Conference of Commissioners on Uniform State Laws — an influential body of lawyers and judges that proposes model laws — drafted a compromise. The proposal would allow the presumed father, the biological father or the mother to challenge the paternity until a child turns 2. The proposal had two goals: to balance the rights of children with those of their presumed fathers and to encourage parentage questions to be raised early in a child’s life, before deep bonds are formed. Several states, including Delaware, North Dakota, Oklahoma, Texas, Utah, Washington and Wyoming, have adopted that model or a variation of it.
+
 # dropout rates
 2017: male high school completion 89.1%, female 90.0%; male bachelor's degree completion 33.7%, female 34.6%: <https://nces.ed.gov/programs/digest/d17/tables/dt17_104.10.asp>
 2010 starting cohort: male 5-year college completion 52.0%, female 59.0%: <https://nces.ed.gov/programs/digest/d17/tables/dt17_326.10.asp>
