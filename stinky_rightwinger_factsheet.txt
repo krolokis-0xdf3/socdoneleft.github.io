@@ -1700,6 +1700,8 @@ the clinic does not perform SRS: <https://www.childrens.com/specialties-services
 # dad: donations
 GoGetFunding: $92,243: <http://web.archive.org/web/20191025151617/https://gogetfunding.com/save-james-help-protect-jeffs-kids/> https://cdn.discordapp.com/attachments/418850379518705675/646000142595653642/2_getfunding.png
 GoFundMe: $47,972: <https://www.gofundme.com/f/protect-jeffs-kids> <http://archive.is/AsGf9> https://cdn.discordapp.com/attachments/418850379518705675/646000140938772510/2_gofundme.png
+Average divorce cost in Texas with issues with kids: $23,500 over 14 months: <https://www.lawyers.com/legal-info/family-law/divorce/divorce-in-texas.html> https://cdn.discordapp.com/attachments/418850379518705675/646021634112880680/2_lawyercost.png
+Marriage annulled 18 October 2016: <https://casetext.com/case/in-re-judy-4>
 
 # video
 video: https://www.youtube.com/watch?v=tnLwbu4npp4
