@@ -1,4 +1,12 @@
-﻿stinky rightwinger factsheet by Socialism Done Left
+﻿#####
+#
+# "stinky_rightwinger_factsheet" by Socialism Done Left
+#
+######
+sub my youtube: https://www.youtube.com/channel/UC0n24lonL5RMpzmCiCzIkIw
+join my discord: https://discord.gg/ZeMdbPC
+follow my twitter: https://twitter.com/socdoneleft
+gimme money: https://www.patreon.com/socdoneleft
 
 #####
 #
@@ -44,14 +52,6 @@
 [2.1] CTRL-H or click "Edit" ribbon and click "Find and Replace"
 [2.2] Enable "regular expressions" in "other options"
 [2.3] Regex use: ".*" means "any number of characters on a line". Examples: Search "trump.*econ" or "trans.*brain"
-#####c
-
-#####
-# shameless plugs
-#####o
-join my discord: https://discord.gg/ZeMdbPC
-sub my youtube: https://www.youtube.com/channel/UC0n24lonL5RMpzmCiCzIkIw
-follow my twitter: https://twitter.com/socdoneleft
 #####c
 
 #####
