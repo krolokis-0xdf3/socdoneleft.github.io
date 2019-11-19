@@ -1713,7 +1713,7 @@ Kid: Mommy.
 Dad: When did she tell you you're a girl?
 Kid: I love girls.
 Dad: So mommy told you you're a girl?
-Kid: Uh-uh [no].
+Kid: Uh-uh [yes].
 Dad: Does mommy do anything else like a girl with you?
 Kid: Mm-hm [yes].
 Dad: Like what?
