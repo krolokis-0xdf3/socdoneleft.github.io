@@ -1,4 +1,5 @@
-﻿#####
+﻿
+#####
 #
 # "stinky_rightwinger_factsheet" by Socialism Done Left
 #
@@ -7,6 +8,8 @@ sub my youtube: https://www.youtube.com/channel/UC0n24lonL5RMpzmCiCzIkIw
 join my discord: https://discord.gg/ZeMdbPC
 follow my twitter: https://twitter.com/socdoneleft
 gimme money: https://www.patreon.com/socdoneleft
+
+{{toc}}
 
 #####
 #
