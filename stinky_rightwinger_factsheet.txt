@@ -3039,12 +3039,16 @@ https://fivethirtyeight.com/features/how-much-do-voting-restrictions-affect-elec
 #####
 # democrats represent the poor
 #####o
-# gilens and responses
+# gilens and replications
 gilens: <https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B> <https://sci-hub.se/10.1017/S1537592714001595> https://cdn.discordapp.com/attachments/418850379518705675/646869020884336640/gilens_result1.png
+netherlands replication: <https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwz018/5475880> <https://sci-hub.se/10.1093/ser/mwz018> https://cdn.discordapp.com/attachments/418850379518705675/647950889113354240/mwz018f3.png
+
+# gilens responses
 Democrats in Congress represent the poor more than the rich while Republicans do the reverse: <https://www.nowpublishers.com/article/Details/QJPS-16077> <https://sci-hub.se/10.1561/100.00016077> https://cdn.discordapp.com/attachments/418850379518705675/456898615336632320/unknown.png
 Democrats in Congress represent the middle class more than the rich while Republicans do the reverse: <http://matthewg.org/Gilens-Parties4.pdf>  https://cdn.discordapp.com/attachments/418850379518705675/456900147348242452/unknown.png
 Democrats in Congress represent the poor; Republicans represent the rich: <http://columbia.edu/~jrl2124/partypurse.pdf> <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> https://cdn.discordapp.com/attachments/418850379518705675/456904734708858890/unknown.png
 
+# unformatted
 dem presidents have high growth outside election years; rep presidents have high growth only inside election years: <https://www.amazon.com/Unequal-Democracy-Political-Economy-Gilded/dp/0691146233/> https://cdn.discordapp.com/attachments/418850379518705675/536342159628959744/unknown.png
 #####c
 
