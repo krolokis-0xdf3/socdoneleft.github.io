@@ -1902,8 +1902,19 @@ people in the USA report 2.4% lifetime suicide attempt rate: <https://www.nature
 # estimation: adolescent
 transgender adolescents report 1.27-1.84 times higher lifetime suicide attempts: <https://pediatrics.aappublications.org/content/early/2018/09/07/peds.2017-4218> <http://sci-hub.tw/10.1542/peds.2017-4218> https://cdn.discordapp.com/attachments/418850379518705675/643946414359052325/unknown.png ```Self-reported lifetime suicide behavior was assessed with a single question: “Have you ever tried to kill yourself?” The response options included: no; yes, once; yes, twice; and yes, more than 2 times. These responses were dichotomized such that 0 = never and 1 = ever```
 
-# suicide rate vs holocaust
-suicide among holocaust concentration camps was ~1 per 4 (25000/100000): <https://www.tandfonline.com/doi/full/10.1080/13811110490271425> <https://sci-hub.se/10.1080/13811110490271425> Using simple estimates based on limited data, it is likely that the suicide rates in the concentration camps were 25,000 per 100,000 per year or greater. Compared to national suicide rates, which have reached as high as 60 per 100,000 per year, a suicide rate of 25,000 is enormous.
+# holocaust: pre-nazi era and nazi era
+the successful suicide rate among Jews in Germany before the Nazi era was about 27.1-53.2 per 100,000 per year (simple mean (31.5+27.1+33.1+25.0+42.1)/5=31.8); in cities, the rate was 13-67.8 per 100,000 per year (simple mean (67.8+48+13+17+41)/5=37): <https://books.google.com/books?id=R1nkj-xSzYgC&pg=PA85> https://cdn.discordapp.com/attachments/418850379518705675/647811683829415939/lester05_prenazi.png 
+the successful suicide rate among non-deported Jews in Germany during the Nazi era was about 158-317 per 100,000 per year: <https://books.google.com/books?id=R1nkj-xSzYgC&pg=PA88> https://cdn.discordapp.com/attachments/418850379518705675/647811682105819139/lester05_noncamps.png
+
+# holocaust: ghettos
+in the Lodz ghetto, according to a secret Jewish chronicle, completed suicides per 100,000 per year were 21.6 in 1941, 84.6 in 1942, and unknown for 1943-44: <https://journals.sagepub.com/doi/abs/10.2190/E392-DT1H-CWVT-LDUC> <https://sci-hub.se/10.2190/E392-DT1H-CWVT-LDUC> https://cdn.discordapp.com/attachments/418850379518705675/647493934389657612/unknown.png
+
+# holocaust: camps
+suicide among holocaust concentration camps was at least ~1 per 4 (25000/100000): <https://www.tandfonline.com/doi/full/10.1080/13811110490271425> <https://sci-hub.se/10.1080/13811110490271425> https://cdn.discordapp.com/attachments/418850379518705675/648537184571490304/unknown.png
+
+# holocaust: survivors
+all studies of holocaust survivors have found non-increased or decreased suicide rates: <https://www.sciencedirect.com/science/article/abs/pii/S0165178117311290> <https://sci-hub.se/10.1016/j.psychres.2017.12.042> https://cdn.discordapp.com/attachments/418850379518705675/647605239620435968/review_survivor.png
+full Holocaust survivors have non-elevated suicide risk while partial Holocaust survivors (emigres) have elevated suicide risks: <https://www.tandfonline.com/doi/abs/10.1080/13811118.2017.1366377> <https://sci-hub.se/10.1080/13811118.2017.1366377> https://cdn.discordapp.com/attachments/418850379518705675/648550196791214111/survivors.png
 
 # suicide rate vs slaves
 the completed suicide rate among slaves was ~.72 per 100,000 in the USA in 1850: <https://scholarworks.montana.edu/xmlui/handle/1/1654> <https://scholarworks.montana.edu/xmlui/bitstream/handle/1/1654/KneelandL0506.pdf> <http://web.archive.org/web/20191102161632/https://scholarworks.montana.edu/xmlui/bitstream/handle/1/1654/KneelandL0506.pdf> There are a few sources that provide numbers. Lester includes a table of suicide rates calculated from the 1850 census. 180 According to this, slaves in 1850 had a suicide rate of .72 per 100,000 while whites had a rate of 2.37 and freed slaves a rate of 1.15. P. D. Escott searched Federal Writer's Project Slave Narratives and documented resistance. In his list, which included a total of 413 incidents of resistance, there were seven incidents of suicide. This leaves suicide to account for 1.2% of incidents of resistance.
