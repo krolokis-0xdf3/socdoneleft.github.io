@@ -4080,6 +4080,9 @@ only 1 in 4 sexual assaults are committed by strangers: <https://www.rainn.org/s
 reducing recidivism would insanely reduce violent crime: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969807/> Among individuals convicted of one violent crime, 44 % (41,257 of 93,642) were reconvicted. After 2 violent convictions, 59 % (24,342 of 41,257) were reconvicted, and after 3 convictions, 68 % (16,435 of 24,342) were reconvicted. If violent careers could be stopped after 3 convictions, 53 % of all violent convictions would be prevented. The recurrence rate increased from about 70 % after 4 convictions to about 80 % after 7 and to about 90 % after 11 crimes per individual, after which the low number of perpetrators at each new step made further analyses difficult to interpret.
 rates over time: <https://www.ebpsociety.org/blog/education/205-tough-crime-policies-have-struck-out> It was found that in 1994, 51.8% of individuals released from prison in the United States were re-incarcerated within three years (Lagan & Levin, 2002). In more recent years, it was found that in 1999, 45.4% of individuals and in 2004, 43.3% of individuals were re-incarcerated within three years of their release (Pew Center on the States, 2011). <https://www.themarshallproject.org/2014/12/04/the-misleading-math-of-recidivism>
 
+# recidivism: empirics
+
+
 # rehabilitation: recidivism decrease
 rehabilitation reduces recidivism rates: https://cdn.discordapp.com/attachments/418850379518705675/458075175305609216/unknown.png www.antoniocasella.eu/nume/Mastrobuoni_Terlizzese_bollate_oct14.pdf
 rehabilitative programs reduce recidivism and increase employment: <https://www.rand.org/pubs/research_reports/RR564.html> https://cdn.discordapp.com/attachments/418850379518705675/470280212265959425/unknown.png
