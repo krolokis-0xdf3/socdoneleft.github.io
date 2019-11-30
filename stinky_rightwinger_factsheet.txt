@@ -5098,7 +5098,7 @@ We compiled these CE researchers comprehensively [...] from the following lists:
 <https://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024;> 
 
 # causes: poverty
-the poor are not to blame for the effects of global warming; the rich cause most ghg emissions: <https://www.vox.com/energy-and-environment/2017/9/26/16356524/the-population-question> <https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/mb-extreme-carbon-inequality-021215-en.pdf> https://cdn.discordapp.com/attachments/418850379518705675/455881089072758795/unknown.png
+the poor are not to blame for the effects of global warming; the rich cause most ghg emissions (top 10% cause 49%, top 20% cause 68%): <https://www.vox.com/energy-and-environment/2017/9/26/16356524/the-population-question> <https://www.oxfam.org/sites/www.oxfam.org/files/file_attachments/mb-extreme-carbon-inequality-021215-en.pdf> https://cdn.discordapp.com/attachments/418850379518705675/455881089072758795/unknown.png
 
 # causes: companies
 71% of global carbon emissions are produced by just 100 companies: <https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change> <https://fullfact.org/news/are-100-companies-causing-71-carbon-emissions/> https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499691240#page=8> https://cdn.discordapp.com/attachments/418850379518705675/574324087648681985/unknown.png
