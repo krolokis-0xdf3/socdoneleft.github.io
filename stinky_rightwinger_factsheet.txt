@@ -5175,6 +5175,18 @@ adolescents as young as 14 appear as capable as adults to make informed (hypothe
 #####c
 
 #####
+# epistemology
+#####o
+# scientific realism
+descriptive realism from No Miracles Argument: current scientific theories perform better than chance, ergo scientific theories are true: <https://philpapers.org/archive/PARTDA-10.pdf> Descriptive realism would be true if T [a strong, current scientific theory] is as descriptive realism holds it to be, i.e., if T is true, and false if T is not as descriptive realism holds it to be, i.e., if T is false. T is directly rendered true or false by the world. Consequently, descriptive realism is indirectly rendered true or false by the world.
+normative realism from NMA: current scientific theories perform better than chance, ergo scientific theories are true: <https://philpapers.org/archive/PARTDA-10.pdf> By contrast, normative realism, because it is a normative thesis, is not capable of being true or false. Even if T [a strong, current scientific theory] happens to be true, it is an open question whether it is warranted or not, as will become clear in the next section.
+descriptive pessimism: past scientific theories were false, ergo present scientific theories are false: <https://philpapers.org/archive/PARTDA-10.pdf> The descriptive PI holds that just as T1 [a past scientific theory] was false, so T2 [a current scientific theory] is false, where the former is a past theory and the latter is a present theory. This version of the PI can be inferred from Putnam’s formulation of the PI that “Just as no term used in the science of more than fifty (or whatever) years ago referred, so it will turn out that no term used now (except maybe observational terms, if there are such) refers” (1978: 25). The descriptive PI can also be inferred from Stathis Psillos’s formulation of the PI that “if most past successful scientific theories turned out to be false, then, by induction on scientific theories, one must not just remain agnostic, but rather claim that current successful scientific theories are likely to be false” (1995: 16). Keep in mind that the descriptive PI asserts that T2 is false.
+descriptive pessimism: past scientific theories were unwarranted, ergo present scientific theories are unwarranted: <https://philpapers.org/archive/PARTDA-10.pdf> In contrast, the normative PI holds that just as T1 [a past scientific theory] was unwarranted, so T2 [a current scientific theory] is unwarranted. The normative PI is neutral about the truth-value of T2. It says that T2 might be true, and that even though T2 is true, we cannot justifiably believe that it is true. No one has directly formulated the PI in this manner in the literature. It, however, can be inferred from James Ladyman’s formulation that “reflection on the abandonment of theories in the history of science motivates the expectation that our best current scientific theories will themselves be abandoned, and hence that we ought not to assent to them” (Ladyman, 2014). To say that we ought not to assent to present theories is to say that T2 is unwarranted.
+
+todo xxx unformatted https://philpapers.org/archive/PARTDA-10.pdf Anjan Chakravartty (2017) and Darrell Rowbottom (2017) present comprehensive overviews of dialectical terrains concerning scientific realism. Such papers are useful to both new participants and veterans in the scientific realism debate.
+#####c
+
+#####
 # uncategorized sources
 #####o
 more businesses close than are created; the savings rate and the new firm creation rate have both declined: <https://news.gallup.com/businessjournal/175499/starved-financing-new-businesses-decline.aspx> https://cdn.discordapp.com/attachments/418850379518705675/571191562935992320/unknown.png
