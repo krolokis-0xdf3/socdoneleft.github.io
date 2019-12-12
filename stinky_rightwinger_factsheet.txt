@@ -303,7 +303,9 @@ the United States is not significantly more rural or more urbanized than other h
 #####
 # policies
 #####o
+unformatted
 grading teachers is an ineffective strategy: <https://www.fastcompany.com/90179967/how-the-gates-foundations-plan-to-grade-teachers-failed-students> <https://www.rand.org/pubs/research_reports/RR2242.html> <https://www.rand.org/content/dam/rand/pubs/research_reports/RR2200/RR2242/RAND_RR2242.pdf>
+^ get study from oecd about south korae pay gaps
 #####c
 
 #####
