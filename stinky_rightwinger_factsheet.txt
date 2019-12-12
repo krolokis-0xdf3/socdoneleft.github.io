@@ -347,6 +347,7 @@ https://www2.ed.gov/rschstat/research/pubs/misconductreview/report.pdf
 # education improves iq
 each year of education increases IQ by between 1 and 5 IQ points; these effects persisted reasonably well through time: <http://journals.sagepub.com/doi/pdf/10.1177/0956797618774253> https://cdn.discordapp.com/attachments/418850379518705675/495035615444729858/unknown.png https://cdn.discordapp.com/attachments/418850379518705675/498738755012657192/unknown.png
 even just brain training can increase IQ: <https://www.psychologytoday.com/us/blog/iq-boot-camp/201605/new-evidence-iq-can-be-increased-brain-training> https://www.sciencedirect.com/science/article/pii/S1041608016300231
+unknown https://www.sciencedirect.com/science/article/abs/pii/S016028961500135X#f0030
 
 # iq improves education
 IQ strongly correlates with education success: <https://www.sciencedirect.com/science/article/pii/S0160289606000171> <https://www.researchgate.net/profile/Steve_Strand2/publication/222403422_Intelligence_and_Educational_Achievement/links/59fb3c30458515d070606cf6/Intelligence-and-Educational-Achievement.pdf> https://cdn.discordapp.com/attachments/418850379518705675/553988213627289631/unknown.png This 5-year prospective longitudinal study of 70,000+ English children examined the association between psychometric intelligence at age 11 years and educational achievement in national examinations in 25 academic subjects at age 16. The correlation between a latent intelligence trait (Spearman's g from CAT2E) and a latent trait of educational achievement (GCSE scores) was 0.81.
