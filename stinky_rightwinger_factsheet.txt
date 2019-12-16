@@ -2784,6 +2784,13 @@ the media is 3x more likely to label an Islamist attack as "terrorism" than a fa
 13 April 2014: KKK member and neo-Nazi Frazier Miller killed 3 people in the Jewish Community Center of Greater Kansas City and in the Village Shalom <https://en.wikipedia.org/wiki/Overland_Park_Jewish_Community_Center_shooting>
 05 August 2012: White supremacist Michael Page killed 6 and injured 4 at a Sikh temple in Oak Creek: <https://en.wikipedia.org/wiki/Wisconsin_Sikh_temple_shooting>
 #####c
+
+#####
+# islamist terrorism
+#####o
+# motivations
+the proportion of foreign Muslims joining ISIS is positively correlated with GDP per capita and Human Development Index, negatively correlated with Gini Index (higher=more unequal), not correlated with unemployment, negatively correlated with political rights, negatively correlated with ethnic fractionalization (higher=more diverse), negatively correlated with linguistic fractionalization, and not correlated with religious fractionalization: -- however, many of these relationships are not significant (see tables 7 and 8): <https://www.nber.org/papers/w22190.pdf> https://cdn.discordapp.com/attachments/418850379518705675/655930417324752896/unknown.png
+#####c
 #####c
 #####c
 
