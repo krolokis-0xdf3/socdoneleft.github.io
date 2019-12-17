@@ -2745,6 +2745,28 @@ British Muslims are becoming more liberal: <https://www.ipsos.com/ipsos-mori/en-
 A majority of Muslims disagree that homosexuality should be legal in Britain: 38% strongly disagree and 14% tend to disagree, whereas only 8% strongly agree and 10% tend to agree. (By way of comparison, 73% of the whole adult public (and 67% of Christians) said that it should be legal in the control group survey with a representative sample from the same poll. But although Muslims’ views are now out of line with the more liberal views of the British public as a whole, it should perhaps be borne in mind that as recently as 1993 the British Social Attitudes survey found 50% of the adult British public believing that “sexual relations between two adults of the same sex” were “always wrong”.) **Young Muslims are significantly more likely to agree that homosexuality should be legal (28% of 18-24 year olds, 23% of 25-34 year olds),** but even in these age groups there was a clear plurality against: as many 18-24 year olds strongly disagree as agree, strongly or otherwise, and among 25-34 year olds almost twice as many do so.
 Many of the surveys that have been conducted explore the extent to which Muslims feel their religion is compatible with life in Britain and support for integration. Most Muslims (83%) – and, indeed, most Britons regardless of religion (66%) - agree that “it is possible to fully belong to Britain and maintain a separate cultural or religious identity”; 40% of Muslims strongly agree. And seven in ten Muslims (72%) reject the idea that Western liberal society is incompatible with Islam which contrasts with the perception in the British population that Islam and British values are incompatible (please see section 12 further in this report). This is further supported by the large number of British Muslims who say they have a strong sense of British identity (see page 36).
 #####c
+#####c
+#####c
+
+#####
+#
+#
+# miscellaneous
+#
+#
+#####o
+
+#####
+#
+# terrorism
+#
+#####o
+
+#####
+# general
+#####o
+
+#####c
 
 #####
 # white extremist terrorism
@@ -2794,15 +2816,7 @@ the media is 3x more likely to label an Islamist attack as "terrorism" than a fa
 the proportion of foreign Muslims joining ISIS is positively correlated with GDP per capita and Human Development Index, negatively correlated with Gini Index (higher=more unequal), not correlated with unemployment, negatively correlated with political rights, negatively correlated with ethnic fractionalization (higher=more diverse), negatively correlated with linguistic fractionalization, and not correlated with religious fractionalization: -- however, many of these relationships are not significant (see tables 7 and 8): <https://www.nber.org/papers/w22190.pdf> https://cdn.discordapp.com/attachments/418850379518705675/655930417324752896/unknown.png
 #####c
 #####c
-#####c
 
-#####
-#
-#
-# miscellaneous
-#
-#
-#####o
 #####
 #
 # psychology
