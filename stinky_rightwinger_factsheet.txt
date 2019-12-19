@@ -3137,6 +3137,16 @@ texas republicans are purging naturalized citizens from voter rolls: https://sla
 #####c
 
 #####
+# impeachment
+#####o
+# phone call: "Memorandum of a Telephone Conversation"
+<https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf>
+
+# phone call: rough transcript
+<http://cdn.cnn.com/cnn/2019/images/11/15/4-21-19.trump-zelensky.call.pdf> 
+#####c
+
+#####
 # donald trump
 #####o
 # wasting time
