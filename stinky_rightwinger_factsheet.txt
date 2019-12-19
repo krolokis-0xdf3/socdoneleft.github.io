@@ -90,11 +90,11 @@ Simple Mass Downloader: <https://chrome.google.com/webstore/detail/simple-mass-d
 VietOCR: <https://sourceforge.net/projects/vietocr/> (convert image to text with optical character recognition in many languages, great for Google Books)
 
 # economics reading/watching list:
-* Paul Cockshott produces YouTube videos about socialist planning, socialist strategy, and Marxian economics: <https://www.youtube.com/watch?v=emnYMfjYh1Q> <https://www.youtube.com/watch?v=3XFnHA2CJH4>
-* Michael Roberts covers recent economic events: <https://thenextrecession.wordpress.com/2019/03/12/neoliberalism-not-so-bad/>
-* Anwar Shaikh taught an excellent course on economics from a data-driven and classical, mostly Marxist, perspective: <https://www.youtube.com/watch?v=ShIg-3NRQj4&list=PLB1uqxcCESK6B1juh_wnKoxftZCcqA1go>
-* David Harvey produced a reading series on Marx's Das Kapital Volumes 1-2 that provides a nice understanding of a capitalist economy: <https://www.youtube.com/watch?v=gBazR59SZXk&list=PL0A7FFF28B99C1303>
-* Shawn and Aaron of Srsly Wrong produce a podcast per week on leftist ideas: <https://www.youtube.com/watch?v=bFDCa5mq5Jo>
+Paul Cockshott produces YouTube videos about socialist planning, socialist strategy, and Marxian economics: <https://www.youtube.com/watch?v=emnYMfjYh1Q> <https://www.youtube.com/watch?v=3XFnHA2CJH4>
+Michael Roberts covers recent economic events: <https://thenextrecession.wordpress.com/2019/03/12/neoliberalism-not-so-bad/>
+Anwar Shaikh taught an excellent course on economics from a data-driven and classical, mostly Marxist, perspective: <https://www.youtube.com/watch?v=ShIg-3NRQj4&list=PLB1uqxcCESK6B1juh_wnKoxftZCcqA1go>
+David Harvey produced a reading series on Marx's Das Kapital Volumes 1-2 that provides a nice understanding of a capitalist economy: <https://www.youtube.com/watch?v=gBazR59SZXk&list=PL0A7FFF28B99C1303>
+Shawn and Aaron of Srsly Wrong produce a podcast per week on leftist ideas: <https://www.youtube.com/watch?v=bFDCa5mq5Jo>
 
 # recommended youtubers:
 Robert Reich: https://www.youtube.com/feeds/videos.xml?channel_id=UCuDv5p8E-evaRSh542hDV5g (short, recent leftist news)
