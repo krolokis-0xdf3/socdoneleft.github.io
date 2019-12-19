@@ -3139,11 +3139,23 @@ texas republicans are purging naturalized citizens from voter rolls: https://sla
 #####
 # impeachment
 #####o
-# phone call: "Memorandum of a Telephone Conversation"
-<https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf>
+# constitution
+article 1 section 2 paragraph 5: "The House of Representatives shall chuse their Speaker and other Officers;and shall have the sole Power of Impeachment." <https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/762>
+article 1 section 3 paragraphs 6-7: "The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present. Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law." <https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/765>
+article 2 section 4: "The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors." <https://constitutioncenter.org/interactive-constitution/interpretation/article-ii/clauses/349>
 
-# phone call: rough transcript
-<http://cdn.cnn.com/cnn/2019/images/11/15/4-21-19.trump-zelensky.call.pdf> 
+# goalposts: Lindsey Graham
+1 January 1999: https://www.youtube.com/watch?v=KxJoKu13nLU <https://www.snopes.com/fact-check/lindsey-graham-crime-impeach/> <https://www.c-span.org/video/?118439-1/senate-session&start=611> ```And we got some guidance as to what really is in or out of bounds for high government officials. What's a high crime? How about if an important person hurts somebody of low means. It's not very scholarly. But I think it's the truth. I think that's what they meant by high crimes. Doesn't even have to be a crime. It's just when you start using your office and you're acting in a way that hurts people. You've committed a high crime.```
+
+# definitions
+bribery: <https://www.law.cornell.edu/uscode/text/18/201> (b) **Whoever—** (2) **being a public official** or person selected to be a public official, **directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity, in return for:** (A) **being influenced in the performance of any official act;** (B)being influenced to commit or aid in committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or (C) being induced to do or omit to do any act in violation of the official duty of such official or person;
+SCOTUS ruling on 18 USC 201: <https://www.oge.gov/Web/oge.nsf/Resources/18+U.S.C.+%C2%A7+201:+Bribery+of+public+officials+and+witnesses> 
+
+# 25 July 2019 phone call: "Memorandum of a Telephone Conversation"
+<https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301286630326272/2019_07_25_trump_zelensky_call_memorandum.pdf>
+
+# 21 April 2019 phone call: rough transcript
+<http://cdn.cnn.com/cnn/2019/images/11/15/4-21-19.trump-zelensky.call.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301285455921152/2019_04_21_trump_zelensky_call_transcript.pdf> 
 #####c
 
 #####
