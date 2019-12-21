@@ -3141,18 +3141,50 @@ texas republicans are purging naturalized citizens from voter rolls: https://sla
 #####o
 READ unformatted https://www.nytimes.com/interactive/2019/12/17/us/politics/trump-pelosi-letter.html
 
-# constitution
-article 1 section 2 paragraph 5: "The House of Representatives shall chuse their Speaker and other Officers;and shall have the sole Power of Impeachment." <https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/762>
-article 1 section 3 paragraphs 6-7: "The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present. Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law." <https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/765>
-article 2 section 4: "The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors." <https://constitutioncenter.org/interactive-constitution/interpretation/article-ii/clauses/349>
-
 # polls
 a majority of Americans (52.3% to 42.0%, +10.3%) support the impeachment process: <https://projects.fivethirtyeight.com/impeachment-polls/> https://cdn.discordapp.com/attachments/418850379518705675/658035141356159010/unknown.png
 a majority of Americans (47.5% to 46.1%, +1.4%) support removing Trump from office: <https://projects.fivethirtyeight.com/impeachment-polls/> https://cdn.discordapp.com/attachments/418850379518705675/658035327587450880/unknown.png
 
-# burisma [unformatted]
+# substance: constitution
+article 1 section 2 paragraph 5: "The House of Representatives shall chuse their Speaker and other Officers;and shall have the sole Power of Impeachment." <https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/762>
+article 1 section 3 paragraphs 6-7: "The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present. Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law." <https://constitutioncenter.org/interactive-constitution/interpretation/article-i/clauses/765>
+article 2 section 4: "The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors." <https://constitutioncenter.org/interactive-constitution/interpretation/article-ii/clauses/349>
+
+# substance: George Kent [unformatted]
+George Kent has served since 1992 (Bush, Clinton, Bush, Obama, Trump): <https://www.state.gov/biographies/george-p-kent/> 
+
+# substance: Bill Taylor [unformatted]
+Bill Taylor has served since 1992 (Bush, Clinton, Bush, Obama, Trump): <https://en.wikipedia.org/wiki/William_B._Taylor_Jr.> <https://2001-2009.state.gov/outofdate/bios/t/23156.htm> <https://www.washingtonpost.com/politics/2019/11/12/who-is-bill-taylor-why-does-his-public-testimony-matter-impeachment-inquiry/> <http://archive.is/wip/kslTy>
+
+# substance: Kurt Volker [unformatted]
+<https://en.wikipedia.org/wiki/Kurt_Volker>
+Volker testimony: <https://www.pbs.org/newshour/politics/read-kurt-volkers-full-testimony-in-the-trump-impeachment-inquiry> <https://d3i6fh83elv35t.cloudfront.net/static/2019/11/Volkertestimony.pdf>
+Giuliani in May 2019: <https://www.nytimes.com/2019/05/09/us/politics/giuliani-ukraine-trump.html> <http://archive.is/X1hlP> ```We're not meddling in an election, we're meddling in an investigation, which we have a right to do. There's nothing illegal about it. Somebody could say it's improper. And this isn't foreign policy — I'm asking them to do an investigation that they're doing already and that other people are telling them to stop. And I'm going to give them reasons why they shouldn't stop it because that information will be very, very helpful to my client, and may turn out to be helpful to my government.```
+Volker text messages: <https://www.pbs.org/newshour/politics/read-all-the-text-messages-volker-produced-in-the-impeachment-inquiry> <https://d3i6fh83elv35t.cloudfront.net/static/2019/11/Volkertextmessages.pdf>
+
+# substance: Gordon Sondland [unformatted]
+Sondland donated 1 million dollars to the Trump inauguration: <https://www.motherjones.com/politics/2019/10/meet-the-gop-megadonor-at-center-ukraine-scandal-sondland/> <https://www.opensecrets.org/news/2017/04/250-donors-shelled-out-100k-or-more-for-trumps-inauguration/> ```Gordon Sondland, the chairman of Provenance Hotels and a big supporter of the extended Bush family (including former President George W.), gave $1 million to the inaugural committee through four LLCs: BV-2 LLC, Dunson Cornerstone LLC, Buena Vista Investments LLC, and Dunson Investments LLC. Sondland gave $2,700 to the early favorite to capture the GOP nomination, Jeb Bush, and $22,000 to Bush’s super PAC, Right to Rise, last cycle, but none to Trump.```
+Trump claims he "hardly knows" Gordon Sondland: <https://twitter.com/joshtpm/status/1192832235923234817> 
+
+# substance: Marie Ivanovitch [unformatted]
+
+# substance: Alexander Vindman [unformatted]
+<https://www.nytimes.com/2019/10/29/us/politics/who-is-alexander-vindman.html>
+
+# substance: burisma [unformatted]
 https://www.usatoday.com/story/news/politics/2019/11/13/kent-says-hed-love-see-ukraine-gas-company-burisma-investigated/4180372002/
 https://www.nbcnews.com/politics/donald-trump/hunter-biden-did-not-violate-anything-former-ukrainian-prosecutor-says-n1059136
+
+# definitions
+bribery: <https://www.law.cornell.edu/uscode/text/18/201> (b) **Whoever—** (2) **being a public official** or person selected to be a public official, **directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity, in return for:** (A) **being influenced in the performance of any official act;** (B)being influenced to commit or aid in committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or (C) being induced to do or omit to do any act in violation of the official duty of such official or person;
+SCOTUS ruling on 18 USC 201: <https://www.oge.gov/Web/oge.nsf/Resources/18+U.S.C.+%C2%A7+201:+Bribery+of+public+officials+and+witnesses> 
+
+# substance: 25 July 2019 phone call: "Memorandum of a Telephone Conversation"
+Trump talking about Crowdstrike: <https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301286630326272/2019_07_25_trump_zelensky_call_memorandum.pdf> https://cdn.discordapp.com/attachments/418850379518705675/657338441809526827/unknown.png
+Trump talking about Biden: <https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301286630326272/2019_07_25_trump_zelensky_call_memorandum.pdf> https://cdn.discordapp.com/attachments/418850379518705675/657338756415619092/unknown.png
+
+# substance: 21 April 2019 phone call: rough transcript
+<http://cdn.cnn.com/cnn/2019/images/11/15/4-21-19.trump-zelensky.call.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301285455921152/2019_04_21_trump_zelensky_call_transcript.pdf> 
 
 # procedure: house vote
 CLAIM: the impeachment inquiry is invalid because the House did not vote to open it: <https://www.whitehouse.gov/wp-content/uploads/2019/10/PAC-Letter-10.08.2019.pdf> ```Your inquiry is constitutionally invalid and a violation of due process. In the history of our Nation, the House of Representatives has never attempted to launch an impeachment inquiry against the President without a majority of the House taking political accountability for that decision by voting to authorize such a dramatic constitutional step.```
@@ -3179,17 +3211,6 @@ the whistleblower only gave written testimony -- as has Trump: https://www.nbcph
 01 January 1999: https://www.youtube.com/watch?v=KxJoKu13nLU <https://www.snopes.com/fact-check/lindsey-graham-crime-impeach/> <https://www.c-span.org/video/?118439-1/senate-session&start=611> ```And we got some guidance as to what really is in or out of bounds for high government officials. What's a high crime? How about if an important person hurts somebody of low means. It's not very scholarly. But I think it's the truth. I think that's what they meant by high crimes. Doesn't even have to be a crime. It's just when you start using your office and you're acting in a way that hurts people. You've committed a high crime.```
 20 October 2019: <https://www.cnn.com/videos/politics/2019/10/20/graham-open-minded-to-trump-impeachment-if-evidence-arises-nr-vpx.cnn> <https://www.axios.com/deaths-vaping-lung-illness-b6af29af-0078-44f8-ae87-5ecfcf12b3a4.html> ```Sure. I mean, show me something that, that is a crime. If you could show me that, you know, Trump actually was engaging in a quid pro quo, outside the phone call, that would be very disturbing.```
 25 September 2019: https://www.facebook.com/watch/?v=385372285721070 <https://www.rawstory.com/2019/09/lindsey-graham-launches-into-hysterics-over-ukraine-to-impeach-any-president-over-a-phone-call-is-insane/> 
-
-# definitions
-bribery: <https://www.law.cornell.edu/uscode/text/18/201> (b) **Whoever—** (2) **being a public official** or person selected to be a public official, **directly or indirectly, corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity, in return for:** (A) **being influenced in the performance of any official act;** (B)being influenced to commit or aid in committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or (C) being induced to do or omit to do any act in violation of the official duty of such official or person;
-SCOTUS ruling on 18 USC 201: <https://www.oge.gov/Web/oge.nsf/Resources/18+U.S.C.+%C2%A7+201:+Bribery+of+public+officials+and+witnesses> 
-
-# 25 July 2019 phone call: "Memorandum of a Telephone Conversation"
-Trump talking about Crowdstrike: <https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301286630326272/2019_07_25_trump_zelensky_call_memorandum.pdf> https://cdn.discordapp.com/attachments/418850379518705675/657338441809526827/unknown.png
-Trump talking about Biden: <https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301286630326272/2019_07_25_trump_zelensky_call_memorandum.pdf> https://cdn.discordapp.com/attachments/418850379518705675/657338756415619092/unknown.png
-
-# 21 April 2019 phone call: rough transcript
-<http://cdn.cnn.com/cnn/2019/images/11/15/4-21-19.trump-zelensky.call.pdf> <https://cdn.discordapp.com/attachments/418850379518705675/657301285455921152/2019_04_21_trump_zelensky_call_transcript.pdf> 
 #####c
 
 #####
