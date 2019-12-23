@@ -2853,7 +2853,8 @@ political identity precedes racial, religious, and sexual identity: <https://fiv
 
 # material conditions
 partisan differences in opinion are usually much larger than income differences in opinion: <http://columbia.edu/~jrl2124/partypurse.pdf> <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> https://cdn.discordapp.com/attachments/418850379518705675/646868893423632404/unknown.png
-
+top 1% income Americans are more Republican than the general public but not more likely to identify as conservative: <https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> https://cdn.discordapp.com/attachments/418850379518705675/641979699035111453/4u2asbxtn0m_tvkapje3bq.png
+top 1% wealth Americans are more Republican than the general public; consider budget deficits more important than unemployment; prefer cutting spending to increasing revenue to reduce deficits; support cutting welfare programs in general; <https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <http://web.archive.org/web/20111216135148/https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good>
 #####c
 
 #####
@@ -3181,7 +3182,7 @@ https://www.nytimes.com/2019/10/16/us/mckinley-impeachment-ukraine.html
 <https://www.pbs.org/newshour/politics/read-the-transcript-of-fiona-hills-full-testimony-in-the-impeachment-probe> <https://d3i6fh83elv35t.cloudfront.net/static/2019/11/FionaHill-compressed.pdf> ```And Ambassador SondIand, in front of the Ukrainians, as I came in, was talking about how he had an agreement wjth Chief of Staff l'lulvaney for a meeting w'ith the Ukrajnians if they were going to go forward wjth investigations. And my di rector f or Ukra'ine was looki ng completely alarmed. And I came in again as this discussion was underway. Mr. Danylyuk looked very alarmed as we1l. He didn't look like he knew what was going on. That wasn't the case with Yermak.```
 
 # substance: Crowdstrike
-the GOP also used Crowdstrike: <https://apnews.com/53ce4d0adc494e878615edb022a71939> 
+the GOP also used Crowdstrike: <https://apnews.com/53ce4d0adc494e878615edb022a71939>
 
 # substance: Alexander Vindman [unformatted]
 <https://www.nytimes.com/2019/10/29/us/politics/who-is-alexander-vindman.html>
@@ -4880,16 +4881,7 @@ the fall 2016 poll found 32% supported Trump, 22% Clinton: <https://hispanicheri
 yet the spring 2016 poll found 30% supported Sanders, 12% Clinton, 18% Trump, 8% Cruz, 7% Rubio, 6% Carson; 43% support Democrats, 40% Republicans: <https://public.tableau.com/profile/mycollegeoptions#!/vizhome/PresidentialDashboard-Spring2016/PresidentialPolling2016>
 and the poll itself was a merely distributed to teachers, not students -- making it very unlikely to be representative of the nation as a whole: <https://hispanicheritage.org/my-college-options-hispanic-heritage-foundation-present-findings-of-national-survey-over-100k-high-school-students-on-2016-presidential-election-and-attitudes-on-key-issues/> https://cdn.discordapp.com/attachments/418850379518705675/630084018326470657/unknown.png
 #####c
-
-#####
-# bourgeois opinion polls
-#####o
-top 1% income Americans are more Republican than the general public but not more conservative: <https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> https://cdn.discordapp.com/attachments/418850379518705675/641979699035111453/4u2asbxtn0m_tvkapje3bq.png
-top 1% wealth Americans are more Republican than the general public; consider budget deficits more important than unemployment; prefer cutting spending to increasing revenue to reduce deficits; support cutting welfare programs in general; <https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good>
 #####c
-
-#####c
-
 
 #####
 #
