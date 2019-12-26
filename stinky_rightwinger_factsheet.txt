@@ -2850,9 +2850,11 @@ psychological profiles of liberals, conservatives, and libertarians: <https://jo
 # identity
 political identity precedes racial, religious, and sexual identity: <https://fivethirtyeight.com/features/americans-are-shifting-the-rest-of-their-identity-to-match-their-politics/> Liberal Democrats were much more likely than conservative Republicans to start identifying as Latino or saying that their ancestry was African, Asian or Hispanic. Conservative Republicans were much more likely than liberal Democrats to become born-again Christians and to stop identifying as non-religious; liberal Democrats were much more likely than conservative Republicans to leave religion and stop describing themselves as born-again. Conservative Republicans were more likely than liberal Democrats to stop describing themselves as lesbian, gay or bisexual; liberal-leaning Democrats were more likely to start identifying as lesbian, gay or bisexual.
 
-# material conditions
-partisan differences in opinion are usually much larger than income differences in opinion: <http://columbia.edu/~jrl2124/partypurse.pdf> <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> https://cdn.discordapp.com/attachments/418850379518705675/646868893423632404/unknown.png
-top 1% income Americans are more Republican than the general public but not more likely to identify as conservative: <https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> https://cdn.discordapp.com/attachments/418850379518705675/641979699035111453/4u2asbxtn0m_tvkapje3bq.png
+# material conditions: income
+partisan differences in opinion (Dem vs Rep) are usually much larger than income differences (25%ile vs 75%ile) in opinion: <http://columbia.edu/~jrl2124/partypurse.pdf> <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> https://cdn.discordapp.com/attachments/418850379518705675/646868893423632404/unknown.png
+Gallup poll: top 1% income Americans are more Republican than the general public but not more likely to identify as conservative (R/I/D, 1%: 33/41/26, 99%: 28/39/33, Δ+5,+2,-7): <https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> 
+
+# material conditions: wealth
 top 1% wealth Americans are more Republican than the general public; consider budget deficits more important than unemployment; prefer cutting spending to increasing revenue to reduce deficits; support cutting welfare programs in general; <https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <http://web.archive.org/web/20111216135148/https://fivethirtyeight.blogs.nytimes.com/2011/12/14/the-politics-of-the-1-percent/> <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good>
 #####c
 
@@ -5329,6 +5331,8 @@ among 7th-11th graders in Montreal, increased social media use correlated (acros
 #####
 # epistemology
 #####o
+survey of philosophy papers faculty: <https://philpapers.org/surveys/results.pl>
+
 # scientific realism
 descriptive realism from No Miracles Argument: current scientific theories perform better than chance, ergo scientific theories are true: <https://philpapers.org/archive/PARTDA-10.pdf> Descriptive realism would be true if T [a strong, current scientific theory] is as descriptive realism holds it to be, i.e., if T is true, and false if T is not as descriptive realism holds it to be, i.e., if T is false. T is directly rendered true or false by the world. Consequently, descriptive realism is indirectly rendered true or false by the world.
 normative realism from NMA: current scientific theories perform better than chance, ergo scientific theories are true: <https://philpapers.org/archive/PARTDA-10.pdf> By contrast, normative realism, because it is a normative thesis, is not capable of being true or false. Even if T [a strong, current scientific theory] happens to be true, it is an open question whether it is warranted or not, as will become clear in the next section.
@@ -5361,22 +5365,22 @@ https://www.thelancet.com/journals/landia/article/PIIS2213-8587(18)30288-2/fullt
 sokal and sokal squared:
 https://arstechnica.com/science/2018/10/bogus-homeopathy-data-published-in-top-journal-sparks-outcry-facepalms/
 https://fliptomato.wordpress.com/2007/03/19/medical-researcher-discovers-integration-gets-75-citations/
+unformatted
 
-wealth and power: https://whorulesamerica.ucsc.edu/power/wealth.html
+wealth and power: https://whorulesamerica.ucsc.edu/power/wealth.html unformatted
 
 ban cigarettes: https://tobaccocontrol.bmj.com/content/22/suppl_1/i27.full
 https://jme.bmj.com/content/42/5/293.full
 https://tobaccocontrol.bmj.com/content/25/5/594.full
+unformatted
 
 religion helps justify the state: <https://onlinelibrary.wiley.com/doi/pdf/10.1111/pops.12353> https://cdn.discordapp.com/attachments/418850379518705675/493628147049168898/unknown.png
 
-utilitarian imperative: http://www.hofstralawreview.org/wp-content/uploads/2014/05/27_12HofstraLRev7231983-1984.pdf
+utilitarian imperative: http://www.hofstralawreview.org/wp-content/uploads/2014/05/27_12HofstraLRev7231983-1984.pdf [unformatted]
 
-anonymity decreases vitriol in online trolling: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155923
+anonymity decreases vitriol in online trolling: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155923 unformatted
 
-henry ford was not a good businessman: <https://www.wsws.org/en/articles/2003/04/ford-a18.html> <https://www.reddit.com/comments/8zok31/_/e2kglm7>
-
-state and local taxes are regressive: <https://itep.org/whopays/> https://cdn.discordapp.com/attachments/418850379518705675/642020131790127105/report-charts-figure01-1024x663.png
+henry ford was not a good businessman: <https://www.wsws.org/en/articles/2003/04/ford-a18.html> <https://www.reddit.com/comments/8zok31/_/e2kglm7> unformatted
 
 hiv risk by activity: anal, vaginal, oral, etc: <https://www.cdc.gov/hiv/risk/estimates/riskbehaviors.html> 
 
@@ -5387,12 +5391,8 @@ in 2016/17: electrical fires in the UK killed or injured 1380 people (2 per 100,
 
 about 10,000 "model" bills are passed per year in the united states: <https://mobile.twitter.com/robodellaz/status/1113868879338434560> <https://www.azcentral.com/pages/interactives/asbestos-sharia-law-model-bills-lobbyists-special-interests-influence-state-laws/> https://cdn.discordapp.com/attachments/418850379518705675/640218327679107103/unknown.png
 
-about half of the difference in turnout between national and local elections can be attributed to 	election timing: <https://www.ppic.org/content/pubs/report/R_302ZHR.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640243630623293440/unknown.png In this report, Zoltan Hajnal, Paul Lewis, and Hugh Louch offer a detailed description of local turnout patterns and analyze the factors associated with high and low participation rates. Their results indicate that about half the difference in voter turnout across California cities can be traced to a single factor—election timing.
-
 precarity and precariousness in developed countries: <https://monthlyreview.org/2016/04/01/marxs-theory-of-working-class-precariousness/> https://cdn.discordapp.com/attachments/418850379518705675/640250582589767680/chart-2-developed-reserve-armyKILM9.png
-
-survey of philosophy papers faculty: <https://philpapers.org/surveys/results.pl>
-
+state and local taxes are regressive: <https://itep.org/whopays/> https://cdn.discordapp.com/attachments/418850379518705675/642020131790127105/report-charts-figure01-1024x663.png
 the bottom 60-80% of Americans benefit or aren't harmed by taxes and transfers of income: <https://www.cbo.gov/publication/55413> https://cdn.discordapp.com/attachments/418850379518705675/644150967184523264/unknown.png
 
 soylent has been recalled 3 times between 2015 and 2019: <https://www.foodnavigator-usa.com/Article/2017/04/26/Soylent-recalls-Soylent-1.8-powder-over-undeclared-allergens>
@@ -5400,8 +5400,9 @@ soylent has been recalled 3 times between 2015 and 2019: <https://www.foodnaviga
 2016: 2 weeks of Soylent food bars and Soylent powder 1.6 recalled over reports of : <https://www.foodsafetynews.com/2016/10/soylent-food-bars-recalled-after-dozens-of-unconfirmed-illnesses/> <https://gizmodo.com/what-we-know-about-why-soylent-products-are-making-peop-1788328612>
 2015: Soylent recalled 80 bottles of Soylent drink 2.0 over reports of mold in the drinks: <https://discourse.soylent.com/t/blog-post-shipping-delay-root-cause-analysis/23843>
 Although Soylent contains levels of lead and cadmium far below the national safety levels set by the FDA, it does contain 12 to 25 times the level of lead and 4 times the level of cadmium allowable in a product without additional labeling as specified by Proposition 65.[35][36] A lawyer who has worked on settlements of Proposition 65 suits described the case as "alarmist", as the levels are well below FDA limits of what is allowed in food products.[37] However, as Soylent is marketed as a complete meal replacement, many customers consume the drinks three times a day, equating to 36 to 75 times the lead and 12 times the level of cadmium without the Prop 65 label.[38] As You Sow believes these levels may be harmful.[35] Lead is a neurotoxin that accumulates in soft tissues and bones, and even at low levels is linked to nerve damage, lower IQ, and reproductive problems including decreased sperm count. Cadmium is also a toxic heavy metal and has been linked to kidney, liver, and bone damage.[38]
+#####c
+#####c
+#####c
 
-
-#####c
-#####c
-#####c
+about half of the difference in turnout between national and local election turnout can be attributed to election timing: <https://www.ppic.org/content/pubs/report/R_302ZHR.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640243630623293440/unknown.png In this report, Zoltan Hajnal, Paul Lewis, and Hugh Louch offer a detailed description of local turnout patterns and analyze the factors associated with high and low participation rates. Their results indicate that about half the difference in voter turnout across California cities can be traced to a single factor—election timing.
+https://mobile.twitter.com/PeteDDavis/status/1206947774090092545
