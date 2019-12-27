@@ -1190,6 +1190,7 @@ https://www.youtube.com/watch?v=c3oBookWdHY
 Soviet citizens were the first to develop fully synthetic music that could be played alongside film; it's also pretty trippy: <https://dangerousminds.net/comments/listen_to_early_soviet_synthesizer_music_hand_drawn_on_film_and_made_from_c> https://youtu.be/Z7Zb4rso82M?t=126
 Soviet citizens were the first to publicize images of carbon nanotubes: <https://en.wikipedia.org/wiki/Carbon_nanotube> In 1952, L. V. Radushkevich and V. M. Lukyanovich published clear images of 50 nanometer diameter tubes made of carbon in the Soviet Journal of Physical Chemistry.[112] This discovery was largely unnoticed, as the article was published in Russian, and Western scientists' access to Soviet press was limited during the Cold War. Monthioux and Kuznetsov mentioned in their Carbon editorial:[111] The fact is, Radushkevich and Lukyanovich [..] should be credited for the discovery that carbon filaments could be hollow and have a nanometer- size diameter, that is to say for the discovery of carbon nanotubes.
 Soviet citizens were the first to develop a commercial nuclear reactor: <https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant>
+Soviet citizens were the first to develop remote-operated tanks: <https://en.wikipedia.org/wiki/Teletank> <https://www.warhistoryonline.com/war-articles/radio-controlled-tanks-ussr.html> 
 #####c
 
 #####
@@ -2858,7 +2859,9 @@ on supporting or opposing specific legislation, partisan differences (Dem vs Rep
 within Americans, relative to the bottom 99% by income, the top 1% are more likely to identify as Republican by +5%, Independent +2%, and Democratic -7%; to identify as conservative -1%, moderate +4%, and liberal -1%: <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> https://cdn.discordapp.com/attachments/418850379518705675/659903397218091028/unknown.png
 
 # material conditions: wealth
-top 1% wealth Americans are more Republican than the general public; consider budget deficits more important than unemployment; prefer cutting spending to increasing revenue to reduce deficits; support cutting welfare programs in general; <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good>
+top 1% by wealth of Americans <https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-and-thepolicy-preferences-of-wealthy-americans/B783EEF6785FEE093198ABED8D2C3D61> <https://sci-hub.se/10.1017/S153759271200360X> 
+
+top 1% by wealth of Americans <http://www.russellsage.org/news/survey-wealthiest-1-and-common-good>
 #####c
 
 #####
