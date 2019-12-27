@@ -2850,6 +2850,9 @@ psychological profiles of liberals, conservatives, and libertarians: <https://jo
 # identity
 political identity precedes racial, religious, and sexual identity: <https://fivethirtyeight.com/features/americans-are-shifting-the-rest-of-their-identity-to-match-their-politics/> Liberal Democrats were much more likely than conservative Republicans to start identifying as Latino or saying that their ancestry was African, Asian or Hispanic. Conservative Republicans were much more likely than liberal Democrats to become born-again Christians and to stop identifying as non-religious; liberal Democrats were much more likely than conservative Republicans to leave religion and stop describing themselves as born-again. Conservative Republicans were more likely than liberal Democrats to stop describing themselves as lesbian, gay or bisexual; liberal-leaning Democrats were more likely to start identifying as lesbian, gay or bisexual.
 
+# political engagement
+political extremists are more likely to be politically engaged (the "V curve"): <https://www.people-press.org/2014/06/12/section-5-political-engagement-and-activism/> https://cdn.discordapp.com/attachments/418850379518705675/640989375936856144/6-11-Ideology-by-Engagment.png https://cdn.discordapp.com/attachments/418850379518705675/659920734235131906/unknown.png
+
 # material conditions: income
 on supporting or opposing specific legislation, partisan differences (Dem vs Rep) are usually much larger than income differences (25%ile vs 75%ile) in opinion (5 of 6 security issues, 24 of 28 economic issues, and 15 of 15 social issues): <http://columbia.edu/~jrl2124/partypurse.pdf> <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> https://cdn.discordapp.com/attachments/418850379518705675/646868893423632404/unknown.png
 within Americans, relative to the bottom 99% by income, the top 1% are more likely to identify as Republican by +5%, Independent +2%, and Democratic -7%; to identify as conservative -1%, moderate +4%, and liberal -1%: <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> https://cdn.discordapp.com/attachments/418850379518705675/659903397218091028/unknown.png
@@ -5390,8 +5393,6 @@ henry ford was not a good businessman: <https://www.wsws.org/en/articles/2003/04
 
 hiv risk by activity: anal, vaginal, oral, etc: <https://www.cdc.gov/hiv/risk/estimates/riskbehaviors.html> 
 
-political extremists are more likely to be politically engaged: <https://www.people-press.org/2014/06/12/section-5-political-engagement-and-activism/> https://cdn.discordapp.com/attachments/418850379518705675/640989375936856144/6-11-Ideology-by-Engagment.png
-
 in 2016: housing fires from electrical failure killed 480 people and injured 1260 people (1740 total, 0.5 per 100,000):  <https://www.nfpa.org/News-and-Research/Data-research-and-tools/Electrical/Electrical> <https://www.nfpa.org/-/media/Files/News-and-Research/Fire-statistics-and-reports/US-Fire-Problem/Fire-causes/osHomeElectricalFiresTables.pdf>
 in 2016/17: electrical fires in the UK killed or injured 1380 people (2 per 100,000): <https://www.electricalsafetyfirst.org.uk/about-us/policies-and-research/statistics-england/> <https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables#fatalities-and-casualties>
 
@@ -5412,3 +5413,4 @@ Although Soylent contains levels of lead and cadmium far below the national safe
 
 about half of the difference in turnout between national and local election turnout can be attributed to election timing: <https://www.ppic.org/content/pubs/report/R_302ZHR.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640243630623293440/unknown.png In this report, Zoltan Hajnal, Paul Lewis, and Hugh Louch offer a detailed description of local turnout patterns and analyze the factors associated with high and low participation rates. Their results indicate that about half the difference in voter turnout across California cities can be traced to a single factor—election timing.
 https://mobile.twitter.com/PeteDDavis/status/1206947774090092545
+https://mobile.twitter.com/PeteDDavis/status/1198705247528607745
