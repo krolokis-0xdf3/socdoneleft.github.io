@@ -622,6 +622,11 @@ raising the minimum wage strongly reduces inequality: <https://www.minneapolisfe
 
 # effects: suicide
 higher minimum wages are associated with lower suicide rates -- each $1 increase reduces suicide by about 2%: <https://www.reuters.com/article/us-health-suicide-wages/higher-state-minimum-wage-tied-to-lower-suicide-rates-idUSKCN1RV17R> <https://www.ajpmonline.org/article/S0749-3797(19)30028-5/fulltext> <https://sci-hub.se/10.1016/j.amepre.2018.12.008> https://cdn.discordapp.com/attachments/418850379518705675/640222148795039744/unknown.png A one-dollar increase in state minimum wage was associated on average with a 1.9% decrease in the annual age-adjusted suicide rate. Such a decrease in the suicide rate during the study period would have resulted in roughly 8,000 fewer suicide deaths.
+
+# germany [unformatted]
+https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13005
+https://link.springer.com/article/10.1186/s12651-019-0258-z
+https://www.econstor.eu/bitstream/10419/191749/1/1048204030.pdf
 #####c
 
 #####
