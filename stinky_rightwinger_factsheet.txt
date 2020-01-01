@@ -1768,7 +1768,7 @@ leftist social democratic economic policies don't prevent bigotry or racism: <ht
 # transgender biology
 #####o
 # consensus
-all major institutions agree that transgender identity is not a disorder:
+all major relevant institutions agree that transgender identity (identifying as a different gender than one's birth sex) is not a disorder and that Gender Identity Disorder (GID) is best solved through counseling, social transition, and other forms of transition:
 American Psychological Association's guidelines for trans and gender nonconforming people: <https://www.apa.org/practice/guidelines/transgender.pdf>
 American Psychiatric Association's report on gender identity disorder: <https://www.ncbi.nlm.nih.gov/pubmed/22736225>
 World Health Organization's upcoming changes on the classification of transgender people: <http://www.who.int/bulletin/volumes/95/2/16-183913/en/>
@@ -2912,8 +2912,8 @@ right-wing authoritarians are less able to process information, less able to rec
 right-wing authoritarians (RWAs) have a harder time understanding logic: <http://theauthoritarians.org/Downloads/TheAuthoritarians.pdf> https://cdn.discordapp.com/attachments/418850379518705675/446817085931388938/unknown.png
 
 # anti-intellectualism
-anti-intellectualism predicts conservatism, Brexit support, Trump support, and Trump vote: <https://journals.sagepub.com/doi/pdf/10.1177/1532673X17719507> <https://sci-hub.se/10.1177/1532673X17719507> https://cdn.discordapp.com/attachments/418850379518705675/661563221332721666/unknown.png
-anti-intellectualism predicts belief that nuclear energy is dangerous, that climate change is not dangerous, and that climate change is not mainly caused by humans: <https://journals.sagepub.com/doi/pdf/10.1177/1532673X17719507> <https://sci-hub.se/10.1177/1532673X17719507> https://cdn.discordapp.com/attachments/418850379518705675/661563184624304128/unknown.png
+lower trust in science communications predicts conservatism, Brexit support, Trump support, and Trump vote: <https://journals.sagepub.com/doi/pdf/10.1177/1532673X17719507> <https://sci-hub.se/10.1177/1532673X17719507> https://cdn.discordapp.com/attachments/418850379518705675/661563221332721666/unknown.png
+lower trust in science communications predicts belief that nuclear energy is dangerous, that climate change is not dangerous, and that climate change is not mainly caused by humans: <https://journals.sagepub.com/doi/pdf/10.1177/1532673X17719507> <https://sci-hub.se/10.1177/1532673X17719507> https://cdn.discordapp.com/attachments/418850379518705675/661563184624304128/unknown.png
 conservative trust in scientific communications has declined: <https://journals.sagepub.com/doi/pdf/10.1177/1532673X17719507> <https://sci-hub.se/10.1177/1532673X17719507> https://cdn.discordapp.com/attachments/418850379518705675/540340438083567618/unknown.png
 science intelligence, curiosity in science, and political beliefs are highly related: <https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12396> https://cdn.discordapp.com/attachments/418850379518705675/641984363726241794/pops12396-fig-0008-m.png
 democrats are much closer to scientists on major scientific issues of today: <https://fivethirtyeight.com/features/americans-and-scientists-agree-more-on-vaccines-than-on-other-hot-button-issues/> https://cdn.discordapp.com/attachments/418850379518705675/640935497052454940/enten-datalab-vaccinesplitrelativelysmall.png
