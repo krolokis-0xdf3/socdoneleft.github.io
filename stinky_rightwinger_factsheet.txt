@@ -2858,6 +2858,9 @@ psychological profiles of liberals, conservatives, and libertarians: <https://jo
 # identity
 political identity precedes racial, religious, and sexual identity: <https://fivethirtyeight.com/features/americans-are-shifting-the-rest-of-their-identity-to-match-their-politics/> Liberal Democrats were much more likely than conservative Republicans to start identifying as Latino or saying that their ancestry was African, Asian or Hispanic. Conservative Republicans were much more likely than liberal Democrats to become born-again Christians and to stop identifying as non-religious; liberal Democrats were much more likely than conservative Republicans to leave religion and stop describing themselves as born-again. Conservative Republicans were more likely than liberal Democrats to stop describing themselves as lesbian, gay or bisexual; liberal-leaning Democrats were more likely to start identifying as lesbian, gay or bisexual.
 
+# extremism
+people get addicted to the sense of community that white nationalism builds in them: <https://www.wbur.org/hereandnow/2019/08/15/addicted-to-hate-white-supremacy> <https://journals.sagepub.com/doi/abs/10.1177/0003122417728719> <http://sci-hub.tw/10.1177/0003122417728719> Disengagement from white supremacy is characterized by substantial lingering effects that subjects describe as addiction. We conclude with a discussion of the implications of identity residual for understanding how people leave and for theories of the self
+
 # political engagement
 political extremists are more likely to be politically engaged (the "V curve"): <https://www.people-press.org/2014/06/12/section-5-political-engagement-and-activism/> https://cdn.discordapp.com/attachments/418850379518705675/640989375936856144/6-11-Ideology-by-Engagment.png https://cdn.discordapp.com/attachments/418850379518705675/659920734235131906/unknown.png
 
@@ -2989,11 +2992,10 @@ even for conservatives, publicly funded media (NPR, PBS) has higher trust: <http
 CNN actually gives Republican guests more air time than Democratic guests: <https://web.stanford.edu/~ayurukog/cable_news.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471458421699510292/unknown.png
 for years, the BBC secretly colluded with MI5 to keep out leftist journalists: http://www.bbc.com/news/stories-43754737
 
-# psychology
+# psychology: fake news
 people with weaker cognitive ability have a harder time judging fake news objectively: <https://www.sciencedirect.com/science/article/pii/S0160289617301617> <https://www.scientificamerican.com/article/cognitive-ability-and-vulnerability-to-fake-news/> https://cdn.discordapp.com/attachments/418850379518705675/641996458249289750/1-s2.png
 delusional, dogmatic, and fundamentalist people have a harder time judging fake news as fake: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3172140> <http://www.niemanlab.org/2018/05/people-who-are-delusional-dogmatic-or-religious-fundamentalists-are-more-likely-to-believe-fake-news/>
 social exclusion increases belief in conspiracy theories: <https://www.sciencedirect.com/science/article/pii/S0022103116304711> <https://psychcentral.com/news/2017/02/18/social-exclusion-leads-to-belief-in-conspiracy-theories/116589.html> https://cdn.discordapp.com/attachments/418850379518705675/641996525593165849/1-s2.png
-people get addicted to the sense of community that white nationalism builds in them: <https://www.wbur.org/hereandnow/2019/08/15/addicted-to-hate-white-supremacy> <https://journals.sagepub.com/doi/abs/10.1177/0003122417728719> <http://sci-hub.tw/10.1177/0003122417728719> Disengagement from white supremacy is characterized by substantial lingering effects that subjects describe as addiction. We conclude with a discussion of the implications of identity residual for understanding how people leave and for theories of the self
 most people (and most young people) have a hard time sifting fact from fiction: <https://stacks.stanford.edu/file/druid:fv751yt5934/SHEG%20Evaluating%20Information%20Online.pdf> [A]t each level -- middle school, high school, and college -- these variations paled in comparison to a stunning and dismaying consistency. Overall, young people's ability to reason about the information on the Internet can be summed up in one word: bleak.
 
 # solution: education
