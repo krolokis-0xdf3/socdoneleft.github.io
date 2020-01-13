@@ -786,6 +786,9 @@ inheritance (rather than merit) is the largest cause for intergenerational wealt
 higher-income people are more likely to inherit wealth, and more likely to inherit more wealth, than lower-income people: <https://www.ifs.org.uk/uploads/publications/bns/bn192.pdf> https://cdn.discordapp.com/attachments/418850379518705675/564452559310553098/unknown.png
 among millionaires, lesser (self-reported) unearned sources of wealth is associated with greater happiness from greater (self-reported) net worth: <https://www.psypost.org/2018/02/large-amount-wealth-linked-increased-happiness-especially-among-earned-50767> <https://journals.sagepub.com/doi/abs/10.1177/0146167217744766> https://cdn.discordapp.com/attachments/418850379518705675/640242646685581312/unknown.png
 
+# causes: unmeritocratic
+CEO compensation vs worker compensation has increased from 20x higher to 200x higher -- are CEOs 10x more productive today than they were in 1960? <https://www.epi.org/files/pdf/130354.pdf> https://cdn.discordapp.com/attachments/418850379518705675/666363950715240468/unknown.png
+
 # causes: direct transfers
 direct transfers probably account for most of the correlation between parent and child wealth: <https://www.nber.org/papers/w21409> https://cdn.discordapp.com/attachments/418850379518705675/537336682807296050/unknown.png Column 6 of Table 5 presents the estimates when we control for all these possible mechanisms together. All together, we can explain almost 50% of the effect of the biological parent’s wealth effect on children’s wealth, while we are able to explain only a bit more than 20% of the adoptive parent’s wealth effect. 47 Given that most of the environmental effect remains unexplained by earnings, savings rates, and investment returns, direct financial transfers from parents to children are a likely explanation for much of the environmental effect. 48 However, we do not have data on financial transfers that would allow us to study this directly.
 
