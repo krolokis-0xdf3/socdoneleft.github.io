@@ -1564,6 +1564,7 @@ a variety of advances in quantum physics: <https://en.wikipedia.org/wiki/Sylvest
 10 adolescent variables explain 50% of the black-white difference in IQ: <https://gssdataexplorer.norc.org/> https://cdn.discordapp.com/attachments/418850379518705675/640930413094895626/unknown.png
 
 # measure: education
+the black-white performance gap has hugely declined between 1940 and 1980; the major gaps are now those of income and wealth: <https://cepa.stanford.edu/sites/default/files/reardon%20whither%20opportunity%20-%20chapter%205.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471542461886365696/unknown.png
 since 1980, massive advancements have been made in reducing the black-white, Hispanic-white, and poor-rich gaps in reading, mathetmatics, and dropout rates: <https://www.usccr.gov/pubs/2018/2018-01-10-Education-Inequity.pdf> https://cdn.discordapp.com/attachments/418850379518705675/563595783702577153/unknown.png
 the highschool graduation rate has hugely increased for black and Hispanic youth: <https://www.pewsocialtrends.org/2018/11/15/early-benchmarks-show-post-millennials-on-track-to-be-most-diverse-best-educated-generation-yet/> https://cdn.discordapp.com/attachments/418850379518705675/617790581409841152/unknown.png
 although nonwhites are underrepresented in STEM fields, they are not overwhelmingly so: <https://www.pewresearch.org/fact-tank/2018/01/09/7-facts-about-the-stem-workforce/> https://cdn.discordapp.com/attachments/418850379518705675/640930506627874826/FT_18.png
@@ -1589,10 +1590,9 @@ the reverse Flynn effect occurs *within* families as well, suggesting genetics (
 
 # measures: race in usa
 the white-black iq gap in the USA is predicted to drop to 5 points by 2060: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603674/> https://cdn.discordapp.com/attachments/418850379518705675/470991282747998208/pone.png White-Black gaps from currently 11.1 IQ decrease to 6.5 IQ (optimistic model, Table 5) or 6.7 IQ (pessimistic model, Table 6), White-Hispanic gaps from 8.7 IQ to 3.5 IQ (op.) or 3.0 IQ (pe.)[.]
-the black-white performance gap has hugely declined between 1940 and 1980; the major gaps are now those of income and wealth: <https://cepa.stanford.edu/sites/default/files/reardon%20whither%20opportunity%20-%20chapter%205.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471542461886365696/unknown.png
 
 # measure: sub-saharan africa
-sub-saharan african IQ is estimated at 82.6; pre-2006 IQ at 78 (table 2 has sample populations); Lynn and Jensen systematically excluded higher-IQ estimate studies without any valid methodological reason: <https://www.sciencedirect.com/science/article/pii/S0160289609000634?via%3Dihub> https://cdn.discordapp.com/attachments/418850379518705675/570828145733795850/unknown.png
+sub-saharan african IQ is estimated at 82.6; pre-2006 IQ at 78 (table 2 has sample populations); Lynn and Jensen systematically excluded higher-IQ estimate studies without any valid methodological reason: <https://www.sciencedirect.com/science/article/pii/S0160289609000634> <http://sci-hub.se/10.1016/j.intell.2009.05.002> https://cdn.discordapp.com/attachments/418850379518705675/570828145733795850/unknown.png
 abut 260 million children are not and will not be in school (and it would cost just ~10 billion per year to fix that): <https://www.theguardian.com/commentisfree/2018/may/11/260-million-school-global-fund-child-marriage-trafficking-labour> 
 
 # environment: lead
@@ -4714,6 +4714,7 @@ TLDR: <https://www.youtube.com/watch?v=1wZphSHtnAg>
 
 # polls were accurate in 2016
 polls said that Clinton would receive 48.5% of the vote, Trump 44.9%, and Johnson 5.0%: <https://projects.fivethirtyeight.com/2016-election-forecast/> the Federal Elections Commission says: Clinton received 48.18% of the vote, Trump 46.09%, and Johnson 3.28%: <https://en.wikipedia.org/wiki/United_States_presidential_election,_2016> <https://transition.fec.gov/pubrec/fe2016/2016presgeresults.pdf> the polls overestimated Clinton by 0.3%, underestimated Trump by 1.2%, and overestimated Johnson by 1.7% (just 3.2% off)
+rcp: <https://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html> <https://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton_vs_johnson_vs_stein-5952.html> 
 
 # polls were accurate in 2018
 polls said that Democrats would receive 50.7% of the vote and Republicans 42.0% (ratio: 1.207): <https://projects.fivethirtyeight.com/congress-generic-ballot-polls/> https://cdn.discordapp.com/attachments/418850379518705675/556600710062538772/unknown.png Democrats received 53.4% of the vote and Republicans 44.8% (ratio: 1.192, 1.25% off): <https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections>
