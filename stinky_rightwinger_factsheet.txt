@@ -4582,17 +4582,20 @@ atheists in college: https://blogs.scientificamerican.com/observations/college-f
 #####o
 
 #####
-# human nature: murder
+# human nature: malleable
 #####o
-# long decline
-long-term 3-century decline in American murder rate from 30/100,000 to 5/100,000: <http://thepublicintellectual.org/2011/05/02/a-crime-puzzle/> https://cdn.discordapp.com/attachments/418850379518705675/636510101376729118/Violence-Stylized-2.png https://cdn.discordapp.com/attachments/418850379518705675/636510083215523850/dff6489a561d0f2d8ea17736fa21556e168e104d.png
-^ debunk this: https://cdn.discordapp.com/attachments/668134862712078347/668615125577498627/unknown.png unformatted
-long-term 6-century decline in European murder rate from 50/100,000 to 3/100,000: <https://www.vrc.crim.cam.ac.uk/vrcresearch/paperdownload/manuel-eisner-historical-trends-in-violence.pdf> https://cdn.discordapp.com/attachments/418850379518705675/500095255962714122/unknown.png
-decade-long decline in fights, crimes, and fear at schools: <https://books.google.com/books?id=8-vYCwAAQBAJ&lpg=PP1&pg=PA443#v=onepage&q&f=false> <https://files.eric.ed.gov/fulltext/ED483086.pdf> https://cdn.discordapp.com/attachments/418850379518705675/567186068924006400/unknown.png
+# murder: long decline
+murders USA 1750 to 2010: three-century-long decline in homicide rate from 30/100,000 around 1750's to 5/100,000 around 2000's: <http://thepublicintellectual.org/2011/05/02/a-crime-puzzle/> https://cdn.discordapp.com/attachments/418850379518705675/636510101376729118/Violence-Stylized-2.png
+murders USA 1900 to 2010: centry-long fluctuation from 8/100,000 around 1900's to 5/100,000 around 1940's to 8/100,000 around 1970's to 5/100,000 around 2000's:  <http://thepublicintellectual.org/2011/05/02/a-crime-puzzle/> https://cdn.discordapp.com/attachments/418850379518705675/636510083215523850/dff6489a561d0f2d8ea17736fa21556e168e104d.png
+murders Europe 1200 to 2000: six-century-long decline in homicide rate from 50/100,000 to 1/100,000: <https://www.vrc.crim.cam.ac.uk/vrcresearch/paperdownload/manuel-eisner-historical-trends-in-violence.pdf> https://cdn.discordapp.com/attachments/418850379518705675/500095255962714122/unknown.png
 
-# state vs nonstate
+# murder: state vs nonstate
 nonstate polities had massively higher violent death rates: <https://www.edge.org/conversation/steven_pinker-a-history-of-violence-edge-master-class-2011>  https://cdn.discordapp.com/attachments/418850379518705675/635718344305016833/1.png
 nonstate polities had massively higher violent death rates: <https://ourworldindata.org/ethnographic-and-archaeological-evidence-on-violent-deaths> https://cdn.discordapp.com/attachments/418850379518705675/635718387514867713/2.png
+
+# violence: long decline
+violent crime USA 1960 to 2010: half-century-long fluctuation from 200/100,000 around 1960's to 600/100,000 around 1980's to 400/100,000 around 2000's: <https://www.urban.org/urban-wire/violence-america-what-does-it-mean> https://cdn.discordapp.com/attachments/418850379518705675/669238034528469037/violentCrime2.png
+decade-long decline in fights, crimes, and fear at schools: <https://books.google.com/books?id=8-vYCwAAQBAJ&lpg=PP1&pg=PA443#v=onepage&q&f=false> <https://files.eric.ed.gov/fulltext/ED483086.pdf> https://cdn.discordapp.com/attachments/418850379518705675/567186068924006400/unknown.png
 #####c
 
 #####
