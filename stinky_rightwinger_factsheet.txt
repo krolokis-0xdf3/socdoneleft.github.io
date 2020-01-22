@@ -1778,7 +1778,7 @@ civil rights movements in the past were deeply unpopular: <https://www.washingto
 #####o
 # effects: economic
 race-diverse startups are more successful than race-homogenous: <https://search.proquest.com/docview/2011214452> https://cdn.discordapp.com/attachments/418850379518705675/456636044125667339/unknown.png
-race-diverse retail stores are more successful than race-homogenous: <http://journals.sagepub.com/doi/abs/10.1177/0149206315579511> https://cdn.discordapp.com/attachments/418850379518705675/456640748205506574/unknown.png
+race-diverse retail stores are more successful than race-homogenous: <http://journals.sagepub.com/doi/abs/10.1177/0149206315579511> <https://sci-hub.se/10.1177/0149206315579511> https://cdn.discordapp.com/attachments/418850379518705675/456640748205506574/unknown.png
 
 # effects: health
 racism is associated with cigarette smoking (which causes death) as a coping behavior among blacks: <https://www.tandfonline.com/doi/abs/10.1080/10826084.2016.1228678> https://cdn.discordapp.com/attachments/418850379518705675/496853044210827264/33826158.png After adjusting for having an emotional response to discrimination, health care and workplace discrimination, age, education, household income, and being married, males who had a physical response to discrimination (e.g., upset stomach or headache) had higher odds of cigarette use (odds ratio (OR): 1.95, 95% confidence interval (CI): 1.15-3.30) than men who did not have a physical response to discrimination.
