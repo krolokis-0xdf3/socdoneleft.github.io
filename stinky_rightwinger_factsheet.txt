@@ -4171,7 +4171,8 @@ psychologists are bad at predicting gun violence: https://www.ncbi.nlm.nih.gov/p
 higher fatalities and higher woundings occur in active shooter incidents with a semiautomatic rifle than those without: <https://jamanetwork.com/journals/jama/article-abstract/2702134> <https://sci-hub.se/10.1001/jama.2018.11009> https://cdn.discordapp.com/attachments/418850379518705675/640015658381475880/unknown.png
 
 # policy
-looser gun laws correlate with higher mass shootings: <https://www.bmj.com/content/364/bmj.l542> https://cdn.discordapp.com/attachments/418850379518705675/600122964503035925/F2.png
+looser gun laws correlate with higher mass shootings: <https://www.bmj.com/content/364/bmj.l542> https://cdn.discordapp.com/attachments/418850379518705675/600122964503035925/F2.png Mass shootings were defined as independent events in which four or more people were killed by a firearm. Data from the Federal Bureau of Investigation’s Uniform Crime Reporting System from 1998-2015 were used to calculate annual rates of mass shootings in each state. Mass shooting events and rates were further separated into those where the victims were immediate family members or partners (domestic) and those where the victims had other relationships with the perpetrator (non-domestic).
+looser gun laws correlate with higher mass shootings: <https://www.bmj.com/content/364/bmj.l542> https://cdn.discordapp.com/attachments/418850379518705675/670066417604755456/unknown.png Mass shootings were defined as independent events in which four or more people were killed by a firearm. Data from the Federal Bureau of Investigation’s Uniform Crime Reporting System from 1998-2015 were used to calculate annual rates of mass shootings in each state. Mass shooting events and rates were further separated into those where the victims were immediate family members or partners (domestic) and those where the victims had other relationships with the perpetrator (non-domestic).
 #####c
 
 #####
