@@ -1,6 +1,4 @@
-﻿https://www.theatlantic.com/ideas/archive/2018/12/hard-data-populism-bolsonaro-trump/578878/
-
-#####
+﻿#####
 #
 #
 # "stinky_rightwinger_factsheet" by Socialism Done Left
@@ -151,6 +149,14 @@ great example: vTaiwan <https://www.technologyreview.com/s/611816/the-simple-but
 
 # popularity
 29% of Americans think direct democracy is "very good", 38% "somewhat good", 19% "somewhat bad", and 12% "very bad" <http://www.pewglobal.org/2017/11/07/europe-north-america-publics-more-supportive-than-experts-of-direct-democracy/> https://cdn.discordapp.com/attachments/418850379518705675/470985003698749442/PG_2017.png
+#####c
+
+#####
+# populism
+#####o
+populist rule correlates with a 15.3% decline in a country's Polity IV democracy score; each year of populist rule correlates with a 30.3% decline: <https://www.theatlantic.com/ideas/archive/2018/12/hard-data-populism-bolsonaro-trump/578878/> <https://institute.global/policy/populist-harm-democracy-empirical-assessment> https://cdn.discordapp.com/attachments/418850379518705675/672545806540210216/unknown.png
+populists tend to rule for more years than non-populists: <https://www.theatlantic.com/ideas/archive/2018/12/hard-data-populism-bolsonaro-trump/578878/> <https://institute.global/policy/populist-harm-democracy-empirical-assessment> https://cdn.discordapp.com/attachments/418850379518705675/672547326937792512/unknown.png
+rate of democratic backsliding by ideology was basically indifferent: of 13 right-wing populists, 5 (38.5%) backslid; of 15 left-wing, 5 (33.3%) backslid; of 17 unclassified (often centrist), 5 (29.4%) backslid: <https://www.theatlantic.com/ideas/archive/2018/12/hard-data-populism-bolsonaro-trump/578878/> <https://institute.global/policy/populist-harm-democracy-empirical-assessment> ```Between 1990 and 2014, 13 right-wing populist governments were elected; of these, five have significantly curtailed civil liberties and political rights, as measured by Freedom House. Over the same period, 15 left-wing populist governments were elected; of these, the same number reduced such freedoms. (Over the same period, there were also 17 populist governments that cannot easily be classified as either right- or left-wing; again, five of these governments diminished civil liberties and political rights.) Although this indicates a slightly higher rate of backsliding among right-wing populists than left-wing ones (38 per cent vs. 33 per cent), these data clearly contradict the belief that left-wing populism does not pose a threat to democracy.```
 #####c
 
 #####
