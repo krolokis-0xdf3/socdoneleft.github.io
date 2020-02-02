@@ -2487,7 +2487,7 @@ being a mother costs women a portion of their income, but being a father is free
 # economic
 gender-diverse companies are more successful than gender-homogenous: <http://journals.sagepub.com/doi/abs/10.1177/1548051813504460> https://cdn.discordapp.com/attachments/418850379518705675/474067704563630080/unknown.png
 
-# psychological
+# health
 FEMINISM makes you SLEEP HARDER :sleeping: :sleeping_accommodation: :sleeping: <https://qz.com/1323630/how-parents-can-get-more-sleep-living-in-a-more-gender-equal-society-helps/> https://cdn.discordapp.com/attachments/418850379518705675/566059827139313692/unknown.png
 #####c
 
@@ -2790,41 +2790,48 @@ http://web.archive.org/web/20180613013353/http://www.anc.org.za/content/african-
 # religion
 #
 #####o
+religiosity by country: <https://www.semanticscholar.org/paper/The-Centrality-of-Religiosity-Scale-(CRS)-Huber-Huber/ba9f86cb4db4ed58b53993a4c06e1d29c79ba786> https://cdn.discordapp.com/attachments/418850379518705675/588361504156549120/unknown.png
 
 #####
-# general
+# effects on science and education
 #####o
-# effects
-there were 140 documented fatalities from faith healing between 1975 and 1995: <http://www.childrenshealthcare.org/PDF%20Files/Pediatricsarticle.pdf> <https://rationalwiki.org/wiki/Faith_healing>
-religion-diverse companies are more successful than religion-homogenous: <https://research.bond.edu.au/en/publications/what-drives-business-performance-in-denmark-does-social-capital-a>
-more-religious countries have worse scientific education performance: <https://www.secularism.org.uk/news/2017/03/keep-education-and-religion-separate-to-boost-science-attainment-study> <https://www.sciencedirect.com/science/article/pii/S0160289617300247> https://cdn.discordapp.com/attachments/418850379518705675/641985165002014723/1-s2.png
-
-# politics
-only 4% of atheists voted for Donald Trump: https://cdn.discordapp.com/attachments/418850379518705675/440401607201390602/unknown.png <https://www.baylor.edu/baylorreligionsurvey/doc.php/292546.pdf>
-
 # demographics
 most scientists are atheist: <http://www.pewforum.org/2009/11/05/scientists-and-belief> https://cdn.discordapp.com/attachments/418850379518705675/641979831013212160/Scientists-and-Belief-1.png
 most philosophers are atheist: <https://www.psychologytoday.com/blog/logical-take/201402/why-62-philosophers-are-atheists-part-i>
-religiosity by country: <https://www.semanticscholar.org/paper/The-Centrality-of-Religiosity-Scale-(CRS)-Huber-Huber/ba9f86cb4db4ed58b53993a4c06e1d29c79ba786> https://cdn.discordapp.com/attachments/418850379518705675/588361504156549120/unknown.png
+
+# effects
+more-religious countries have worse scientific education performance: <https://www.secularism.org.uk/news/2017/03/keep-education-and-religion-separate-to-boost-science-attainment-study> <https://www.sciencedirect.com/science/article/pii/S0160289617300247> https://cdn.discordapp.com/attachments/418850379518705675/641985165002014723/1-s2.png
 #####c
 
 #####
 # psychology
 #####o
-# perception
+# addiction
 religion, gambling, and getting high all produce the same mental state: <https://www.engadget.com/2016/11/29/religion-brain-reward-gambling-love-study-utah/> <http://www.tandfonline.com/doi/10.1080/17470919.2016.1257437> https://cdn.discordapp.com/attachments/418850379518705675/641985343167528983/psns_a_1257437_f0002_c.png
 
 # charity
 in children, religiosity correlates negatively with altruism (positively with selfishness): <https://www.independent.co.uk/news/science/religious-children-are-more-selfish-than-atheist-children-say-us-neuroscientists-a6723596.html> <https://www.cell.com/current-biology/fulltext/S0960-9822(15)01167-7> https://cdn.discordapp.com/attachments/418850379518705675/641985357671563275/gr2.png
 
-# sexism
+# politics: democracy-autocracy
+mentioning religion increases support for existing political systems among the religious: <https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12353> https://cdn.discordapp.com/attachments/418850379518705675/540435143127728129/pops12353-fig-0001-m.png
+in relation to terrorism, the groups most opposed to suspending government checks and balances, censoring of the press, and banning Muslim immigration are the nonreligious, Jews and Muslims: <https://friendlyatheist.patheos.com/2018/05/02/new-poll-suggests-non-religious-americans-arent-veering-toward-the-alt-right/> <https://www.ispu.org/american-muslim-poll-2018-full-report/> <https://www.ispu.org/download/27890/?uid=e1dd0b9f63> https://cdn.discordapp.com/attachments/418850379518705675/576668954471301123/unknown.png
+
+# politics: tolerance-tradition: sexism
 religiosity is associated with sexism, fundamentalism, right-wing authoritarianism, and social dominance orientation among atheists, Muslims, and Christians: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286999/> https://cdn.discordapp.com/attachments/418850379518705675/568522347250843669/unknown.png
 
-# racism
+# politics: tolerance-tradition: racism
 religiosity is associated with racism: <https://www.psychologytoday.com/us/blog/colorstruck/201006/does-religion-breed-racism> <https://journals.sagepub.com/doi/abs/10.1177/1088868309352179> <http://sci-hub.tw/10.1177/1088868309352179> https://cdn.discordapp.com/attachments/418850379518705675/641710508465979436/unknown.png
 
-# statism
-mentioning religion increases support for existing political systems among the religious: <https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12353> https://cdn.discordapp.com/attachments/418850379518705675/540435143127728129/pops12353-fig-0001-m.png
+# politics: tolerance-tradition: Donald Trump
+just 4% of atheists voted for Donald Trump in 2016: <https://www.baylor.edu/baylorreligionsurvey/doc.php/292546.pdf> https://cdn.discordapp.com/attachments/418850379518705675/443955801560973313/unknown.png
+voters are much more open to nonreligious candidates: <https://apnews.com/0c6a4a7510b64498a2238fe304aec746> <http://www.apnorc.org/PDFs/AP-NORC%20Omnibus%20August%202018/Omnibus%20August%202018%20topline_final.pdf> https://cdn.discordapp.com/attachments/418850379518705675/509206908457058304/1447.png
+trump has turned some americans off religion: <https://www.thedailybeast.com/trumps-god-talk-is-turning-america-off-religion> https://www.youtube.com/watch?v=m0SOcptdEPM
+#####c
+
+#####
+# health
+#####o
+there were 140 documented fatalities from faith healing between 1975 and 1995: <http://www.childrenshealthcare.org/PDF%20Files/Pediatricsarticle.pdf> <https://rationalwiki.org/wiki/Faith_healing>
 #####c
 
 #####
@@ -2835,7 +2842,7 @@ daily reminder that Christians believe in zombies (Matthew 27:50-54, NIV): <http
 # christianity as a leftist faith
 COMRADE JESUS CHRIST: https://cdn.discordapp.com/attachments/418850379518705675/552908165495390211/comrade.png
 JESUS WAS A MARXIST: https://cdn.discordapp.com/attachments/418850379518705675/552908267073044492/Dhr3B7nWsAA0Xzz.jpg
-early christians were communalists: <https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecaf.12211> The notion that indigence might generate a legitimate claim to succour never entered into a donor’s deliberations: poor relief, a core purpose of welfare, never evolved in Roman philanthropy. [....] Christians adopted approaches to welfare that were new to Roman eyes. The very first community of Christians, in first-century Jerusalem, hosted free communal meals; deacons were appointed to oversee distribution of the common fund that had been endowed by wealthy members of the congregation though property sales (Acts 4–6). [....] Tertullian bracketed his community’s income, deposita pietatis, with corresponding spending on beneficiaries, alumni confessionis. [....] Christianity was on the pathway to a model of society where, according to Andrea Giardina (2007, p. 768), ‘poverty assumed a central position, in the collective imagination as in the redistribution of wealth’. [....] Ambrose was an unbending defender of property rights, in particular of the right of the church to own property, quite logically so because such rights were a prerequisite for dispensing benevolentia. [....] Sermons such as these had practical implications for welfare provision. Lists of paupers eligible for support were compiled, called matricula; according to John Chrysostomos, in Antioch the number came to 3,000 (John Chrysostomos 1888, pp. 706–7).n
+early christians were communalists: <https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecaf.12211> The notion that indigence might generate a legitimate claim to succour never entered into a donor’s deliberations: poor relief, a core purpose of welfare, never evolved in Roman philanthropy. [....] Christians adopted approaches to welfare that were new to Roman eyes. The very first community of Christians, in first-century Jerusalem, hosted free communal meals; deacons were appointed to oversee distribution of the common fund that had been endowed by wealthy members of the congregation though property sales (Acts 4–6). [....] Tertullian bracketed his community’s income, deposita pietatis, with corresponding spending on beneficiaries, alumni confessionis. [....] Christianity was on the pathway to a model of society where, according to Andrea Giardina (2007, p. 768), ‘poverty assumed a central position, in the collective imagination as in the redistribution of wealth’. [....] Ambrose was an unbending defender of property rights, in particular of the right of the church to own property, quite logically so because such rights were a prerequisite for dispensing benevolentia. [....] Sermons such as these had practical implications for welfare provision. Lists of paupers eligible for support were compiled, called matricula; according to John Chrysostomos, in Antioch the number came to 3,000 (John Chrysostomos 1888, pp. 706–7).
 #####c
 
 #####
@@ -2878,11 +2885,13 @@ Many of the surveys that have been conducted explore the extent to which Muslims
 #####o
 
 #####
-# general
+# efficacy
 #####o
-# terrorism efficacy
+# terrorism in war
 relative to civil wars led by nonterrorist rebel groups, terrorist rebel groups were 15x less likely to achieve victory and 2x less likely to reach an agreement with the government: <https://www.cambridge.org/core/journals/international-organization/article/do-terrorists-win-rebels-use-of-terrorism-and-civil-war-outcomes/4729B2B926904616190DC38DB3240C8F> <https://sci-hub.se/10.1017/S0020818315000089> https://cdn.discordapp.com/attachments/418850379518705675/656629320332083210/unknown.png
 relative to nondemocratic government, civil wars led by terrorist rebel groups against democratic governments less (rather than more) likely to fail, but not more likely to succeed (or: terrorism is better at elongating wars against democracies than nondemocracies, but not at actually winning them): <https://www.cambridge.org/core/journals/international-organization/article/do-terrorists-win-rebels-use-of-terrorism-and-civil-war-outcomes/4729B2B926904616190DC38DB3240C8F> <https://sci-hub.se/10.1017/S0020818315000089> https://cdn.discordapp.com/attachments/418850379518705675/656629824219119617/unknown.png
+
+# terrorism in general
 terrorism is rarely effective; terorrism against military targets is more effective; terrorism with limited goals is more effective: <https://www.mitpressjournals.org/doi/abs/10.1162/isec.2006.31.2.42> <https://sci-hub.tw/10.2307/4137516> https://cdn.discordapp.com/attachments/418850379518705675/656620760575770624/unknown.png
 ^ list of groups: https://cdn.discordapp.com/attachments/418850379518705675/656619904879034372/unknown.png
 ^ example 1: ```[1991-6:] In 1991 Chechnya's first president, Dzhokar Dudayev, took the additional step of declaring independence. Federal forces invaded Chechnya in December 1994 to reestablish control in the breakaway republic. For the next twenty months, Russian federal forces battled Chechen guerrillas in an asymmetric war based in Chechnya.``````From the onset of military operations until the cease-fire in August 1996, some 70 percent of Russians opposed the war.61 Disdain for the war manifested itself most clearly in public attitudes toward Defense Minister Pavel Grachev. Opinion polls rated his approval at only 3 percent, just a few points lower than the Russian public's support for Yeltsin's handling of the Chechen problem in general.6``````[1999-on:] A large bomb was detonated on the ground floor of an apartment building in southeast Moscow, killing 94 civilians. On September 13, another large bomb blew up an apartment building on the Kashmirskoye highway, killing 118 civilians. On September 16, a truck bomb exploded outside a nine-story apartment complex in the southern Russian city of Volgodonsk, killing 17 civilians. The Kremlin quickly fingered the Chechens as the perpetrators.7``````Polls conducted after the terrorist attacks showed that Russians were almost twice as likely to believe that Chechen motives were now to "kill Russians," "bring Russia to its knees," "destabilize the situation in Russia," "destroy and frighten Russian society," and "bring chaos to Russian society" than to achieve "the independence of Chechnya."77``````Popular support for war remained remarkably stable after the bombings; six months after they occurred, 73 percent of Russians favored "the advance of federal forces into Chechnya," compared with only 19 percent of Russians who wanted "peaceful negotiations with the Chechen leadership."83 Since 2000, support for President Putin's Chechnya policy has not dropped below 67 percent.8```
@@ -2890,13 +2899,16 @@ terrorism is rarely effective; terorrism against military targets is more effect
 #####c
 
 #####
-# white extremist terrorism
+# left-wing vs right-wing terrorism
 #####o
-# data
 left-wing extremists aren't murderers; right-wing extremists are: <https://www.gao.gov/assets/690/683984.pdf> https://cdn.discordapp.com/attachments/418850379518705675/455933449665118208/unknown.png White supremacists, anti-government extremists, radical Islamist extremists, and other ideologically inspired domestic violent extremists have been active in the United States for decades. [....] [F]rom September 12, 2001 through December 31, 2016, attacks by domestic or “homegrown” violent extremists in the United States resulted in 225 fatalities, according to the ECDB. Of these, 106 were killed by far right violent extremists in 62 separate incidents, and 119 were victims of radical Islamist violent extremists in 23 separate incidents. Figure 1 shows the locations and number of fatalities involved in these incidents. A detailed list of the incidents can be found in appendix II. **According to the ECDB, activities of far left wing violent extremist groups did not result in any fatalities during this period.**
 leftist extremists have killed almost nobody in the past 30 years; rightist extremists have killed hundreds: <http://www.start.umd.edu/pubs/START_IdeologicalMotivationsOfTerrorismInUS_Nov2017.pdf> <https://www.start.umd.edu/profiles-individual-radicalization-united-states-pirus-keshif> https://cdn.discordapp.com/attachments/418850379518705675/455934446193868800/unknown.png
 ^ database: <https://www.start.umd.edu/profiles-individual-radicalization-united-states-pirus-keshif>
+#####c
 
+#####
+# white extremist terrorism
+#####o
 # motivations
 1/3 of white extremist killers explicitly cite other white extremist killers: <https://www.nytimes.com/interactive/2019/04/03/world/white-extremist-terrorism-christchurch.html> <http://archive.is/Nui89> https://cdn.discordapp.com/attachments/418850379518705675/571798691103506432/unknown.png An analysis by The New York Times of recent terrorism attacks found that at least a third of white extremist killers since 2011 were inspired by others who perpetrated similar attacks, professed a reverence for them or showed an interest in their tactics.
 
@@ -2961,24 +2973,53 @@ more persuasive posts on /r/ChangeMyView tend to be shorter, earlier in the thre
 #####c
 
 #####
-# politics
+# political beliefs: overall
 #####o
-psychological profiles of liberals, conservatives, and libertarians: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042366> https://cdn.discordapp.com/attachments/418850379518705675/641092115794755614/unknown.png
+psychological and moral profiles of liberals, conservatives, and libertarians: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042366> https://cdn.discordapp.com/attachments/418850379518705675/641092115794755614/unknown.png
+#####c
 
-# identity
+#####
+# political beliefs: activism
+#####o
+# significance
 political identity precedes racial, religious, and sexual identity: <https://fivethirtyeight.com/features/americans-are-shifting-the-rest-of-their-identity-to-match-their-politics/> Liberal Democrats were much more likely than conservative Republicans to start identifying as Latino or saying that their ancestry was African, Asian or Hispanic. Conservative Republicans were much more likely than liberal Democrats to become born-again Christians and to stop identifying as non-religious; liberal Democrats were much more likely than conservative Republicans to leave religion and stop describing themselves as born-again. Conservative Republicans were more likely than liberal Democrats to stop describing themselves as lesbian, gay or bisexual; liberal-leaning Democrats were more likely to start identifying as lesbian, gay or bisexual.
-
-# extremism
-people get addicted to the sense of community that white nationalism builds in them: <https://www.wbur.org/hereandnow/2019/08/15/addicted-to-hate-white-supremacy> <https://journals.sagepub.com/doi/abs/10.1177/0003122417728719> <http://sci-hub.tw/10.1177/0003122417728719> Disengagement from white supremacy is characterized by substantial lingering effects that subjects describe as addiction. We conclude with a discussion of the implications of identity residual for understanding how people leave and for theories of the self
 
 # political engagement
 political extremists are more likely to be politically engaged (the "V curve"): <https://www.people-press.org/2014/06/12/section-5-political-engagement-and-activism/> https://cdn.discordapp.com/attachments/418850379518705675/640989375936856144/6-11-Ideology-by-Engagment.png https://cdn.discordapp.com/attachments/418850379518705675/659920734235131906/unknown.png
 
-# material conditions: income
+# extremism: addiction
+people get addicted to the sense of community that white nationalism builds in them: <https://www.wbur.org/hereandnow/2019/08/15/addicted-to-hate-white-supremacy> <https://journals.sagepub.com/doi/abs/10.1177/0003122417728719> <http://sci-hub.tw/10.1177/0003122417728719> Disengagement from white supremacy is characterized by substantial lingering effects that subjects describe as addiction. We conclude with a discussion of the implications of identity residual for understanding how people leave and for theories of the self
+#####c
+
+#####
+# political beliefs: bigotry
+#####o
+# good studies
+white republicans hold slightly more racist beliefs than white democrats: <https://fivethirtyeight.com/features/are-white-republicans-more-racist-than-white-democrats/> https://cdn.discordapp.com/attachments/418850379518705675/673315431389593601/silver-index-racial-92.png
+countywide Trump support in 2016 predicted increased hate crimes in that county: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102652> https://cdn.discordapp.com/attachments/418850379518705675/565311410389778435/unknown.png
+
+# bad studies
+trump vote is predicted by cultural anxiety: <https://www.theatlantic.com/politics/archive/2017/05/white-working-class-trump-cultural-anxiety/525771/> <https://www.prri.org/research/white-working-class-attitudes-economy-trade-immigration-election-donald-trump/> Evidence suggests financially troubled voters in the white working class were more likely to prefer Clinton over Trump. Besides partisan affiliation, it was cultural anxiety—feeling like a stranger in America, supporting the deportation of immigrants, and hesitating about educational investment—that best predicted support for Trump.
+trump vote is predicted by christian nationalism: <https://academic.oup.com/socrel/article/79/2/147/4825283> https://cdn.discordapp.com/attachments/418850379518705675/470973926248284189/m_srx07001.png _**Predictors:**_ **Sexism:** "Most men are better suited emotionally for politics than most women", "It is God’s will that women care for children", "A preschool child is likely to suffer if his or her mother works", "A husband should earn a larger salary than his wife". **Racism:** "Police officers in the United States treat blacks the same as whites", "Police officers in the United States shoot blacks more often because they are more violent than whites". **Xenophobia:** "Illegal immigrants from Mexico are mostly dangerous criminals." **Islamophobia:** "Refugees from the Middle East pose a terrorist threat to the United States", "Muslims hold values that are morally inferior to the values of people like me", "Muslims want to limit the personal freedoms of people like me", "Muslims endanger the physical safety of people like me". _**Controls:**_ economic satisfaction, political ideology, political party affiliation, conservative theological beliefs, conservative religious practice, conservative religious affiliation, biblical literalism views, frequency of attendance at religious services, frequency of prayer, frequency of reading sacred texts, religious identity (evangelical Protestants, mainline Protestants, black Protestants, Catholics, other religions, nonaffiliated), age, gender, race, marital status, city size, education, income.
+trump vote is predicted by racism and sexism: <http://people.umass.edu/schaffne/schaffner_et_al_IDC_conference.pdf> <https://www.vox.com/identities/2017/12/15/16781222/trump-racism-economic-anxiety-study> https://cdn.discordapp.com/attachments/418850379518705675/455974996737654784/unknown.png **Sexism:** 1. Women are too easily offended. 2. Many women are actually seeking special favors, such as hiring policies that favor them over men, under the guise of asking for "equality." 3. Women seek to gain power by getting control over men. 4. When women lose to men in a fair competition, they typically complain about being discriminated against. **Racism:** 1. White people in the U.S. have certain advantages because of the color of their skin. 2. Racial problems in the U.S. are rare, isolated situations. 3. I am angry that racism exists
+^ COBRAS scale: <http://www.psychwiki.com/dms/other/labgroup/Measu235sdgse5234234resWeek2/Lauren2/Neville2000.pdf> https://cdn.discordapp.com/attachments/418850379518705675/501116481766162443/unknown.png https://cdn.discordapp.com/attachments/418850379518705675/501122594963980289/unknown.png
+
+# counterstudies
+both white liberals and white conservatives stereotype nonwhites as less competent, but only white liberals "downshift" their competence when talking to nonwhites; this occurs because white liberals are more interested in relationships with nonwhites (and so attempt to "match" them), while white conservatives are not interested (and so do not): <https://psycnet.apa.org/record/2019-12064-001> <https://cdn.discordapp.com/attachments/418850379518705675/673347610664239135/competence_downshift.pdf> "Self-Presentation in Interracial Settings: The Competence Downshift by White Liberals" ```Collectively, these studies suggest that, for those Whites who are more affiliative toward minorities — that is, liberals — stereotypes may play a role in the impression management strategies utilized affiliation attempts, relating to a well-intentioned, but ultimately patronizing competence downshift.```
+
+# low-immigration
+trump vote is predicted by isolated whiteness, not immigration or importation ("degree affected by globalism"): <https://www.citylab.com/equity/2016/11/trumps-supporters-dont-see-a-lot-of-immigrants/506066/> <http://www.naid.ucla.edu/uploads/4/2/1/9/4219226/trumptrade_execsum_v16.pdf> https://cdn.discordapp.com/attachments/418850379518705675/509192067402956841/unknown.png However, an examination of the geographical concentration of support for Donald Trump in the presidential primaries indicates a negative correlation between the number of Trump supporters and the population size of Mexican immigrants, as well as a negative correlation between Trump support and import competition from Mexico or China. Areas with high concentration of Mexican immigrants and import exposure to Mexico and China are actually more likely to favor Hillary another Republican candidate or Hillary Clinton.
+trump vote is predicted by isolated whiteness, not immigration or importation ("degree affected by globalism"): <https://www.citylab.com/equity/2016/08/racial-segregation-not-economic-hardship-explains-trump/495950/> <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2822059> https://cdn.discordapp.com/attachments/418850379518705675/509192930343387146/unknown.png The 2016 US presidential nominee Donald Trump has broken with the policies of previous Republican Party presidents on trade, immigration, and war, in favor of a more nationalist and populist platform. **Using detailed Gallup survey data for 125,000 American adults, we analyze the individual and geographic factors that predict a higher probability of viewing Trump favorably. The results show mixed evidence that economic distress has motivated Trump support. His supporters are less educated and more likely to work in blue collar occupations, but they earn relatively high household incomes and are no less likely to be unemployed or exposed to competition through trade or immigration. On the other hand, living in racially isolated communities with worse health outcomes, lower social mobility, less social capital, greater reliance on social security income and less reliance on capital income, predicts higher levels of Trump support.** We confirm the theoretical results of our regression analysis using machine learning algorithms and an extensive set of additional variables.
+#####c
+
+#####
+# political beliefs: material conditions
+#####o
+# income
 on supporting or opposing specific legislation, partisan differences (Dem vs Rep) are usually much larger than income differences (25%ile vs 75%ile) in opinion (5 of 6 security issues, 24 of 28 economic issues, and 15 of 15 social issues): <http://columbia.edu/~jrl2124/partypurse.pdf> <https://www.cambridge.org/core/journals/american-political-science-review/article/party-or-the-purse-unequal-representation-in-the-us-senate/286BFEAA039374759DE14D782A0BB8DD> <https://sci-hub.se/10.1017/S0003055419000315> https://cdn.discordapp.com/attachments/418850379518705675/646868893423632404/unknown.png
 within Americans, relative to the bottom 99% by income, the top 1% are more likely to identify as Republican by +5%, Independent +2%, and Democratic -7%; to identify as conservative -1%, moderate +4%, and liberal -1%: <https://news.gallup.com/poll/151310/U.S.-Republican-Not-Conservative.aspx> https://cdn.discordapp.com/attachments/418850379518705675/659903397218091028/unknown.png
 
-# material conditions: wealth [unformatted]
+# wealth [unformatted]
 in 2011, the top 1% by wealth of Americans <https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-and-thepolicy-preferences-of-wealthy-americans/B783EEF6785FEE093198ABED8D2C3D61> <https://sci-hub.se/10.1017/S153759271200360X> 
 #####c
 
@@ -3305,7 +3346,7 @@ https://www.apnews.com/0452d29cd2564eaf97605ab90acc3a67/NY-Times:-Trump-got-$413
 #####c
 
 #####
-# free speech fine + censorship limited
+# free speech, censorship, and tolerance
 #####o
 # intentions
 free speech is specifically used to defend racist speech, rather than general freedom of speech: <https://news.ku.edu/2017/05/01/research-shows-prejudice-not-principle-often-underpins-free-speech-defense-racist> <https://www.markhw.com/s/White-Crandall-2017a.pdf> https://cdn.discordapp.com/attachments/418850379518705675/459735941062328330/unknown.png
@@ -3326,36 +3367,6 @@ the difference between liberals and conservatives in self-censorship is smaller 
 
 # anti-leftist censorships
 liberal faculty are more likely to be fired than conservative faculty: <https://niskanencenter.org/blog/there-is-no-campus-free-speech-crisis-a-close-look-at-the-evidence/> <https://docs.google.com/spreadsheets/d/1eeTHZQOh9faZ2P3C_O3sVBuRAG1LzIZnsq6LB50NUHk/edit> https://cdn.discordapp.com/attachments/418850379518705675/446412174999420938/FreeSpeech6.png
-#####c
-
-#####
-# trump supporters
-#####o
-# bigoted: good studies
-white republicans hold slightly more racist beliefs than white democrats: <https://fivethirtyeight.com/features/are-white-republicans-more-racist-than-white-democrats/> https://cdn.discordapp.com/attachments/418850379518705675/673315431389593601/silver-index-racial-92.png
-
-# bigoted: bad studies
-trump vote is predicted by christian nationalism: <https://academic.oup.com/socrel/article/79/2/147/4825283> https://cdn.discordapp.com/attachments/418850379518705675/470973926248284189/m_srx07001.png _**Predictors:**_ **Sexism:** "Most men are better suited emotionally for politics than most women", "It is God’s will that women care for children", "A preschool child is likely to suffer if his or her mother works", "A husband should earn a larger salary than his wife". **Racism:** "Police officers in the United States treat blacks the same as whites", "Police officers in the United States shoot blacks more often because they are more violent than whites". **Xenophobia:** "Illegal immigrants from Mexico are mostly dangerous criminals." **Islamophobia:** "Refugees from the Middle East pose a terrorist threat to the United States", "Muslims hold values that are morally inferior to the values of people like me", "Muslims want to limit the personal freedoms of people like me", "Muslims endanger the physical safety of people like me". _**Controls:**_ economic satisfaction, political ideology, political party affiliation, conservative theological beliefs, conservative religious practice, conservative religious affiliation, biblical literalism views, frequency of attendance at religious services, frequency of prayer, frequency of reading sacred texts, religious identity (evangelical Protestants, mainline Protestants, black Protestants, Catholics, other religions, nonaffiliated), age, gender, race, marital status, city size, education, income.
-trump vote is predicted by racism and sexism: <http://people.umass.edu/schaffne/schaffner_et_al_IDC_conference.pdf> <https://www.vox.com/identities/2017/12/15/16781222/trump-racism-economic-anxiety-study> https://cdn.discordapp.com/attachments/418850379518705675/455974996737654784/unknown.png **Sexism:** 1. Women are too easily offended. 2. Many women are actually seeking special favors, such as hiring policies that favor them over men, under the guise of asking for "equality." 3. Women seek to gain power by getting control over men. 4. When women lose to men in a fair competition, they typically complain about being discriminated against. **Racism:** 1. White people in the U.S. have certain advantages because of the color of their skin. 2. Racial problems in the U.S. are rare, isolated situations. 3. I am angry that racism exists
-^ COBRAS scale: <http://www.psychwiki.com/dms/other/labgroup/Measu235sdgse5234234resWeek2/Lauren2/Neville2000.pdf> https://cdn.discordapp.com/attachments/418850379518705675/501116481766162443/unknown.png https://cdn.discordapp.com/attachments/418850379518705675/501122594963980289/unknown.png
-trump vote is predicted by cultural anxiety: <https://www.theatlantic.com/politics/archive/2017/05/white-working-class-trump-cultural-anxiety/525771/> <https://www.prri.org/research/white-working-class-attitudes-economy-trade-immigration-election-donald-trump/> Evidence suggests financially troubled voters in the white working class were more likely to prefer Clinton over Trump. Besides partisan affiliation, it was cultural anxiety—feeling like a stranger in America, supporting the deportation of immigrants, and hesitating about educational investment—that best predicted support for Trump.
-
-# bigoted: counterstudies
-both white liberals and white conservatives stereotype nonwhites as less competent, but only white liberals "downshift" their competence when talking to nonwhites; this occurs because white liberals are more interested in relationships with nonwhites (and so attempt to "match" them), while white conservatives are not interested (and so do not): <https://psycnet.apa.org/record/2019-12064-001> <https://cdn.discordapp.com/attachments/418850379518705675/673347610664239135/competence_downshift.pdf> "Self-Presentation in Interracial Settings: The Competence Downshift by White Liberals" ```Collectively, these studies suggest that, for those Whites who are more affiliative toward minorities — that is, liberals — stereotypes may play a role in the impression management strategies utilized affiliation attempts, relating to a well-intentioned, but ultimately patronizing competence downshift.```
-
-# hate crimes
-countywide Trump support in 2016 predicted increased hate crimes in that county: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102652> https://cdn.discordapp.com/attachments/418850379518705675/565311410389778435/unknown.png
-
-# low-immigration
-trump vote is predicted by isolated whiteness, not immigration or importation ("degree affected by globalism"): <https://www.citylab.com/equity/2016/11/trumps-supporters-dont-see-a-lot-of-immigrants/506066/> <http://www.naid.ucla.edu/uploads/4/2/1/9/4219226/trumptrade_execsum_v16.pdf> https://cdn.discordapp.com/attachments/418850379518705675/509192067402956841/unknown.png However, an examination of the geographical concentration of support for Donald Trump in the presidential primaries indicates a negative correlation between the number of Trump supporters and the population size of Mexican immigrants, as well as a negative correlation between Trump support and import competition from Mexico or China. Areas with high concentration of Mexican immigrants and import exposure to Mexico and China are actually more likely to favor Hillary another Republican candidate or Hillary Clinton.
-trump vote is predicted by isolated whiteness, not immigration or importation ("degree affected by globalism"): <https://www.citylab.com/equity/2016/08/racial-segregation-not-economic-hardship-explains-trump/495950/> <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2822059> https://cdn.discordapp.com/attachments/418850379518705675/509192930343387146/unknown.png The 2016 US presidential nominee Donald Trump has broken with the policies of previous Republican Party presidents on trade, immigration, and war, in favor of a more nationalist and populist platform. **Using detailed Gallup survey data for 125,000 American adults, we analyze the individual and geographic factors that predict a higher probability of viewing Trump favorably. The results show mixed evidence that economic distress has motivated Trump support. His supporters are less educated and more likely to work in blue collar occupations, but they earn relatively high household incomes and are no less likely to be unemployed or exposed to competition through trade or immigration. On the other hand, living in racially isolated communities with worse health outcomes, lower social mobility, less social capital, greater reliance on social security income and less reliance on capital income, predicts higher levels of Trump support.** We confirm the theoretical results of our regression analysis using machine learning algorithms and an extensive set of additional variables.
-trump vote is predicted by (lack of) education, not economics: http://fivethirtyeight.com/features/education-not-income-predicted-who-would-vote-for-trump/
-
-# areligious
-almost no atheists voted for trump: <https://www.baylor.edu/baylorreligionsurvey/doc.php/292546.pdf> https://cdn.discordapp.com/attachments/418850379518705675/443955801560973313/unknown.png
-in relation to terrorism, the groups most opposed to suspending government checks and balances, censoring of the press, and banning Muslim immigration are the nonreligious, Jews and Muslims: <https://friendlyatheist.patheos.com/2018/05/02/new-poll-suggests-non-religious-americans-arent-veering-toward-the-alt-right/> <https://www.ispu.org/american-muslim-poll-2018-full-report/> <https://www.ispu.org/download/27890/?uid=e1dd0b9f63> https://cdn.discordapp.com/attachments/418850379518705675/576668954471301123/unknown.png
-trump has turned some americans off religion: <https://www.thedailybeast.com/trumps-god-talk-is-turning-america-off-religion> https://www.youtube.com/watch?v=m0SOcptdEPM
-voters are much more open to nonreligious candidates: <https://apnews.com/0c6a4a7510b64498a2238fe304aec746> <http://www.apnorc.org/PDFs/AP-NORC%20Omnibus%20August%202018/Omnibus%20August%202018%20topline_final.pdf> https://cdn.discordapp.com/attachments/418850379518705675/509206908457058304/1447.png
 #####c
 
 #####
@@ -4061,7 +4072,7 @@ firearm control proposals are popular even among firearm owners: <https://www.pe
 #####c
 
 #####
-# psychology
+# firearm ownership and psychology
 #####o
 # racism
 symbolic racism predicts firearm ownership: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077552> https://cdn.discordapp.com/attachments/418850379518705675/639990209194360841/image.png In wave 20 of the ANES, participants were asked to respond to a four-item scale drawn from the Symbolic Racism Scale [37]. Specifically, participants indicated the extent to which they agree (1=agree strongly to 5=disagree strongly) with statements such as “Generations of slavery and discrimination have created conditions that make it difficult for blacks to work their way out of the lower class” (reverse scored). Scores on the four items were coded so that high scores are indicative of elevated levels of symbolic racism. A test of the reliability of the scale showed the four items corresponded closely with each other as indicated by a Cronbach’s alpha level of 0.8 and the emergence of a single factor from exploratory factor analysis of the scale. We utilized the average score across the four items to produce a scale ranging 1=lowest symbolic racism score, to 5=highest symbolic racism score.
