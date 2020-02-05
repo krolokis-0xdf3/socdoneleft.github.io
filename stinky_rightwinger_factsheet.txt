@@ -1,18 +1,4 @@
-﻿Experts agree that official statistics significantly understate the sexual activity between adults and minors. One national probability-sampled survey of 4,008 adult women who were raped in childhood found than less than 12% of these incidents were reported to police.13 https://www.sciencedirect.com/science/article/pii/S0145213499000289?via%3Dihub 
-
-takeaway is that non violent movements are about twice as likely to succeed as armed violent movements https://www.vox.com/podcasts/2020/1/3/21048121/ezra-klein-erica-chenoweth-nonviolence-topple-dictators
-https://www.youtube.com/watch?v=YJSehRlU34w
-
-https://academic.oup.com/poq/article/80/S1/392/2223374
-https://cdn.discordapp.com/attachments/571840498818482186/673923313604493352/unknown.png
-
-https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1.full.pdf
-https://theprepared.com/blog/no-the-2019-ncov-genome-doesnt-actually-seem-engineered-from-hiv/
-
-https://www.cnn.com/2020/01/30/africa/africa-neanderthal-dna-scn/index.html
-https://www.cell.com/cell/fulltext/S0092-8674(20)30059-3
-
-#####
+﻿#####
 #
 #
 # "stinky_rightwinger_factsheet" by Socialism Done Left
@@ -1578,9 +1564,9 @@ linguistic-genomic data demonstrates race as invalid: <https://www.nature.com/ar
 # identification: Tang
 Tang and Risch's 2005 study (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1196372/>) is based on a flawed methodology. This was discussed in short in Maglo et. al. 2016 (<https://www.frontiersin.org/articles/10.3389/fgene.2016.00022/full> "Curiously, [Tang 2005] perform[s] cluster analysis on admixed populations by bypassing [the correlated allele model]") and in long by Graves 2011: http://www.universitypressscholarship.com/view/10.7312/columbia/9780231156974.001.0001/upso-9780231156974-chapter-8: However there are apparent problems in the way this analysis was run. **The authors admit that they did not engage the admixture option in Structure. Given that two of the populations in question, US blacks and Mexican Americans are known to be admixed, this is a major error.** Furthermore, the authors could have easily run the data set again with the admixture option enabled. This would have allowed them to compare the two treatments to determine if this second analysis gave significantly different results from the first. In the case of African Americans there is excellent indication that an admixture analysis would have shown quite different results. **Another study using a much larger number of genetic markers (a full genome scan of about 250,000 SNPs) indicated that African American admixture ranged from as high as 99 percent to as low as 1 percent with a median value of 18%.** Despite this apparent fault in the study procedure the authors were still confident that their analysis supported the notion that self-identified race corresponded to an underlying biological race structure within the human species. **The largest misconception of this approach is that it ignores the fact that isolation by distance explains the vast majority of variation in human allele frequencies. Thus, 75 percent of human allele frequency variation is explained by geographic distance. This means that it is possible to produce the appearance of clustering simply by where one samples genetic variation.** Serre and Paabo demonstrated that heterogeneous sampling gave rise to genetic clusters that were biologically meaningless. This is precisely what is occurring in biomedical research in the United States.
 
-# origins: out-of-africa and admixture
-out of africa: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945812/> https://cdn.discordapp.com/attachments/418850379518705675/568514332220981261/nihms235952f2.jpg
+the average East Asian individual has ~55 Mb of Neanderthal DNA (100% of 55), South Asian ~55 Mb (100%), European ~51 Mb (93%), American ~50 Mb (91%), African ~17 (31%): <https://www.cnn.com/2020/01/30/africa/africa-neanderthal-dna-scn/index.html> <https://www.cell.com/cell/fulltext/S0092-8674(20)30059-3> <http://sci-hub.se/10.1016/j.cell.2020.01.012> https://cdn.discordapp.com/attachments/418850379518705675/674648134667993102/gr2_lrg.png
 eurasians admixed heavily backwards into africa: <http://science.sciencemag.org/content/early/2015/10/07/science.aad2879.full> https://cdn.discordapp.com/attachments/418850379518705675/641982491430748200/F1.png
+out of africa: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945812/> https://cdn.discordapp.com/attachments/418850379518705675/568514332220981261/nihms235952f2.jpg
 quantification and direction of admixture among modern humans and other populations (neanderthals, denisovans, 4th group) <https://www.nature.com/articles/nature12886> https://cdn.discordapp.com/attachments/418850379518705675/542030344333950986/nature12886-f8.png
 #####c
 
@@ -1826,7 +1812,7 @@ race-diverse startups are more successful than race-homogenous: <http://www.na-b
 race-diverse retail stores are more successful than race-homogenous: <http://journals.sagepub.com/doi/abs/10.1177/0149206315579511> <https://sci-hub.se/10.1177/0149206315579511> https://cdn.discordapp.com/attachments/418850379518705675/456640748205506574/unknown.png
 
 # effects: health
-racism is associated with cigarette smoking (which causes death) as a coping behavior among blacks: <https://www.tandfonline.com/doi/abs/10.1080/10826084.2016.1228678> https://cdn.discordapp.com/attachments/418850379518705675/496853044210827264/33826158.png After adjusting for having an emotional response to discrimination, health care and workplace discrimination, age, education, household income, and being married, males who had a physical response to discrimination (e.g., upset stomach or headache) had higher odds of cigarette use (odds ratio (OR): 1.95, 95% confidence interval (CI): 1.15-3.30) than men who did not have a physical response to discrimination.
+racism is associated with cigarette smoking among blacks as a coping behavior: <https://www.tandfonline.com/doi/abs/10.1080/10826084.2016.1228678> https://cdn.discordapp.com/attachments/418850379518705675/496853044210827264/33826158.png After adjusting for having an emotional response to discrimination, health care and workplace discrimination, age, education, household income, and being married, males who had a physical response to discrimination (e.g., upset stomach or headache) had higher odds of cigarette use (odds ratio (OR): 1.95, 95% confidence interval (CI): 1.15-3.30) than men who did not have a physical response to discrimination.
 searches for the N-word were associated with increased black death rates relative to white death rates: <https://paa.confex.com/paa/2016/mediafile/ExtendedAbstract/Paper9214/Racism%20and%20Black%20Life%20Expectancy%20SRE.pdf> https://cdn.discordapp.com/attachments/418850379518705675/492134719241060353/unknown.png
 https://www.brookings.edu/research/multi-racial-adolescents-show-no-test-score-gap-with-whites/
 mixed-breed dogs have many fewer disorders: https://avmajournals.avma.org/doi/abs/10.2460/javma.242.11.1549
@@ -2216,7 +2202,7 @@ worldwide dick size distribution: <https://onlinelibrary.wiley.com/doi/full/10.1
 #####
 # pedophilia / ephebophilia
 #####o
-gynephilic males experience about 6.5 cc penile size increase when viewing adult females, 3.5 cc for pubescent females, 2 cc for prepubescent females, and .5 for male and nonerotic imagery: <https://journals.sagepub.com/doi/abs/10.1177/1079063210372141> <https://sci-hub.se/10.1177/1079063210372141>
+gynephilic males experience about 6.5 cc penile size increase when viewing adult females, 3.5 cc for pubescent females, 2 cc for prepubescent females, and .5 for male and nonerotic imagery: <https://journals.sagepub.com/doi/abs/10.1177/1079063210372141> <https://sci-hub.se/10.1177/1079063210372141> https://cdn.discordapp.com/attachments/418850379518705675/674607846565871616/unknown.png
 #####c
 
 #####
@@ -3030,6 +3016,12 @@ within Americans, relative to the bottom 99% by income, the top 1% are more like
 # wealth [unformatted]
 in 2011, the top 1% by wealth of Americans <https://www.cambridge.org/core/journals/perspectives-on-politics/article/democracy-and-thepolicy-preferences-of-wealthy-americans/B783EEF6785FEE093198ABED8D2C3D61> <https://sci-hub.se/10.1017/S153759271200360X> 
 #####c
+
+#####
+# political beliefs: polarization
+#####
+political partisanship of both reported ideology and latent ideology (measured by answers to policy questions) has increased since 1970 to 2010: <https://academic.oup.com/poq/article/80/S1/392/2223374> <https://sci-hub.se/10.1093/poq/nfw005> https://cdn.discordapp.com/attachments/418850379518705675/674640205453721635/unknown.png
+#####
 
 #####
 # video games
