@@ -4806,7 +4806,7 @@ projections put Democrats at gaining 39 seats in the House and losing 1 in the S
 projections put Democrats at governing 24 states and Republicans at 26: <https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/> Democrats now govern 23 states and Republicans 27: <https://en.wikipedia.org/wiki/2018_United_States_gubernatorial_elections>
 
 # polls were accurate: statistics
-polls in the United States are relatively accurate, with a consistent 3-6% error rate over the past 20 years: https://cdn.discordapp.com/attachments/418850379518705675/457540212881489930/unknown.png <https://fivethirtyeight.com/features/the-polls-are-all-right/>
+polls in the United States are relatively accurate, with a consistent 3-6% error rate over the past 20 years: <https://fivethirtyeight.com/features/the-polls-are-all-right/> https://cdn.discordapp.com/attachments/418850379518705675/457540212881489930/unknown.png
 #####c
 
 #####
