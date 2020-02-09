@@ -420,7 +420,7 @@ your degree doesn't determine your career: <https://www.census.gov/dataviz/visua
 #####c
 
 #####
-# us schools aren't shit
+# american education system
 #####o
 # results
 PISA results 2015: <https://read.oecd-ilibrary.org/education/pisa-2015-results-volume-i_9789264266490-en#page46> https://cdn.discordapp.com/attachments/418850379518705675/536277535705661441/unknown.png
@@ -2992,6 +2992,7 @@ people get addicted to the sense of community that white nationalism builds in t
 #####o
 # good studies
 white republicans hold slightly more racist beliefs than white democrats: <https://fivethirtyeight.com/features/are-white-republicans-more-racist-than-white-democrats/> https://cdn.discordapp.com/attachments/418850379518705675/673315431389593601/silver-index-racial-92.png
+2x more Republicans would prefer a white majority USA than independents or Democrats: <https://www.vox.com/policy-and-politics/2019/2/22/18234749/democrats-welcome-diversity-republicans-dont> https://cdn.discordapp.com/attachments/418850379518705675/566042593595752459/Pluralism_figures_8.png
 countywide Trump support in 2016 predicted increased hate crimes in that county: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102652> https://cdn.discordapp.com/attachments/418850379518705675/565311410389778435/unknown.png
 
 # bad studies
