@@ -78,6 +78,10 @@ Library Genesis: <http://gen.lib.rus.ec> (probably illegal)
 # access webpages
 Internet Archive Wayback Machine: <http://web.archive.org/> (more complete, slower)
 archive.today: <http://archive.is/> (less complete, faster)
+# access old newspapers
+Library of Congress: <https://chroniclingamerica.loc.gov/> (1789-1963, high-quality)
+Elephind: <https://elephind.com/> (medium-quality)
+Google News Archive: https://news.google.com/newspapers
 # other resources to speed research
 Outline: <https://outline.com/> (produces a no-ad, no-paywall version of most newspaper articles)
 Video Speed Controller: <https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk> (has hotkeys, goes up to 16x)
