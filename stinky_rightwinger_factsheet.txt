@@ -1,4 +1,5 @@
-﻿#####
+﻿
+#####
 #
 #
 # "stinky_rightwinger_factsheet" by Socialism Done Left
@@ -20,13 +21,14 @@ gimme money: https://www.patreon.com/socdoneleft
 
 #####
 #
-# user instructions
+# introduction
 #
 #####o
 
 #####
-# notepad++
+# user instructions
 #####o
+# Notepad++
 [0] Open this in Notepad++. If you open this in Notepad it's a fucking nightmare.
 [1] Collapsible sections in Notepad++:
 [1.1] Setup: [1] language > define your language [2] folding in comment style: open "#####o" close "#####c" [3] save as X [4] language > select X
@@ -35,11 +37,8 @@ gimme money: https://www.patreon.com/socdoneleft
 [2.1] Regex setup: CTRL-F or click "Search" then "Find" > Search Mode > "Regular expression" checkbox. Regex use: Search "trump.*econ" or "trans.*brain"
 [2.1] Regex use: ".*" means "any number of characters on a line". Examples: Search "trump.*econ" or "trans.*brain"
 [2.2] Topic search: Search for "# topic" and it might show up
-#####c
 
-#####
-# word
-#####o
+# Microsoft Word
 [1] Setup
 [1.1] Go to "View" ribbon (top middle)
 [1.2] Enable "Navigation Pane"
@@ -49,11 +48,8 @@ gimme money: https://www.patreon.com/socdoneleft
 [2.2] Click "More"
 [2.3] Enable "Use wildcards"
 [2.4] Regex use: ".*" means "any number of characters on a line". Examples: Search "trump.*econ" or "trans.*brain"
-#####c
 
-#####
-# libreoffice
-#####o
+# LibreOffice Writer
 [1] Setup
 [1.1] CTRL-F5 or click "View" ribbon and enable "Sidebar"
 [1.2] Click "Navigator" (looks like compass)
@@ -67,31 +63,43 @@ gimme money: https://www.patreon.com/socdoneleft
 #####
 # resources
 #####o
+# factsheets
+Ultimate Research Document by VaushVidya: https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit
+Trans Rights Factsheet by NB419: https://docs.google.com/document/d/1Le70f0hs5ZDSGlP13YQaa5k_YjD27VaxOHB9g1J0X6g/edit
+
 # access scientific articles
 Google Scholar: <https://scholar.google.com/> (legal; click "all versions" and try each)
 Google: <https://www.google.com/> (legal; see if a PDF exists on Researchgate, Academia.edu, etc.)
 Sci-Hub: <http://sci-hub.tw/> (probably illegal)
+Google Scholar Button: <https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn> (look up sources faster)
+
 # access books
 Google Books: <https://books.google.com> (legal; reload or change browser if you hit pagelimit; sometimes multiple copies exist with different page restrictions)
 ZLibrary: <https://b-ok.org/> (probably illegal)
 Library Genesis: <http://gen.lib.rus.ec> (probably illegal)
-# access webpages
+
+# access old webpages / current newspapers
 Internet Archive Wayback Machine: <http://web.archive.org/> (more complete, slower)
 archive.today: <http://archive.is/> (less complete, faster)
+
 # access old newspapers
 Library of Congress: <https://chroniclingamerica.loc.gov/> (1789-1963, high-quality)
 Elephind: <https://elephind.com/> (medium-quality)
 Google News Archive: https://news.google.com/newspapers
+
 # other resources to speed research
 Outline: <https://outline.com/> (produces a no-ad, no-paywall version of most newspaper articles)
 Video Speed Controller: <https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk> (has hotkeys, goes up to 16x)
-Google Scholar Button: <https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn> (look up sources faster)
 Copy All URLs: <https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk> (don't lose tabs; copy and paste multiple URLs)
 Multiple Tab Search: <https://chrome.google.com/webstore/detail/multiple-tabs-search/mhbpfljoihafefdodgklimejeacejnde> (search many terms at once, around 20 you'll hit captcha)
 Reddit Check: <https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj> (lists Reddit posts with current URL, often has quick debunks)
 Simple Mass Downloader: <https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed> (downloads many tabs at once)
 VietOCR: <https://sourceforge.net/projects/vietocr/> (convert image to text with optical character recognition in many languages, great for Google Books)
+#####c
 
+#####
+# recommended content
+#####o
 # economics reading/watching list:
 Paul Cockshott produces YouTube videos about socialist planning, socialist strategy, and Marxian economics: <https://www.youtube.com/watch?v=emnYMfjYh1Q> <https://www.youtube.com/watch?v=3XFnHA2CJH4>
 Michael Roberts covers recent economic events: <https://thenextrecession.wordpress.com/2019/03/12/neoliberalism-not-so-bad/>
