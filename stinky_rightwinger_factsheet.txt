@@ -182,16 +182,20 @@ adolescents as young as 14 appear as capable as adults to make informed (hypothe
 #####c
 
 #####
-# justice system: judicare for all
+# justice system: "judicare for all"
 #####o
+# arbitration vs courts [ancap series]
+mandatory arbitration reduces employee winrate by 15% in absolute terms and (41.2% in relative terms) and reduces employee damages received by 140000 (79.3%): <https://www.epi.org/publication/mandatory-arbitration-unfairly-tilts-the-legal-system/> <https://www.epi.org/publication/the-arbitration-epidemic/> https://cdn.discordapp.com/attachments/418850379518705675/678444382722195537/m.png
+
 # rich vs poor spending on law
 total federal, state, and local spending on legal aid was just $1.385 billion in 2013: <https://www.law.com/almID/1202730102717/The-Justice-Gap-How-Big-Law-Is-Failing-Legal-Aid/?/&slreturn=20191002113100> <https://cdn.discordapp.com/attachments/418850379518705675/640215461199347732/BTB_23_PRECON_Poverty_Simulation_2.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640216854891069442/unknown.png
 JPMorgan Chase alone spends $3-12 billion per year on legal cases: <https://qz.com/809963/weirdly-jpmorgan-chase-jpm-is-now-making-money-from-litigation/>
 
-# per capita spending
+# legal aid: per capita spending: pretty sources
 the USA spends far less per capita on legal aid than other countries: <https://mobile.twitter.com/PeteDDavis/status/1118884965771632640> <https://books.google.com/books?id=mtGltAEACAAJ> https://cdn.discordapp.com/attachments/418850379518705675/640215959940104217/D4cT5ZCWsAA9GzT.png
 the USA spends far less per capita on legal aid than other countries: <https://www.researchgate.net/publication/46711885_International_Journal_for_Court_administration_2008_no_1> https://cdn.discordapp.com/attachments/418850379518705675/640214878925357106/Public-expenditure-on-courts-and-legal-aid-as-a-percentage-of-the-national-budget-Source_W640.png
 
+# legal aid: per capita spending: ugly sources
 per capita spending: <https://www.unodc.org/documents/justice-and-prison-reform/LegalAid/Global-Study-on-Legal-Aid_Report01.pdf> <https://www.unodc.org/documents/justice-and-prison-reform/LegalAid/GSLA_-_Country_Profiles.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640215030822076437/unknown.png
 per capita spending: <https://www.researchgate.net/publication/228591899_Report_on_costs_of_legal_aid_in_other_countries> https://cdn.discordapp.com/attachments/418850379518705675/640215188699742239/unknown.png
 per capita spending: <http://www.niassembly.gov.uk/globalassets/documents/raise/publications/2010/justice/15610.pdf> https://cdn.discordapp.com/attachments/418850379518705675/640214036214054942/unknown.png
@@ -802,6 +806,7 @@ capitalism ruins textbooks: <https://www.tandfonline.com/doi/full/10.1080/232945
 relative movement of income across generations: <https://www.bostonfed.org/inequality2014/papers/reeves-sawhill.pdf> https://cdn.discordapp.com/attachments/418850379518705675/541706766497611795/unknown.png
 absolute movement of income across generations: <https://www.bostonfed.org/inequality2014/papers/reeves-sawhill.pdf> https://cdn.discordapp.com/attachments/418850379518705675/562401774040776744/unknown.png
 ~2% of the US population are 'capitalists' (could subside on capital gains alone); the portion of capitalists and the portion of income going to capitalists both decreased until the 1970's and increased afterwards: <https://thenextrecession.files.wordpress.com/2018/04/classstructure1918to2011wmf.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540356346176864295/unknown.png ```Suppose the capitalist-managerial class were defined as that group that has sufficient assets to generate a nonlabour income on which a typical member could survive without having to enter the labour market. [....] Call this capitalist-managerial class "quasi-capitalist managers" or "Qc managers" for short. Managers who are in a structurally different position, being forced to sell their labour-power, are noncapitalist-managers. Still managers, with supervisory responsibilities in production, they are not free to choose whether or not to take employment, because they do not have sufficient assets to generate a nonlabour income enabling them not to enter the labour market. Hence call them "labour-power dependent managers" or "Lpd managers" for short.```
+^ 2012 study, 4 classes, unformatted https://sci-hub.se/10.1111/meca.12107
 
 # scope: wealth
 the US has the greatest wealth inequality: <http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=SDD/DOC(2018)1&docLanguage=En> https://cdn.discordapp.com/attachments/418850379518705675/546052438742925342/unknown.png
