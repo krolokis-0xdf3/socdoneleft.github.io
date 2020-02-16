@@ -689,7 +689,7 @@ those on welfare spend much less on education and on food away from home than th
 #####
 # minimum wage
 #####o
-# employment: meta-analysis
+# employment: meta-analysis [unformatted]
 every meta-analysis since 1995 has found that minimum wages don't cause any employment effects, after accounting for publication bias:
 Card and Kueger 1995: <https://eml.berkeley.edu//~card/papers/time%20minwage.pdf>
 Doucouliagos and Stanley 2009: <https://www.ctdol.state.ct.us/lweab/Doucougliagos%20&%20Stanley%20Publication%20Selection%20Bias%20in%20Min%20Wage%20Research-A%20Metaregression%20Analysis.pdf> https://cdn.discordapp.com/attachments/418850379518705675/442763863440621588/unknown.png
@@ -802,17 +802,17 @@ capitalism ruins textbooks: <https://www.tandfonline.com/doi/full/10.1080/232945
 #####
 # inequality and mobility
 #####o
-# scope: income
+# scope: income inequality
 relative movement of income across generations: <https://www.bostonfed.org/inequality2014/papers/reeves-sawhill.pdf> https://cdn.discordapp.com/attachments/418850379518705675/541706766497611795/unknown.png
 absolute movement of income across generations: <https://www.bostonfed.org/inequality2014/papers/reeves-sawhill.pdf> https://cdn.discordapp.com/attachments/418850379518705675/562401774040776744/unknown.png
 ~2% of the US population are 'capitalists' (could subside on capital gains alone); the portion of capitalists and the portion of income going to capitalists both decreased until the 1970's and increased afterwards: <https://thenextrecession.files.wordpress.com/2018/04/classstructure1918to2011wmf.pdf> https://cdn.discordapp.com/attachments/418850379518705675/540356346176864295/unknown.png ```Suppose the capitalist-managerial class were defined as that group that has sufficient assets to generate a nonlabour income on which a typical member could survive without having to enter the labour market. [....] Call this capitalist-managerial class "quasi-capitalist managers" or "Qc managers" for short. Managers who are in a structurally different position, being forced to sell their labour-power, are noncapitalist-managers. Still managers, with supervisory responsibilities in production, they are not free to choose whether or not to take employment, because they do not have sufficient assets to generate a nonlabour income enabling them not to enter the labour market. Hence call them "labour-power dependent managers" or "Lpd managers" for short.```
 ^ 2012 study, 4 classes, unformatted https://sci-hub.se/10.1111/meca.12107
 
-# scope: wealth
+# scope: wealth inequality
 the US has the greatest wealth inequality: <http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=SDD/DOC(2018)1&docLanguage=En> https://cdn.discordapp.com/attachments/418850379518705675/546052438742925342/unknown.png
 the US has much more wealth inequality than income inequality: <http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=SDD/DOC(2018)1&docLanguage=En> https://cdn.discordapp.com/attachments/418850379518705675/546052767396003860/unknown.png
 
-# scope: consumption
+# scope: consumption inequality
 literally every kind of inequality is getting worse (wealth, income, consumption): <http://cdn.equitablegrowth.org/wp-content/uploads/2017/12/21123945/122117-WP-Inequality-in-3D.pdf> https://cdn.discordapp.com/attachments/418850379518705675/451095898643103774/unknown.png
 
 # scope: historical
