@@ -1304,6 +1304,7 @@ women were paid about 70-80% of male counterparts: <https://academic.oup.com/cje
 #####o
 # lifespan
 the Semashko system of the USSR increased lifespan by 50% in 20 years (by the 1960's, lifespans in the USSR were comparable to those in the USA): <https://www.rand.org/pubs/research_briefs/RB5054/index1.html> https://cdn.discordapp.com/attachments/418850379518705675/473672000976584704/xRB5054.png
+life expectancy prior to World War 1 was 32 years: <https://en.wikipedia.org/wiki/Health_in_Russia#Pre-soviet_era> ```Before the revolution annual mortality was 29.4 per 1000 and infant mortality 260 per 1000 births. In 1913 life expectancy was 32 years. The cholera epidemic of 1910 killed 100,000 people. A typhus epidemic between 1918 and 1922 caused 2.5 million deaths, and doctors were particularly affected. There was an outbreak of malaria in 1920. The Institute of Tropical Medicine in Moscow instituted a programme of registration of cases and free distribution of quinine. The famine of 1921/2 caused widespread starvation. As many as 27 million people were affected. Another cholera outbreak between 1921 and 1923 caused an estimated 13 million deaths. By 1926 life expectancy had reached 44 years.[4]```
 
 # emegency medicine
 the emergency medicine of the USSR was extremely high quality: <https://www.ncbi.nlm.nih.gov/pubmed/10282748> <https://www.researchgate.net/profile/Jack_Salmon/publication/13015404_Anomalies_in_Soviet_healthcare/links/55c95b6e08aeb97567478155.pdf> The emergency part of the ambulance system, the "Skoraya Pomosch", is comprised of specially equipped ambulances staffed by a physician, a feldsher, and a specially trained driver. These vehicles, radioconnected through a dispatch center, are even specialzied by cardiovascular, pediatric, psychiatric, neurological, and gynecological services. The ambulance system purports to be able to reach any citizen within 15 minutes in every major metropolitan area in the Soviet Union and within 25 minutes in most rural areas. In 1983, in Sochi, a Black Sea resort attracting 4 million vacationers per year, over 215,000 calls were received and answered within an average of 4 minutes[.]
@@ -1323,6 +1324,7 @@ by the late 80's, the USSR's healthcare system was systematically underperformin
 
 # post-collapse mortality
 privatization in the former USSR and Eastern Bloc was followed by substantial increases in mortality (~20%): <https://www.sciencedirect.com/science/article/pii/S0140673609600052> https://cdn.discordapp.com/attachments/418850379518705675/642019550761844769/1-s2.png
+^ most of this decline was probably due to the repeal of anti-alcohol programs: https://blogs.lse.ac.uk/europpblog/2013/10/10/the-end-of-the-soviet-unions-anti-alcohol-campaign-may-explain-a-substantial-share-of-russias-mortality-crisis-in-the-1990s/
 #####c
 
 #####
