@@ -1752,7 +1752,7 @@ SWAT team raids disproportionately target blacks neighborhoods: <https://www.acl
 #####o
 # hiring
 blacks with identical qualifications and virtually identical interviews are much less likely to get called back for a job opening: <http://journals.sagepub.com/doi/pdf/10.1177/000312240907400505> <https://sci-hub.se/10.1177/000312240907400505> https://cdn.discordapp.com/attachments/418850379518705675/451572630739484672/unknown.png
-<https://www.pnas.org/content/early/2017/09/11/1706255114> <https://sci-hub.se/10.1073/pnas.1706255114> https://cdn.discordapp.com/attachments/418850379518705675/680168318044209152/unknown.png
+racial hiring discrimination for blacks and Hispanics has remained roughly the same since the 1990's: <https://www.pnas.org/content/early/2017/09/11/1706255114> <https://sci-hub.se/10.1073/pnas.1706255114> https://cdn.discordapp.com/attachments/418850379518705675/680168318044209152/unknown.png
 
 # mortgages
 blacks are targeted for high-risk, high-cost mortgages: <https://www.theatlantic.com/business/archive/2016/02/blacks-hispanics-mortgages/471024/> <http://www.nber.org/papers/w22004.pdf> https://cdn.discordapp.com/attachments/418850379518705675/495047565319077899/unknown.png
@@ -2675,6 +2675,15 @@ claim: <http://thealternativehypothesis.org/index.php/2016/12/08/immigrants-comm
 immigration restrictions in the 1910's and 20's caused the immigrant population to age relative to the native one -- and thus saw a corresponding decline in relative crime: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831353/> https://cdn.discordapp.com/attachments/418850379518705675/542377842701369374/unknown.png By 1930, as shown in the top panel, more than half of the foreign-born population was over the age of 30, and more than 10% were 65 or older. These differences in age distributions can have a profound effect on perceptions of relative criminality because age is so strongly correlated with criminal behavior. Crime rates peak for males in late adolescence and decline rather precipitously thereafter. **Comparisons of native and immigrant criminality in 1930 that do not control for these differences in age distributions will necessarily bias the results in favor of immigrants.**
 the Irish are BORN CRIMINALS: in 1850, the Irish were 220% overrepresented in arrests and 550% overrepresented in convictions in New York City: <https://en.wikipedia.org/wiki/Irish_Americans_in_New_York_City> By 1850, the Irish made up a quarter of the population in Boston, New York, Philadelphia, Buffalo, and Baltimore. <https://pando.com/2015/03/17/slaughter-on-eighth-avenue-a-st-patricks-day-commemoration/> <https://books.google.com/books?id=XQLYeUUdceoC&lpg=PA173&pg=PA57#v=onepage&q&f=false> During 1859, 23 per cent of the persons arrested in New York City were native Americans, **55 per cent were born in Ireland, 10 per cent in Germany, 7 per cent in England and Scotland, and 5 per cent in other countries.76** [....] In the courts of special sessions, **slightly less than one per cent of the native American population were convicted in 1859, while 5.5 per cent of the Irish, 3 per cent of the Scotch, 2.5 per cent of the English, 2 per cent of the Canadians, 1.5 per cent of the French, and 1.2 per cent of the Germans were convicted.77** [....] Of 2000 prostitutes examined in 1858 at the Penitentiary Hospital on Blackwell's Island -- in effect, the city's venereal hospital -- 762 were natives of the United States and 1,238, or five eights of the total, were immigrants. [...] 706 in Ireland, 104 in England, 63 in Brisih north America, 52 in Scotland, and one in Wales, while 257 were natives of the German states, 17 of Switzerland, and 13 of France.
 the Italians are BORN CRIMINALS: <https://books.google.com/books?id=9GF6nJuW5XcC&pg=PA73#v=onepage&q&f=false> https://cdn.discordapp.com/attachments/418850379518705675/567104495952199682/unknown.png
+#####c
+
+#####
+# immigration: origins and destinations
+#####o
+# why don't africans move to africa
+the vast majority of immigration is intra-continent (lots of Africans move to other African countries, etc.): <https://www.un.org/en/development/desa/population/migration/publications/migrationreport/docs/MigrationReport2017_Highlights.pdf> https://cdn.discordapp.com/attachments/418850379518705675/680194153719791695/unknown.png
+the vast majority of immigration is intra-continent (lots of Africans move to other African countries, etc.): <https://www.un.org/en/development/desa/population/migration/publications/migrationreport/docs/MigrationReport2017_Highlights.pdf> https://cdn.discordapp.com/attachments/418850379518705675/680194164738097159/unknown.png
+#####c
 
 #####
 # immigration laws in the usa
