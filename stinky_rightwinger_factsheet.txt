@@ -4388,6 +4388,10 @@ https://en.wikipedia.org/wiki/Philippine_Drug_War
 #####
 # death penalty
 #####o
+# financial harms
+the death penalty in Washington state costs 1.43x more than comparable life without parole: <https://ballotpedia.org/Fact_check/Is_the_death_penalty_more_expensive_than_life_in_prison> <https://files.deathpenaltyinfo.org/legacy/documents/WashingtonCosts.pdf>https://cdn.discordapp.com/attachments/418850379518705675/680058134114730005/unknown.png
+
+# psychological harms
 life sentencing provides closure while death penalty does not: among 46 close family members of a homicide victim, those in Texas (where the homicidal agent was sentenced to death) and Minnesota (to life imprisonment), Minnesotans had higher satisfaction, were less likely to still be involved in prosecution, and more likely to have post-prosecution growth: <https://www.pbs.org/newshour/nation/death-penalty-bring-closure-victims-family> <https://scholarship.law.marquette.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5144&context=mulr> https://cdn.discordapp.com/attachments/418850379518705675/621830292663042099/unknown.png
 #####c
 
