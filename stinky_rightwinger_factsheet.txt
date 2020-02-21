@@ -3071,9 +3071,9 @@ in 2011, the top 1% by wealth of Americans <https://www.cambridge.org/core/journ
 
 #####
 # political beliefs: polarization
-#####
+#####o
 political partisanship of both reported ideology and latent ideology (measured by answers to policy questions) has increased since 1970 to 2010: <https://academic.oup.com/poq/article/80/S1/392/2223374> <https://sci-hub.se/10.1093/poq/nfw005> https://cdn.discordapp.com/attachments/418850379518705675/674640205453721635/unknown.png
-#####
+#####c
 
 #####
 # video games
