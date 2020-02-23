@@ -5242,6 +5242,14 @@ immunizaitons would substantially improve a pandemic scenario: <https://www.ncbi
 # nutrients
 nutrients by diet in Switzerland: <https://link.springer.com/article/10.1007%2Fs00394-015-1079-7> <https://sci-hub.se/10.1007/s00394-015-1079-7> https://cdn.discordapp.com/attachments/418850379518705675/648356343069278213/unknown.png
 
+# relapse
+https://www.sciencealert.com/new-study-reveals-84-of-vegetarians-return-to-meat
+https://www.pewresearch.org/science/2016/12/01/public-views-about-americans-eating-habits/
+https://news.gallup.com/poll/238328/snapshot-few-americans-vegetarian-vegan.aspx
+https://cdn.discordapp.com/attachments/538143444195868694/613033130785243146/unknown.png
+https://www.vox.com/2014/8/21/6053187/cropland-map-food-fuel-animal-feed
+http://css.umich.edu/factsheets/carbon-footprint-factsheet
+
 # ghg emissions
 vegan-vegetarian-pescetarian diets are associated with significantly reduced GHG emissions and land use, but insignificantly changed water use: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797> https://cdn.discordapp.com/attachments/418850379518705675/635718330728185856/unknown.png
 
