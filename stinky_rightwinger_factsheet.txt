@@ -425,7 +425,7 @@ IQ strongly correlates with education success: <https://www.sciencedirect.com/sc
 #####
 # college
 #####o
-the future requires college education: https://cdn.discordapp.com/attachments/418850379518705675/440359034646691870/unknown.png <https://cew.georgetown.edu/wp-content/uploads/2014/11/Recovery2020.ES_.Web_.pdf>
+the future requires college education: <https://cew.georgetown.edu/wp-content/uploads/2014/11/Recovery2020.ES_.Web_.pdf> https://cdn.discordapp.com/attachments/418850379518705675/440359034646691870/unknown.png
 
 # cost increases
 declining state support for colleges explains the vast majority of rising college costs: <https://www.demos.org/publication/pulling-higher-ed-ladder-myth-and-reality-crisis-college-affordability> https://cdn.discordapp.com/attachments/418850379518705675/549644363253153812/unknown.png
