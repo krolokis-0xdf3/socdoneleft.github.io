@@ -9,6 +9,13 @@
 this is a sheet of facts to throw at stinky right-wingers. enjoy!
 
 #####
+# other formats
+#####
+short URL to SRF: https://socdoneleft.github.io/srf
+HTML format: https://socdoneleft.github.io/stinky_rightwinger_factsheet.html
+plaintext format: https://socdoneleft.github.io/stinky_rightwinger_factsheet.txt
+
+#####
 # shameless plugs
 #####o
 sub my youtube: https://www.youtube.com/channel/UC0n24lonL5RMpzmCiCzIkIw
@@ -16,7 +23,6 @@ join my discord: https://discord.gg/ZeMdbPC
 gimme money: https://www.patreon.com/socdoneleft
 follow my twitter: https://twitter.com/socdoneleft
 follow my twitch: https://www.twitch.tv/socdoneleft
-short URL to SRF: https://socdoneleft.github.io/srf
 #####c
 
 #####
@@ -918,12 +924,12 @@ https://thenextrecession.wordpress.com/2018/04/11/inequality-and-exploitation/
 # output vs pay
 Americans produce $63.45 per hour worked: <https://twitter.com/ChicagoCityDSA/status/977560606407458817> <https://data.oecd.org/lprdty/gdp-per-hour-worked.htm> https://cdn.discordapp.com/attachments/418850379518705675/536294410632167434/unknown.png
 Americans earn $28.86 per hour worked: <https://twitter.com/ChicagoCityDSA/status/977562018549989376> <https://fred.stlouisfed.org/series/CEU0500000003>
+stop blaming taxes: the vast majority of your labor goes to capitalists, not the government: https://cdn.discordapp.com/attachments/418850379518705675/456541606003212290/unknown.png
 
 # productivity vs pay
 in the last 30 years, productivity increased 73% but hourly compensation increased just 12%: <https://www.epi.org/productivity-pay-gap/> <https://www.epi.org/publication/understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/> https://cdn.discordapp.com/attachments/418850379518705675/640925649485168650/136586-16869.png
 ^ alternative inflation metrics find a smaller difference (but still a real one) between productivity and compensation: <https://www.heritage.org/jobs-and-labor/report/productivity-and-compensation-growing-together> https://cdn.discordapp.com/attachments/418850379518705675/640925679432761347/bgproductivityandcompensationchart6825.png
 between 1979 and 2007, the average worker worked 10.7% longer for 26.9% higher real wages: <https://www.epi.org/publication/ib348-trends-us-work-hours-wages-1979-2007/> https://cdn.discordapp.com/attachments/418850379518705675/536285462365732865/unknown.png
-stop blaming taxes: the vast majority of your labor goes to capitalists, not the government: https://cdn.discordapp.com/attachments/418850379518705675/456541606003212290/unknown.png
 
 # labor share
 the US labor share of output has declined for the past century: <https://www.bls.gov/opub/mlr/2017/article/estimating-the-us-labor-share.htm> https://cdn.discordapp.com/attachments/418850379518705675/640925809506385920/giandrea-sprague-fig1.png
