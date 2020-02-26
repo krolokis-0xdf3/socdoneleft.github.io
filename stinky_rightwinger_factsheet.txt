@@ -45,6 +45,18 @@ Ultimate #1 State Funded Socialism Research Document by David Einhorn: https://d
 #####
 # user instructions
 #####o
+# Format
+Every citation is formatted like this:
+
+tagging text: <url_1> <url_2> <...> <url_n> image_url
+
+or this:
+
+tagging text: <url_1> <url_2> <...> <url_n> ```quote text```
+
+"tagging text" is a brief summary of the data and its limitations / strengths
+"tagging" comes from competitive debate, it makes searching for sources much easier
+
 # Notepad++
 [0] Open this in Notepad++. If you open this in Notepad it's a fucking nightmare.
 [1] Collapsible sections in Notepad++:
