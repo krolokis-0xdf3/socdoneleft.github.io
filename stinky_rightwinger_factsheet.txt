@@ -354,7 +354,6 @@ the United States is not significantly more rural or more urbanized than other h
 ^ 56.2% of calories consumed in the US come from heavily subsidized food commodities: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2530901
 ^ lobbying on meat: https://qz.com/523255/the-us-meat-industrys-wildly-successful-40-year-crusade-to-keep-its-hold-on-the-american-diet/
 ^ lobbying on meat: https://www.theverge.com/2016/1/7/10726606/2015-us-dietary-guidelines-meat-and-soda-lobbying-power
-^ meat kills: https://www.telegraph.co.uk/science/2018/04/26/third-early-deaths-could-prevented-everyone-giving-meat-harvard/amp/
 ^ changes in american nutrition: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403271/
 ^ changes in american nutrition: https://www.scientificamerican.com/article/soil-depletion-and-nutrition-loss/ https://www.tandfonline.com/doi/abs/10.1080/07315724.2004.10719409 
 ^ changes in american nutrition: http://www.pewresearch.org/fact-tank/2016/12/13/whats-on-your-table-how-americas-diet-has-changed-over-the-decades/
@@ -5026,6 +5025,56 @@ and the poll itself was a merely distributed to teachers, not students -- making
 
 #####
 #
+# animal agriculture, veganism, and pet ownership
+#
+#####o
+
+#####
+# animal cognition
+#####o
+# animal abilities
+unformatted: many animals have the ability to count: <https://www.nytimes.com/2018/02/05/science/animals-count-numbers.html> <http://archive.is/Oi6ql> 
+#####c
+
+#####
+# vegetarianism and veganism
+#####o
+# effects: nutrition
+scientific consensus: <https://jandonline.org/article/S0002-8223(09)00700-7/fulltext> <https://sci-hub.tw/10.1016/j.jada.2009.05.027> It is the position of the American Dietetic Association that appropriately planned vegetarian diets, including total vegetarian or vegan diets, are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.
+nutrients by diet in Switzerland: <https://link.springer.com/article/10.1007%2Fs00394-015-1079-7> <https://sci-hub.tw/10.1007/s00394-015-1079-7> https://cdn.discordapp.com/attachments/418850379518705675/648356343069278213/unknown.png
+
+# effects: environment
+vegan-vegetarian-pescetarian diets are associated with significantly reduced GHG emissions and land use, but insignificantly changed water use: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797> https://cdn.discordapp.com/attachments/418850379518705675/635718330728185856/unknown.png
+
+# unformatted
+meat kills: https://www.telegraph.co.uk/science/2018/04/26/third-early-deaths-could-prevented-everyone-giving-meat-harvard/amp/
+
+# relapse
+unformattted
+https://www.sciencealert.com/new-study-reveals-84-of-vegetarians-return-to-meat
+https://www.pewresearch.org/science/2016/12/01/public-views-about-americans-eating-habits/
+https://news.gallup.com/poll/238328/snapshot-few-americans-vegetarian-vegan.aspx
+https://cdn.discordapp.com/attachments/538143444195868694/613033130785243146/unknown.png
+https://www.vox.com/2014/8/21/6053187/cropland-map-food-fuel-animal-feed
+http://css.umich.edu/factsheets/carbon-footprint-factsheet
+#####c
+
+#####
+# pet ownership
+#####o
+# effects: meat consumption
+in the USA, cats and dogs consume 203/(1051+203)=16.1% of food calories (1 in 6 food products go to pets) and 25% of meat calories (1 in 4 meat products go to pets): <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181301> <https://sci-hub.se/10.1371/journal.pone.0181301> https://cdn.discordapp.com/attachments/418850379518705675/683304143712026624/unknown.png
+
+# effects: health benefits
+<https://link.springer.com/article/10.1007/s11205-007-9142-2> <https://sci-hub.se/10.1007/s11205-007-9142-2> 
+
+# effects: psychological benefits
+stated benefits of pets among Swedish respondents: <https://brill.com/view/journals/soan/27/5-6/article-p595_7.xml> <https://sci-hub.se/10.1163/15685306-12341494> https://cdn.discordapp.com/attachments/418850379518705675/683301579302240285/unknown.png
+#####c
+#####c
+
+#####
+#
 # uncategorized categories
 #
 #####o
@@ -5263,30 +5312,6 @@ there was never a time when the state was uninvolved in helping the needy: <http
 https://www.reddit.com/r/VACCINES/comments/5jycuh/new_ebola_vaccine_shows_100_effectiveness_in_a/dc9ivvk/
 immunizations between 1994 and 2013 prevented 732,000 deaths and saved $1.38 trillion: <https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6316a4.htm> https://cdn.discordapp.com/attachments/418850379518705675/641980197398380544/m6316a4f.png
 immunizaitons would substantially improve a pandemic scenario: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802686/> https://cdn.discordapp.com/attachments/418850379518705675/478313695261360149/JMAHP-3-27044-g002.png
-#####c
-
-#####
-# diet
-#####o
-# scientific consensus
-<https://jandonline.org/article/S0002-8223(09)00700-7/fulltext> <https://sci-hub.tw/10.1016/j.jada.2009.05.027> It is the position of the American Dietetic Association that appropriately planned vegetarian diets, including total vegetarian or vegan diets, are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases.
-
-# nutrients
-nutrients by diet in Switzerland: <https://link.springer.com/article/10.1007%2Fs00394-015-1079-7> <https://sci-hub.tw/10.1007/s00394-015-1079-7> https://cdn.discordapp.com/attachments/418850379518705675/648356343069278213/unknown.png
-
-# relapse
-https://www.sciencealert.com/new-study-reveals-84-of-vegetarians-return-to-meat
-https://www.pewresearch.org/science/2016/12/01/public-views-about-americans-eating-habits/
-https://news.gallup.com/poll/238328/snapshot-few-americans-vegetarian-vegan.aspx
-https://cdn.discordapp.com/attachments/538143444195868694/613033130785243146/unknown.png
-https://www.vox.com/2014/8/21/6053187/cropland-map-food-fuel-animal-feed
-http://css.umich.edu/factsheets/carbon-footprint-factsheet
-
-# ghg emissions
-vegan-vegetarian-pescetarian diets are associated with significantly reduced GHG emissions and land use, but insignificantly changed water use: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165797> https://cdn.discordapp.com/attachments/418850379518705675/635718330728185856/unknown.png
-
-# animal abilities
-many animals have the ability to count: <https://www.nytimes.com/2018/02/05/science/animals-count-numbers.html> <http://archive.is/Oi6ql> 
 #####c
 
 #####
