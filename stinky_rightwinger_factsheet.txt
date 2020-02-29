@@ -1665,9 +1665,12 @@ a variety of advances in quantum physics: <https://en.wikipedia.org/wiki/Sylvest
 # measure: regression
 10 adolescent variables explain 50% of the black-white difference in IQ: <https://gssdataexplorer.norc.org/> https://cdn.discordapp.com/attachments/418850379518705675/640930413094895626/unknown.png
 
-# measure: education
+# measure: education: naep
 the black-white performance gap has hugely declined between 1940 and 1980; the major gaps are now those of income and wealth: <https://cepa.stanford.edu/sites/default/files/reardon%20whither%20opportunity%20-%20chapter%205.pdf> https://cdn.discordapp.com/attachments/418850379518705675/471542461886365696/unknown.png
 since 1980, massive advancements have been made in reducing the black-white, Hispanic-white, and poor-rich gaps in reading, mathetmatics, and dropout rates: <https://www.usccr.gov/pubs/2018/2018-01-10-Education-Inequity.pdf> https://cdn.discordapp.com/attachments/418850379518705675/563595783702577153/unknown.png
+^ critique of NAEP: <https://archive.org/details/EarlHuntHumanIntelligence2010> ```After conducting extensive analyses of a variety of national educational assessments, Hedges and Nowell concluded that the reduction in the gap was largely due to a reduction in the proportion of African American students in the lowest ranks of the test scores. They did not find an increase in the proportion of African Americans in the highest ranks.143 Consistent with this position, the achievement gap in the NAEP is mirrored by a similar gap in SAT scores, which indicates group differences in cognitive skill in the self-selected, but socially important, subset of students who intend to obtain education beyond high school (Figure 11.25).```
+
+# measure: education: dropout
 the highschool graduation rate has hugely increased for black and Hispanic youth: <https://www.pewsocialtrends.org/2018/11/15/early-benchmarks-show-post-millennials-on-track-to-be-most-diverse-best-educated-generation-yet/> https://cdn.discordapp.com/attachments/418850379518705675/617790581409841152/unknown.png
 although nonwhites are underrepresented in STEM fields, they are not overwhelmingly so: <https://www.pewresearch.org/fact-tank/2018/01/09/7-facts-about-the-stem-workforce/> https://cdn.discordapp.com/attachments/418850379518705675/640930506627874826/FT_18.png
 
@@ -1694,7 +1697,8 @@ the reverse Flynn effect occurs *within* families as well, suggesting genetics (
 the white-black iq gap in the USA is predicted to drop to 5 points by 2060: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603674/> https://cdn.discordapp.com/attachments/418850379518705675/470991282747998208/pone.png White-Black gaps from currently 11.1 IQ decrease to 6.5 IQ (optimistic model, Table 5) or 6.7 IQ (pessimistic model, Table 6), White-Hispanic gaps from 8.7 IQ to 3.5 IQ (op.) or 3.0 IQ (pe.)[.]
 
 # measure: sub-saharan africa
-sub-saharan african IQ is estimated at 82.6; pre-2006 IQ at 78 (table 2 has sample populations); Lynn and Jensen systematically excluded higher-IQ estimate studies without any valid methodological reason: <https://www.sciencedirect.com/science/article/pii/S0160289609000634> <http://sci-hub.tw/10.1016/j.intell.2009.05.002> https://cdn.discordapp.com/attachments/418850379518705675/570828145733795850/unknown.png
+Wicherts 2010: sub-saharan african IQ is estimated at 82.6; pre-2006 IQ at 78 (table 2 has sample populations); Lynn and Jensen systematically excluded higher-IQ estimate studies without any valid methodological reason: <https://www.sciencedirect.com/science/article/pii/S0160289609000634> <http://sci-hub.tw/10.1016/j.intell.2009.05.002> https://cdn.discordapp.com/attachments/418850379518705675/570828145733795850/unknown.png
+Rindermann 2013: sub-saharan African IQ is estimated at 75: <https://www.sciencedirect.com/science/article/abs/pii/S0191886912003741> <https://sci-hub.se/10.1016/j.paid.2012.06.022> The described IQ means vary between IQ 68 and 78. Averaging the given means for 2010 results in an estimated IQ of around 75 for African majority countries.
 abut 260 million children are not and will not be in school (and it would cost just ~10 billion per year to fix that): <https://www.theguardian.com/commentisfree/2018/may/11/260-million-school-global-fund-child-marriage-trafficking-labour> 
 
 # environment: lead
@@ -5057,6 +5061,14 @@ https://news.gallup.com/poll/238328/snapshot-few-americans-vegetarian-vegan.aspx
 https://cdn.discordapp.com/attachments/538143444195868694/613033130785243146/unknown.png
 https://www.vox.com/2014/8/21/6053187/cropland-map-food-fuel-animal-feed
 http://css.umich.edu/factsheets/carbon-footprint-factsheet
+https://www.pewresearch.org/science/2016/12/01/the-new-food-fights/
+https://animalcharityevaluators.org/blog/is-the-percentage-of-vegetarians-and-vegans-in-the-u-s-increasing/#analysis
+https://www.sciencealert.com/new-study-reveals-84-of-vegetarians-return-to-meat
+https://www.fastcompany.com/3039505/the-vast-majority-of-vegetarians-and-vegans-eventually-return-to-meat
+https://faunalytics.org/wp-content/uploads/2015/06/Faunalytics_Current-Former-Vegetarians_Full-Report.pdf
+https://faunalytics.org/wp-content/uploads/2014/12/HRC-Study-of-Current-Former-Vegetarians-Vegans-Dec-2014-Tables-Methodology-1.pdf
+https://sci-hub.tw/10.1016/j.appet.2013.02.009
+https://veganoutreach.org/humane-research-council-survey-on-vegetarian-recidivism/
 #####c
 
 #####
@@ -5065,8 +5077,11 @@ http://css.umich.edu/factsheets/carbon-footprint-factsheet
 # effects: meat consumption
 in the USA, cats and dogs consume 203/(1051+203)=16.1% of food calories (1 in 6 food products go to pets) and 25% of meat calories (1 in 4 meat products go to pets): <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181301> <https://sci-hub.se/10.1371/journal.pone.0181301> https://cdn.discordapp.com/attachments/418850379518705675/683304143712026624/unknown.png
 
+# effects: economic benefits
+<https://search.informit.com.au/documentSummary;dn=674270738133649;res=IELBUS> 
+
 # effects: health benefits
-<https://link.springer.com/article/10.1007/s11205-007-9142-2> <https://sci-hub.se/10.1007/s11205-007-9142-2> 
+in China, whose cities recently allowed pet ownership, dog ownership among young-middle-aged women was associated with positive health outcomes: <https://link.springer.com/article/10.1007/s11205-007-9142-2> <https://sci-hub.se/10.1007/s11205-007-9142-2> https://cdn.discordapp.com/attachments/418850379518705675/683306620003942445/unknown.png
 
 # effects: psychological benefits
 stated benefits of pets among Swedish respondents: <https://brill.com/view/journals/soan/27/5-6/article-p595_7.xml> <https://sci-hub.se/10.1163/15685306-12341494> https://cdn.discordapp.com/attachments/418850379518705675/683301579302240285/unknown.png
